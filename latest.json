@@ -1,0 +1,30 @@
+{
+  "version": "0.15.2",
+  "file": "Tallkeep-Setup-0.15.2.exe",
+  "sha256": "ead4dc44451c22a8fc957185509d71f882a6a35776df5d40513e387a55486104",
+  "size": 123717369,
+  "notes": "Home: Shoebox drop card; personal books show net worth, spending, bills and waiting lines on top.",
+  "date": "2026-10-31T02:25:47.324Z",
+  "parts": [
+    {
+      "name": "Tallkeep-Setup-0.15.2.exe.part0",
+      "size": 47185920,
+      "sha256": "2f2b2b68e80a21a1c223dfefe79c9344aebd1a643a84a402889567e7d7142d25"
+    },
+    {
+      "name": "Tallkeep-Setup-0.15.2.exe.part1",
+      "size": 47185920,
+      "sha256": "40c9a6a3ddd6e641989236235781e33bc6bd6b1d1d11637f4d5af4b8151fbdeb"
+    },
+    {
+      "name": "Tallkeep-Setup-0.15.2.exe.part2",
+      "size": 29345529,
+      "sha256": "8b215d28c009e8361076d027f59c79bf54e0fcc7b6514b12809c5a46d7c90426"
+    }
+  ],
+  "server": {
+    "file": "tallkeep-server-0.15.2.tgz",
+    "sha256": "26dd282d310566cc0e43c6d965928318008563c1e3e3773676c1508c01c67b45",
+    "size": 4688022
+  }
+}

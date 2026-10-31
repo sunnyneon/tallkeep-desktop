@@ -1,0 +1,24 @@
+# Tallkeep in Docker. Put the files from tallkeep-docker.zip in a folder (for example
+# /volume1/docker/tallkeep on a Synology) and run:  docker compose up -d --build
+# Then open http://<this computer's name or address>:4600
+services:
+  tallkeep:
+    build: .
+    image: tallkeep:latest
+    container_name: tallkeep
+    restart: unless-stopped
+    # Use the server's own network, so other Tallkeep computers in the office find it by
+    # themselves and Settings shows the right address. (Tallkeep uses port 4600.)
+    network_mode: host
+    volumes:
+      - ./data:/data          # your books: database, attached files, settings, license
+      - ./backups:/backups    # nightly backups (point this at another drive if you can)
+    environment:
+      # Optional: the address people in the office type to open Tallkeep, if Settings shows the
+      # wrong one, like "http://192.168.1.20:4600".
+      TALLKEEP_PUBLIC_URL: ""
+      # Your time zone, for the nightly backup time.
+      TZ: "America/Chicago"
+      # 1 = pick up new versions of Tallkeep when the container starts (as your license allows).
+      TALLKEEP_AUTO_UPDATE: "1"
+    stop_grace_period: 60s    # time for the database to close cleanly
