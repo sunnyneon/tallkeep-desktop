@@ -1,30 +1,30 @@
 {
-  "version": "0.18.0",
-  "file": "Tallkeep-Setup-0.18.0.exe",
-  "sha256": "4163c35dafeb67e46f0ef02bc4aa8402b831918a411c4912d07503d28fe1f080",
-  "size": 123817929,
-  "notes": "Claude keys work. Backup AI: when the first AI is busy or fails, Tallkeep asks the second one. Retired AI model names no longer stop the AI.",
-  "date": "2026-11-03T21:36:43.727Z",
+  "version": "0.18.1",
+  "file": "Tallkeep-Setup-0.18.1.exe",
+  "sha256": "19f6c956a8ba441a6737f6b3dc2fcd125ec46306e206d28d2a274d010b261445",
+  "size": 123823747,
+  "notes": "Shoebox reads investment and retirement statements. Checks you get are deposited into the bank. Personal books post checks, deposits and bills.",
+  "date": "2026-11-03T21:59:31.808Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.18.0.exe.part0",
+      "name": "Tallkeep-Setup-0.18.1.exe.part0",
       "size": 47185920,
-      "sha256": "cde408e54c9a58099645a30a84cc9947512813c4bdce5a6d945d810aebc545cd"
+      "sha256": "ba537c9bea7ce5a260f4e79b4c233b6b5a6ae23f95953ab31a69575f61536c3c"
     },
     {
-      "name": "Tallkeep-Setup-0.18.0.exe.part1",
+      "name": "Tallkeep-Setup-0.18.1.exe.part1",
       "size": 47185920,
-      "sha256": "84f40d2e74f21f1370be096736e7499a6a9bdba1fa511e53625294d088381948"
+      "sha256": "71475cd47acd2ddf6d5e875e316385fa4294cf86429bc35526b075210edc0f8c"
     },
     {
-      "name": "Tallkeep-Setup-0.18.0.exe.part2",
-      "size": 29446089,
-      "sha256": "ce70855982982633654fa22980e9a3f70be7defbc5ffc35c2b6d96672eed5aa5"
+      "name": "Tallkeep-Setup-0.18.1.exe.part2",
+      "size": 29451907,
+      "sha256": "d433a9d02715701ac7ca6526d2a76f38b7fbbc37af66651933f71d1a54002df9"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.18.0.tgz",
-    "sha256": "98817f7e34f39e3c54e3f5824ded45349dea9df40bd1a6fdc64f3b7149eda627",
-    "size": 4757099
+    "file": "tallkeep-server-0.18.1.tgz",
+    "sha256": "73344006b40588cee6e9c97d4d7cdc64b0d6a58c0e5c6e820b939f269909bc72",
+    "size": 4763500
   }
 }
