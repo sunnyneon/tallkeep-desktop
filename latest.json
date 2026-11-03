@@ -1,0 +1,30 @@
+{
+  "version": "0.17.8",
+  "file": "Tallkeep-Setup-0.17.8.exe",
+  "sha256": "16907d019f245ba555c1c94c671a2bb73fc9306e480d5d630b0c7dd5927c7890",
+  "size": 123814514,
+  "notes": "AI & Usage shows how to get a free Google Gemini key, step by step.",
+  "date": "2026-11-03T17:16:27.391Z",
+  "parts": [
+    {
+      "name": "Tallkeep-Setup-0.17.8.exe.part0",
+      "size": 47185920,
+      "sha256": "989f0affa8c9d1976020f92ae920aca8f923ab4f9f57aea60bce8fa2abb75962"
+    },
+    {
+      "name": "Tallkeep-Setup-0.17.8.exe.part1",
+      "size": 47185920,
+      "sha256": "4193ceb75189a7df60cfd26cecd85f4d615681ca688cdbd86afe9744e4621afc"
+    },
+    {
+      "name": "Tallkeep-Setup-0.17.8.exe.part2",
+      "size": 29442674,
+      "sha256": "edaefea257f1f88a039a9132c3dc48370f6479fbbfc72bb3173ca31942224205"
+    }
+  ],
+  "server": {
+    "file": "tallkeep-server-0.17.8.tgz",
+    "sha256": "95ce8599085e3ccaefc5a0ae566f1af0cdef8ffcd11f27accfa7fb0b85ca28c4",
+    "size": 4752171
+  }
+}
