@@ -1,30 +1,30 @@
 {
-  "version": "0.17.8",
-  "file": "Tallkeep-Setup-0.17.8.exe",
-  "sha256": "16907d019f245ba555c1c94c671a2bb73fc9306e480d5d630b0c7dd5927c7890",
-  "size": 123814514,
-  "notes": "AI & Usage shows how to get a free Google Gemini key, step by step.",
-  "date": "2026-11-03T17:16:27.391Z",
+  "version": "0.17.9",
+  "file": "Tallkeep-Setup-0.17.9.exe",
+  "sha256": "c8276091989d317054bca8ee3ba7d62116116ad8222df5c8fdd42ede220f2c7e",
+  "size": 123823800,
+  "notes": "Shoebox works again when Tallkeep is opened from the office server's address (scanned checks, bills and photos).",
+  "date": "2026-11-03T20:56:14.838Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.17.8.exe.part0",
+      "name": "Tallkeep-Setup-0.17.9.exe.part0",
       "size": 47185920,
-      "sha256": "989f0affa8c9d1976020f92ae920aca8f923ab4f9f57aea60bce8fa2abb75962"
+      "sha256": "88a9bdd4476fb09d87bf0508b62a4a8e2e6ab1e085b50ba8ef293e42ad9e296d"
     },
     {
-      "name": "Tallkeep-Setup-0.17.8.exe.part1",
+      "name": "Tallkeep-Setup-0.17.9.exe.part1",
       "size": 47185920,
-      "sha256": "4193ceb75189a7df60cfd26cecd85f4d615681ca688cdbd86afe9744e4621afc"
+      "sha256": "5741beda9441ac6304b3de57253f022a3dfbaf01ac998afeee836caafe194439"
     },
     {
-      "name": "Tallkeep-Setup-0.17.8.exe.part2",
-      "size": 29442674,
-      "sha256": "edaefea257f1f88a039a9132c3dc48370f6479fbbfc72bb3173ca31942224205"
+      "name": "Tallkeep-Setup-0.17.9.exe.part2",
+      "size": 29451960,
+      "sha256": "203dd87f4e620fff7b15365fd1751d9a2a9d26c31c3d8588a0b3d9a93423e403"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.17.8.tgz",
-    "sha256": "95ce8599085e3ccaefc5a0ae566f1af0cdef8ffcd11f27accfa7fb0b85ca28c4",
-    "size": 4752171
+    "file": "tallkeep-server-0.17.9.tgz",
+    "sha256": "3d15e7c9ea851d3b1073ab3e7056bed08fb771b19c04140e9f719bbc793fc493",
+    "size": 4755458
   }
 }
