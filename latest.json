@@ -1,30 +1,30 @@
 {
-  "version": "0.17.9",
-  "file": "Tallkeep-Setup-0.17.9.exe",
-  "sha256": "c8276091989d317054bca8ee3ba7d62116116ad8222df5c8fdd42ede220f2c7e",
-  "size": 123823800,
-  "notes": "Shoebox works again when Tallkeep is opened from the office server's address (scanned checks, bills and photos).",
-  "date": "2026-11-03T20:56:14.838Z",
+  "version": "0.18.0",
+  "file": "Tallkeep-Setup-0.18.0.exe",
+  "sha256": "4163c35dafeb67e46f0ef02bc4aa8402b831918a411c4912d07503d28fe1f080",
+  "size": 123817929,
+  "notes": "Claude keys work. Backup AI: when the first AI is busy or fails, Tallkeep asks the second one. Retired AI model names no longer stop the AI.",
+  "date": "2026-11-03T21:36:43.727Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.17.9.exe.part0",
+      "name": "Tallkeep-Setup-0.18.0.exe.part0",
       "size": 47185920,
-      "sha256": "88a9bdd4476fb09d87bf0508b62a4a8e2e6ab1e085b50ba8ef293e42ad9e296d"
+      "sha256": "cde408e54c9a58099645a30a84cc9947512813c4bdce5a6d945d810aebc545cd"
     },
     {
-      "name": "Tallkeep-Setup-0.17.9.exe.part1",
+      "name": "Tallkeep-Setup-0.18.0.exe.part1",
       "size": 47185920,
-      "sha256": "5741beda9441ac6304b3de57253f022a3dfbaf01ac998afeee836caafe194439"
+      "sha256": "84f40d2e74f21f1370be096736e7499a6a9bdba1fa511e53625294d088381948"
     },
     {
-      "name": "Tallkeep-Setup-0.17.9.exe.part2",
-      "size": 29451960,
-      "sha256": "203dd87f4e620fff7b15365fd1751d9a2a9d26c31c3d8588a0b3d9a93423e403"
+      "name": "Tallkeep-Setup-0.18.0.exe.part2",
+      "size": 29446089,
+      "sha256": "ce70855982982633654fa22980e9a3f70be7defbc5ffc35c2b6d96672eed5aa5"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.17.9.tgz",
-    "sha256": "3d15e7c9ea851d3b1073ab3e7056bed08fb771b19c04140e9f719bbc793fc493",
-    "size": 4755458
+    "file": "tallkeep-server-0.18.0.tgz",
+    "sha256": "98817f7e34f39e3c54e3f5824ded45349dea9df40bd1a6fdc64f3b7149eda627",
+    "size": 4757099
   }
 }
