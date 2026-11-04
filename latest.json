@@ -1,30 +1,30 @@
 {
-  "version": "0.18.8",
-  "file": "Tallkeep-Setup-0.18.8.exe",
-  "sha256": "1b1f0a7da0f822d12407cf45caf51441dcbc57360383c85b8acaae45bdc42cce",
-  "size": 123841272,
-  "notes": "Documents page: every file in one place, a year as a zip for your CPA. Investments and crypto for taxes in Taxes & CPA. Bank Feeds suggests transfers to your investment accounts.",
-  "date": "2026-11-04T16:09:06.184Z",
+  "version": "0.18.9",
+  "file": "Tallkeep-Setup-0.18.9.exe",
+  "sha256": "6e729729c242c7a3eb1856591fda1af074233255c32fdb280c054ec4a3c6a89a",
+  "size": 123865226,
+  "notes": "Barcodes: add a new item from a photo or barcode, give new codes to an item, print barcode labels, scan on count sheets, orders, invoices and receiving. Product photos show on desktop.",
+  "date": "2026-11-04T16:32:53.837Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.18.8.exe.part0",
+      "name": "Tallkeep-Setup-0.18.9.exe.part0",
       "size": 47185920,
-      "sha256": "ea9055e1659011d87fb32e35c748fe525d734c022e7adfc2c7a19d51b9614608"
+      "sha256": "47e1c3ca5e0ea92c885e75df3fd6d13b1416614398ec12e005c119fba4cca93a"
     },
     {
-      "name": "Tallkeep-Setup-0.18.8.exe.part1",
+      "name": "Tallkeep-Setup-0.18.9.exe.part1",
       "size": 47185920,
-      "sha256": "394a503f805972319edcd52474447632bb8fd74d3cf07d1b464bb332ad4a47e2"
+      "sha256": "f14262d2349eafaae11fab9417d2edb833f64c5d3bc084fe39fa2fc454b247a3"
     },
     {
-      "name": "Tallkeep-Setup-0.18.8.exe.part2",
-      "size": 29469432,
-      "sha256": "bc665f23d7bfeee16905b0b734ab0e40ae80fba308a92c79f3e6fcd25544c7c6"
+      "name": "Tallkeep-Setup-0.18.9.exe.part2",
+      "size": 29493386,
+      "sha256": "49c078a53dc3c1ef117f5158f22de1c0916e2a3dd021dc34b348ddd5c97fa9dc"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.18.8.tgz",
-    "sha256": "1193396099f84e8c984e7c8ca2ab999d13422fa24bcdace097a5dc98a0343fd1",
-    "size": 4793454
+    "file": "tallkeep-server-0.18.9.tgz",
+    "sha256": "b987b4b87c66e2aa1f072dfbb678b3b3f599b2dd704a889544b0ecb00e09e53c",
+    "size": 4816340
   }
 }
