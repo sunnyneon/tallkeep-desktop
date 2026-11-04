@@ -1,30 +1,30 @@
 {
-  "version": "0.18.3",
-  "file": "Tallkeep-Setup-0.18.3.exe",
-  "sha256": "6c8fe50afff81e658e78ee2104957385a2d446990ffb10f686ada92d29bde75d",
-  "size": 123836556,
-  "notes": "Investment statements read the full Holdings table: shares, prices and what each cost. Older statements don't overwrite newer ones.",
-  "date": "2026-11-03T23:47:56.379Z",
+  "version": "0.18.4",
+  "file": "Tallkeep-Setup-0.18.4.exe",
+  "sha256": "05383ca051790b47a23289f7b8a1e95c058a5d4e961683bbabb0cd54192da9a7",
+  "size": 123821279,
+  "notes": "Shoebox: Read it again and Remove from the Shoebox on finished items.",
+  "date": "2026-11-04T14:30:52.550Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.18.3.exe.part0",
+      "name": "Tallkeep-Setup-0.18.4.exe.part0",
       "size": 47185920,
-      "sha256": "dfe1b31010453dae89135ee7bb91549eea222c80e21755fd7b4123e6d0a9e551"
+      "sha256": "20c377a021bdc13c3d2bcb16f57c4c598adb190666c619ecbb454321bdbc2d73"
     },
     {
-      "name": "Tallkeep-Setup-0.18.3.exe.part1",
+      "name": "Tallkeep-Setup-0.18.4.exe.part1",
       "size": 47185920,
-      "sha256": "60fee8a86f9bfdbb341d804d41d4abf10bed10761481f8ab0780b38a44ead330"
+      "sha256": "181f5294e8d3ec7a9749e9bcb6eb57a66b119ca0bd3b2a59bbfa3b71e98ca5cb"
     },
     {
-      "name": "Tallkeep-Setup-0.18.3.exe.part2",
-      "size": 29464716,
-      "sha256": "46b38dcdf76bb2bcebb092d7216d4239f9bf63e8fb8fcee46dab2eadf71788e0"
+      "name": "Tallkeep-Setup-0.18.4.exe.part2",
+      "size": 29449439,
+      "sha256": "f6c78140832e939f7d18a1191f71b95dd17b1379c3808f81786d597e4e238432"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.18.3.tgz",
-    "sha256": "f71d4216f235a3ea0ebf2c299d423856f7875ebf62c30bd736c7307fa03f643d",
-    "size": 4771007
+    "file": "tallkeep-server-0.18.4.tgz",
+    "sha256": "54ee4a83cb23c25fb64c9360a78d31868d28d689b3ce88c47b34915618edec82",
+    "size": 4770906
   }
 }
