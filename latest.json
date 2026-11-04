@@ -1,30 +1,30 @@
 {
-  "version": "0.18.4",
-  "file": "Tallkeep-Setup-0.18.4.exe",
-  "sha256": "05383ca051790b47a23289f7b8a1e95c058a5d4e961683bbabb0cd54192da9a7",
-  "size": 123821279,
-  "notes": "Shoebox: Read it again and Remove from the Shoebox on finished items.",
-  "date": "2026-11-04T14:30:52.550Z",
+  "version": "0.18.5",
+  "file": "Tallkeep-Setup-0.18.5.exe",
+  "sha256": "e8cea5320d7b001d06394fe7176d658982208b1540292de88fb16ecb4d5e214c",
+  "size": 123825326,
+  "notes": "Shoebox is in the main menu, right under Home.",
+  "date": "2026-11-04T14:36:59.064Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.18.4.exe.part0",
+      "name": "Tallkeep-Setup-0.18.5.exe.part0",
       "size": 47185920,
-      "sha256": "20c377a021bdc13c3d2bcb16f57c4c598adb190666c619ecbb454321bdbc2d73"
+      "sha256": "d7ee312eea079d76e255b0fee40f4dc86bb7a9bc905201d6ceef8fbdaee3b035"
     },
     {
-      "name": "Tallkeep-Setup-0.18.4.exe.part1",
+      "name": "Tallkeep-Setup-0.18.5.exe.part1",
       "size": 47185920,
-      "sha256": "181f5294e8d3ec7a9749e9bcb6eb57a66b119ca0bd3b2a59bbfa3b71e98ca5cb"
+      "sha256": "ec9083c897dc27aafa678e641bce35b6c69e1ac74f8ee0f0c67a6455e880d34e"
     },
     {
-      "name": "Tallkeep-Setup-0.18.4.exe.part2",
-      "size": 29449439,
-      "sha256": "f6c78140832e939f7d18a1191f71b95dd17b1379c3808f81786d597e4e238432"
+      "name": "Tallkeep-Setup-0.18.5.exe.part2",
+      "size": 29453486,
+      "sha256": "2ac63025d50701dc08090ab226bc8c6bf1d3e8242a77366edbda164a0fb832ea"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.18.4.tgz",
-    "sha256": "54ee4a83cb23c25fb64c9360a78d31868d28d689b3ce88c47b34915618edec82",
-    "size": 4770906
+    "file": "tallkeep-server-0.18.5.tgz",
+    "sha256": "dd3c33ca9722ea016bfea0e604eadb069e1f112ac73daf2ee41744315fd04126",
+    "size": 4773783
   }
 }
