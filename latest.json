@@ -1,30 +1,30 @@
 {
-  "version": "0.18.7",
-  "file": "Tallkeep-Setup-0.18.7.exe",
-  "sha256": "87a0084106eaac8b0a24db6a3bc4778985635c134aa4dd1b20cb0539c74de337",
-  "size": 123819633,
-  "notes": "Investments show what the statements say this year: change in value, realized gains from sales, dividends and interest. Paper gain on what you hold now is shown apart.",
-  "date": "2026-11-04T15:27:02.816Z",
+  "version": "0.18.8",
+  "file": "Tallkeep-Setup-0.18.8.exe",
+  "sha256": "1b1f0a7da0f822d12407cf45caf51441dcbc57360383c85b8acaae45bdc42cce",
+  "size": 123841272,
+  "notes": "Documents page: every file in one place, a year as a zip for your CPA. Investments and crypto for taxes in Taxes & CPA. Bank Feeds suggests transfers to your investment accounts.",
+  "date": "2026-11-04T16:09:06.184Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.18.7.exe.part0",
+      "name": "Tallkeep-Setup-0.18.8.exe.part0",
       "size": 47185920,
-      "sha256": "5818b087564d0204788956256b9d13fd84a83e53d3fa5f4410f77ad057173e1e"
+      "sha256": "ea9055e1659011d87fb32e35c748fe525d734c022e7adfc2c7a19d51b9614608"
     },
     {
-      "name": "Tallkeep-Setup-0.18.7.exe.part1",
+      "name": "Tallkeep-Setup-0.18.8.exe.part1",
       "size": 47185920,
-      "sha256": "d2219489abf3d7bbca62d3845fda0cf2ab8611df165ba4f1d546feb8a26cd2ef"
+      "sha256": "394a503f805972319edcd52474447632bb8fd74d3cf07d1b464bb332ad4a47e2"
     },
     {
-      "name": "Tallkeep-Setup-0.18.7.exe.part2",
-      "size": 29447793,
-      "sha256": "cca73ca13d241ad07de774be2ac3559ca2da8cedbbe5a8f06a4e5ad45206fcc1"
+      "name": "Tallkeep-Setup-0.18.8.exe.part2",
+      "size": 29469432,
+      "sha256": "bc665f23d7bfeee16905b0b734ab0e40ae80fba308a92c79f3e6fcd25544c7c6"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.18.7.tgz",
-    "sha256": "c135597076e601aef32a9288355198329082a385553d57248cd459a764a812aa",
-    "size": 4779097
+    "file": "tallkeep-server-0.18.8.tgz",
+    "sha256": "1193396099f84e8c984e7c8ca2ab999d13422fa24bcdace097a5dc98a0343fd1",
+    "size": 4793454
   }
 }
