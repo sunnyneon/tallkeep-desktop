@@ -1,30 +1,30 @@
 {
-  "version": "0.18.6",
-  "file": "Tallkeep-Setup-0.18.6.exe",
-  "sha256": "74f166be613d92ed20cc95566258614950c8316d994320f88b62cd0a3b106b1c",
-  "size": 123826846,
-  "notes": "Shoebox: search, filter by kind, by month, last 90 days with older on request. Remove from the list keeps the file; Delete the file asks first.",
-  "date": "2026-11-04T15:17:32.322Z",
+  "version": "0.18.7",
+  "file": "Tallkeep-Setup-0.18.7.exe",
+  "sha256": "87a0084106eaac8b0a24db6a3bc4778985635c134aa4dd1b20cb0539c74de337",
+  "size": 123819633,
+  "notes": "Investments show what the statements say this year: change in value, realized gains from sales, dividends and interest. Paper gain on what you hold now is shown apart.",
+  "date": "2026-11-04T15:27:02.816Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.18.6.exe.part0",
+      "name": "Tallkeep-Setup-0.18.7.exe.part0",
       "size": 47185920,
-      "sha256": "8f94ce71e2b6ef990cde5848f88d6eb34fb7f7139e24741485cc422e436f5121"
+      "sha256": "5818b087564d0204788956256b9d13fd84a83e53d3fa5f4410f77ad057173e1e"
     },
     {
-      "name": "Tallkeep-Setup-0.18.6.exe.part1",
+      "name": "Tallkeep-Setup-0.18.7.exe.part1",
       "size": 47185920,
-      "sha256": "452eee0648bc12d6c4edbeb6f38692088a32dff1dacf0877b9c7e75df188e764"
+      "sha256": "d2219489abf3d7bbca62d3845fda0cf2ab8611df165ba4f1d546feb8a26cd2ef"
     },
     {
-      "name": "Tallkeep-Setup-0.18.6.exe.part2",
-      "size": 29455006,
-      "sha256": "761dcb80c7aed366831b344740a7a36a158dc03b0eded49dba6fca1d32a7a49d"
+      "name": "Tallkeep-Setup-0.18.7.exe.part2",
+      "size": 29447793,
+      "sha256": "cca73ca13d241ad07de774be2ac3559ca2da8cedbbe5a8f06a4e5ad45206fcc1"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.18.6.tgz",
-    "sha256": "046febb4cfc7f70fa2678281f3157cb0861d699b8baf202a736e418edb0d8125",
-    "size": 4775320
+    "file": "tallkeep-server-0.18.7.tgz",
+    "sha256": "c135597076e601aef32a9288355198329082a385553d57248cd459a764a812aa",
+    "size": 4779097
   }
 }
