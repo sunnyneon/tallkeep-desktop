@@ -1,30 +1,30 @@
 {
-  "version": "0.19.0",
-  "file": "Tallkeep-Setup-0.19.0.exe",
-  "sha256": "4b17ba0e18ffb24a8b9c967b63a26b6160472a7d6c5d224c38e337b4bc21cbaa",
-  "size": 123849395,
-  "notes": "Add new right in the list, like inFlow: a new customer, vendor, terms, location, sales rep or category without leaving the invoice, quote, order or bill.",
-  "date": "2026-11-05T15:00:34.329Z",
+  "version": "0.19.1",
+  "file": "Tallkeep-Setup-0.19.1.exe",
+  "sha256": "a6ae5c136800291ece9c9a2804dd904e67fd1bd36223d5672b20c1d1fcb5da5b",
+  "size": 123848548,
+  "notes": "Fix: after an update, people already set up are no longer sent to the Welcome page while the server restarts.",
+  "date": "2026-11-05T15:07:29.813Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.19.0.exe.part0",
+      "name": "Tallkeep-Setup-0.19.1.exe.part0",
       "size": 47185920,
-      "sha256": "602be7e66d30d3fd6d125eff1a4f0f0fde6b53f0b28d062117b0f6eb428e45bc"
+      "sha256": "dbd3fa98ed56d5b51fe34c45566da0b86e2812bfa8d3886b3d4ea4c2bf2b85aa"
     },
     {
-      "name": "Tallkeep-Setup-0.19.0.exe.part1",
+      "name": "Tallkeep-Setup-0.19.1.exe.part1",
       "size": 47185920,
-      "sha256": "beb2a051085e94a419bb8636ebb560ef763a15f8a5dac0d79cce1ea8a5d3caea"
+      "sha256": "282ab4efed05f528beb63c67a99470a78cdb2a8207c0182ef60f445954cf0fd9"
     },
     {
-      "name": "Tallkeep-Setup-0.19.0.exe.part2",
-      "size": 29477555,
-      "sha256": "6f8ecce5afafdeb8a590fab32a30a03f892522c82a6e7fd64861601558d61027"
+      "name": "Tallkeep-Setup-0.19.1.exe.part2",
+      "size": 29476708,
+      "sha256": "e77bdfb0ec27861988711aabd6e69f8b44ff07e4390fb8df61df04c8931144f6"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.19.0.tgz",
-    "sha256": "00f2b075eff841393c7a60d1559520e9b88e8cf254739d4685a96874be1ed0b0",
-    "size": 4818579
+    "file": "tallkeep-server-0.19.1.tgz",
+    "sha256": "2cf06590ef5892679d2fd5990ea1b5d8715137fc7edb3567201ce17eefe7a471",
+    "size": 4819720
   }
 }
