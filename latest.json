@@ -1,30 +1,30 @@
 {
-  "version": "0.19.3",
-  "file": "Tallkeep-Setup-0.19.3.exe",
-  "sha256": "d3f7d93dfcfd08c02acac8ab567313627d6fcb76658da45041cb7f96ce366e0c",
-  "size": 123858063,
-  "notes": "Copy buttons work on the office network again (like Copy Pay now link). Emailed invoices now have a Pay now by card button on the PDF as well as in the email.",
-  "date": "2026-11-05T15:36:41.751Z",
+  "version": "0.19.4",
+  "file": "Tallkeep-Setup-0.19.4.exe",
+  "sha256": "97adfcd1228bd581d7c6fddea2b5d4378cb2e1ec6f3971afe6e4fcd6df6938fb",
+  "size": 123861592,
+  "notes": "A cleaner top: the window title now says Tallkeep and your edition (like other desktop programs), and the big menu logo is gone.",
+  "date": "2026-11-05T15:59:22.356Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.19.3.exe.part0",
+      "name": "Tallkeep-Setup-0.19.4.exe.part0",
       "size": 47185920,
-      "sha256": "3fbc398dacbcb099d02b215f5ecfe0c69133d0dd189b1fe881c0d3be6015a102"
+      "sha256": "7cff94364cc9226893d0934434daf6de37f22c252177362ec51158ac175d7785"
     },
     {
-      "name": "Tallkeep-Setup-0.19.3.exe.part1",
+      "name": "Tallkeep-Setup-0.19.4.exe.part1",
       "size": 47185920,
-      "sha256": "5425f049073909f27d71cff0a2a5d1e8a365ce0d99fb7e3005efbf0594f505b9"
+      "sha256": "39e15f1bdce3cc29e0cc908763a542261ea2996f626c9342fd52e15b55eeaaed"
     },
     {
-      "name": "Tallkeep-Setup-0.19.3.exe.part2",
-      "size": 29486223,
-      "sha256": "16c9c2e693ff1625e771e82c8d2b403603317eea24ad43f2875bff3a48f9c178"
+      "name": "Tallkeep-Setup-0.19.4.exe.part2",
+      "size": 29489752,
+      "sha256": "4cf0cda85e495048d83c7ef1fb2abed3e1a39592a66aeea9049b40fc2ed7348e"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.19.3.tgz",
-    "sha256": "33b19858127b26e0eab4013595e3684d42f4fb3de232742bdcc364d9aac3aed1",
-    "size": 4824818
+    "file": "tallkeep-server-0.19.4.tgz",
+    "sha256": "f48f38ab9d28e2108fc5eda50e24849236d914ab9fe07005fe36a117315ab04a",
+    "size": 4822958
   }
 }
