@@ -1,30 +1,30 @@
 {
-  "version": "0.19.2",
-  "file": "Tallkeep-Setup-0.19.2.exe",
-  "sha256": "0d8fdee95015af2e4a83ed4375a621ecd888ca6056de383b621df892fdd27591",
-  "size": 123857791,
-  "notes": "Your Tallkeep logo is back at the top of the menu. New versions now show on the main screen: a small New version button in the menu and a card with what's new, Update now, Remind me tomorrow and Skip this version.",
-  "date": "2026-11-05T15:18:50.904Z",
+  "version": "0.19.3",
+  "file": "Tallkeep-Setup-0.19.3.exe",
+  "sha256": "d3f7d93dfcfd08c02acac8ab567313627d6fcb76658da45041cb7f96ce366e0c",
+  "size": 123858063,
+  "notes": "Copy buttons work on the office network again (like Copy Pay now link). Emailed invoices now have a Pay now by card button on the PDF as well as in the email.",
+  "date": "2026-11-05T15:36:41.751Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.19.2.exe.part0",
+      "name": "Tallkeep-Setup-0.19.3.exe.part0",
       "size": 47185920,
-      "sha256": "65823c8ac63d6980042ece4a7f26f99d403abb0da44c2ebdd1275b2d8c47858a"
+      "sha256": "3fbc398dacbcb099d02b215f5ecfe0c69133d0dd189b1fe881c0d3be6015a102"
     },
     {
-      "name": "Tallkeep-Setup-0.19.2.exe.part1",
+      "name": "Tallkeep-Setup-0.19.3.exe.part1",
       "size": 47185920,
-      "sha256": "261a7a221ba38df756a9cc4d57d29015b2103d8f46d626fdb45c65213987860b"
+      "sha256": "5425f049073909f27d71cff0a2a5d1e8a365ce0d99fb7e3005efbf0594f505b9"
     },
     {
-      "name": "Tallkeep-Setup-0.19.2.exe.part2",
-      "size": 29485951,
-      "sha256": "9b097ba4b9801cf8cd5327efe0c80268d296cc4dd0e9a6fd2da1be6113066031"
+      "name": "Tallkeep-Setup-0.19.3.exe.part2",
+      "size": 29486223,
+      "sha256": "16c9c2e693ff1625e771e82c8d2b403603317eea24ad43f2875bff3a48f9c178"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.19.2.tgz",
-    "sha256": "353484f365c3c309aee1461ed504fa2bb0e01997ad5745013f5a982bfec3e87e",
-    "size": 4820546
+    "file": "tallkeep-server-0.19.3.tgz",
+    "sha256": "33b19858127b26e0eab4013595e3684d42f4fb3de232742bdcc364d9aac3aed1",
+    "size": 4824818
   }
 }
