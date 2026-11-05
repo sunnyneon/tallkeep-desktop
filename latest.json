@@ -1,30 +1,30 @@
 {
-  "version": "0.18.9",
-  "file": "Tallkeep-Setup-0.18.9.exe",
-  "sha256": "6e729729c242c7a3eb1856591fda1af074233255c32fdb280c054ec4a3c6a89a",
-  "size": 123865226,
-  "notes": "Barcodes: add a new item from a photo or barcode, give new codes to an item, print barcode labels, scan on count sheets, orders, invoices and receiving. Product photos show on desktop.",
-  "date": "2026-11-04T16:32:53.837Z",
+  "version": "0.19.0",
+  "file": "Tallkeep-Setup-0.19.0.exe",
+  "sha256": "4b17ba0e18ffb24a8b9c967b63a26b6160472a7d6c5d224c38e337b4bc21cbaa",
+  "size": 123849395,
+  "notes": "Add new right in the list, like inFlow: a new customer, vendor, terms, location, sales rep or category without leaving the invoice, quote, order or bill.",
+  "date": "2026-11-05T15:00:34.329Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.18.9.exe.part0",
+      "name": "Tallkeep-Setup-0.19.0.exe.part0",
       "size": 47185920,
-      "sha256": "47e1c3ca5e0ea92c885e75df3fd6d13b1416614398ec12e005c119fba4cca93a"
+      "sha256": "602be7e66d30d3fd6d125eff1a4f0f0fde6b53f0b28d062117b0f6eb428e45bc"
     },
     {
-      "name": "Tallkeep-Setup-0.18.9.exe.part1",
+      "name": "Tallkeep-Setup-0.19.0.exe.part1",
       "size": 47185920,
-      "sha256": "f14262d2349eafaae11fab9417d2edb833f64c5d3bc084fe39fa2fc454b247a3"
+      "sha256": "beb2a051085e94a419bb8636ebb560ef763a15f8a5dac0d79cce1ea8a5d3caea"
     },
     {
-      "name": "Tallkeep-Setup-0.18.9.exe.part2",
-      "size": 29493386,
-      "sha256": "49c078a53dc3c1ef117f5158f22de1c0916e2a3dd021dc34b348ddd5c97fa9dc"
+      "name": "Tallkeep-Setup-0.19.0.exe.part2",
+      "size": 29477555,
+      "sha256": "6f8ecce5afafdeb8a590fab32a30a03f892522c82a6e7fd64861601558d61027"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.18.9.tgz",
-    "sha256": "b987b4b87c66e2aa1f072dfbb678b3b3f599b2dd704a889544b0ecb00e09e53c",
-    "size": 4816340
+    "file": "tallkeep-server-0.19.0.tgz",
+    "sha256": "00f2b075eff841393c7a60d1559520e9b88e8cf254739d4685a96874be1ed0b0",
+    "size": 4818579
   }
 }
