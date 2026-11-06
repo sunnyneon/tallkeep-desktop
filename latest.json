@@ -1,30 +1,30 @@
 {
-  "version": "0.19.4",
-  "file": "Tallkeep-Setup-0.19.4.exe",
-  "sha256": "97adfcd1228bd581d7c6fddea2b5d4378cb2e1ec6f3971afe6e4fcd6df6938fb",
-  "size": 123861592,
-  "notes": "A cleaner top: the window title now says Tallkeep and your edition (like other desktop programs), and the big menu logo is gone.",
-  "date": "2026-11-05T15:59:22.356Z",
+  "version": "0.19.5",
+  "file": "Tallkeep-Setup-0.19.5.exe",
+  "sha256": "81c9caa31074f7b902af9c6b15047a00abac17085dc2b5bb153059249cc09837",
+  "size": 123847101,
+  "notes": "QuickBooks import: account names now come through right from QuickBooks Desktop files (the dot between account number and name).",
+  "date": "2026-11-06T16:03:20.006Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.19.4.exe.part0",
+      "name": "Tallkeep-Setup-0.19.5.exe.part0",
       "size": 47185920,
-      "sha256": "7cff94364cc9226893d0934434daf6de37f22c252177362ec51158ac175d7785"
+      "sha256": "a5395eefbf6c6ed6ee4afe0c2f24a17f5b160cbf01e47d5e12a4181a95cb40f0"
     },
     {
-      "name": "Tallkeep-Setup-0.19.4.exe.part1",
+      "name": "Tallkeep-Setup-0.19.5.exe.part1",
       "size": 47185920,
-      "sha256": "39e15f1bdce3cc29e0cc908763a542261ea2996f626c9342fd52e15b55eeaaed"
+      "sha256": "49838069d4a50762fd16d58e20947ff355be3083fd86d0e772419ef196251d5e"
     },
     {
-      "name": "Tallkeep-Setup-0.19.4.exe.part2",
-      "size": 29489752,
-      "sha256": "4cf0cda85e495048d83c7ef1fb2abed3e1a39592a66aeea9049b40fc2ed7348e"
+      "name": "Tallkeep-Setup-0.19.5.exe.part2",
+      "size": 29475261,
+      "sha256": "2ce3fa457ddca41be0c06ec8dc0c2c8b18795ad475b798ef8add6947ac89060b"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.19.4.tgz",
-    "sha256": "f48f38ab9d28e2108fc5eda50e24849236d914ab9fe07005fe36a117315ab04a",
-    "size": 4822958
+    "file": "tallkeep-server-0.19.5.tgz",
+    "sha256": "3f52152630e1a75f7bd81dd4f32eb080b0f75e8cfcec218ea9d3cf7d9cd16cb5",
+    "size": 4820584
   }
 }
