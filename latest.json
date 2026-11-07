@@ -1,30 +1,30 @@
 {
-  "version": "0.20.2",
-  "file": "Tallkeep-Setup-0.20.2.exe",
-  "sha256": "f1a6ac271d5ab9df7f5dd2c65dd59258c7386c2d83ea21c731807f1a2d17e35a",
-  "size": 123866933,
-  "notes": "New versions now show up within minutes of opening Tallkeep (no need to press Check for updates).",
-  "date": "2026-11-07T19:24:03.568Z",
+  "version": "0.20.3",
+  "file": "Tallkeep-Setup-0.20.3.exe",
+  "sha256": "a4f59f60e85ee7afa1628443abed115faa6281555b28352a91dcb1b0465e9ef3",
+  "size": 123871763,
+  "notes": "Bank Feeds reads payee names better: ACH payments (like Wolfsteel), Zelle names and transfers between your accounts.",
+  "date": "2026-11-07T19:32:50.059Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.20.2.exe.part0",
+      "name": "Tallkeep-Setup-0.20.3.exe.part0",
       "size": 47185920,
-      "sha256": "e61ad4d4be695d57852cd00d91c4766a5cbba8b080ae4197ee915fbebb451cf3"
+      "sha256": "2562af97bbfa30ba68a60fbc17dd37907f3bc29bef7fa4fa823d4416ad5f5955"
     },
     {
-      "name": "Tallkeep-Setup-0.20.2.exe.part1",
+      "name": "Tallkeep-Setup-0.20.3.exe.part1",
       "size": 47185920,
-      "sha256": "e1c9d5444dcaf9a9cbad7a8d8bacb77a010f777e43793194aeac57f9242d08f3"
+      "sha256": "e771969cba19d2956d435ec3c0d37c8474f4bf3096296be746e1058d0cb395e2"
     },
     {
-      "name": "Tallkeep-Setup-0.20.2.exe.part2",
-      "size": 29495093,
-      "sha256": "5de3468c34b37d7c8fdb44f98dc0d3566e5648f86e3d99b9447cdfdc77871e44"
+      "name": "Tallkeep-Setup-0.20.3.exe.part2",
+      "size": 29499923,
+      "sha256": "fd0870c9c8e696882f68e520ae383e0c3011d79da6632f5e0ab6e7eaa62efaa1"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.20.2.tgz",
-    "sha256": "43ec28cddd0abb723a43cc234de2fef953cbba411d76d81f89c5633e57a1adec",
-    "size": 4832218
+    "file": "tallkeep-server-0.20.3.tgz",
+    "sha256": "d4b1c7a848dc451266ef833d03d38ab5442c0a1da7d30cc336cb0a843a41344f",
+    "size": 4831956
   }
 }
