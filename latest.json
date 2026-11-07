@@ -1,30 +1,30 @@
 {
-  "version": "0.20.0",
-  "file": "Tallkeep-Setup-0.20.0.exe",
-  "sha256": "616456a344da0854001ad7e0d0bc24a4ad0c394b94bfe839c44c6cd7d100c0aa",
-  "size": 123864429,
-  "notes": "Bank Feeds: choose an account once for a payee (like Capsule) and all its other lines go to the same account. Payee names read better (PY *CAPSULE becomes CAPSULE).",
-  "date": "2026-11-07T18:17:52.295Z",
+  "version": "0.20.1",
+  "file": "Tallkeep-Setup-0.20.1.exe",
+  "sha256": "70102f11aca20c208ecc0b5cdfb552b855cf23717cfe105a8c339c1dafeccab4",
+  "size": 123872148,
+  "notes": "Plans: Real Estate is now its own edition (includes Personal), Full Business includes Real Estate, and the title shows your edition's real name.",
+  "date": "2026-11-07T18:48:46.612Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.20.0.exe.part0",
+      "name": "Tallkeep-Setup-0.20.1.exe.part0",
       "size": 47185920,
-      "sha256": "4dbf57fcda8974588fc9abc3c98f7350e2007830762aadea4df402c5bc461e37"
+      "sha256": "9d95e6fae8a4b4821576c464e9281506647dae25064bcdafc72e65268f4557d4"
     },
     {
-      "name": "Tallkeep-Setup-0.20.0.exe.part1",
+      "name": "Tallkeep-Setup-0.20.1.exe.part1",
       "size": 47185920,
-      "sha256": "0043a4cfa5933e9d33498086a7efcfd38b82b838ae3bfd8b018820d1786af1db"
+      "sha256": "dabbc9c14d9db8cc1f68979fbe6390bb78ce4dbd3f82321a8b2ac04d538955af"
     },
     {
-      "name": "Tallkeep-Setup-0.20.0.exe.part2",
-      "size": 29492589,
-      "sha256": "fb3a0538a1b2fdd6a7fd3a015d0148cab45013b234a38f6ea9b5f77758b1e624"
+      "name": "Tallkeep-Setup-0.20.1.exe.part2",
+      "size": 29500308,
+      "sha256": "e453170692be4fd3607f77eeb22c7f4aaf5df3114766421da030a89edeef2ecb"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.20.0.tgz",
-    "sha256": "6a667a0a0ac18c82c42f0eba5c702a15829199b19ddd68ae5e9583714250d47c",
-    "size": 4828640
+    "file": "tallkeep-server-0.20.1.tgz",
+    "sha256": "5a219fe0788f154f48fe1a025eb8ad7368b54700d68acfc9de9bd50591042ad2",
+    "size": 4829937
   }
 }
