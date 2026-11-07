@@ -1,30 +1,30 @@
 {
-  "version": "0.19.9",
-  "file": "Tallkeep-Setup-0.19.9.exe",
-  "sha256": "c059e21c63fb9db0bff4e2c741555b9096967827d89f6de242fbd7530782c43d",
-  "size": 123875677,
-  "notes": "Bank Feeds: new Suggest accounts button (the AI picks an account for each line, with a note you can give it). December lines on January statements now get the right year.",
-  "date": "2026-11-07T18:09:56.966Z",
+  "version": "0.20.0",
+  "file": "Tallkeep-Setup-0.20.0.exe",
+  "sha256": "616456a344da0854001ad7e0d0bc24a4ad0c394b94bfe839c44c6cd7d100c0aa",
+  "size": 123864429,
+  "notes": "Bank Feeds: choose an account once for a payee (like Capsule) and all its other lines go to the same account. Payee names read better (PY *CAPSULE becomes CAPSULE).",
+  "date": "2026-11-07T18:17:52.295Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.19.9.exe.part0",
+      "name": "Tallkeep-Setup-0.20.0.exe.part0",
       "size": 47185920,
-      "sha256": "3f45a2d51ee5eb28568a38a729f8d4a5ee31fdf7becdd1ff80f2b1fa5f7e5de8"
+      "sha256": "4dbf57fcda8974588fc9abc3c98f7350e2007830762aadea4df402c5bc461e37"
     },
     {
-      "name": "Tallkeep-Setup-0.19.9.exe.part1",
+      "name": "Tallkeep-Setup-0.20.0.exe.part1",
       "size": 47185920,
-      "sha256": "2e59fe7c2a1b3cd9899fd43e1e92dfbe0903e41e10e793c081c025805101ba65"
+      "sha256": "0043a4cfa5933e9d33498086a7efcfd38b82b838ae3bfd8b018820d1786af1db"
     },
     {
-      "name": "Tallkeep-Setup-0.19.9.exe.part2",
-      "size": 29503837,
-      "sha256": "cc01ab41b399a4b7e387d8fd7d133b0f8a4c4b00077b6e42e9ab21bf75fa20a3"
+      "name": "Tallkeep-Setup-0.20.0.exe.part2",
+      "size": 29492589,
+      "sha256": "fb3a0538a1b2fdd6a7fd3a015d0148cab45013b234a38f6ea9b5f77758b1e624"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.19.9.tgz",
-    "sha256": "90fbf356a5895c8a055dd1b1248e3fb3cbfd873b022793b5c9804d4fa7bfc1f9",
-    "size": 4829319
+    "file": "tallkeep-server-0.20.0.tgz",
+    "sha256": "6a667a0a0ac18c82c42f0eba5c702a15829199b19ddd68ae5e9583714250d47c",
+    "size": 4828640
   }
 }
