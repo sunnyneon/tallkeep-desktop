@@ -1,30 +1,30 @@
 {
-  "version": "0.19.5",
-  "file": "Tallkeep-Setup-0.19.5.exe",
-  "sha256": "81c9caa31074f7b902af9c6b15047a00abac17085dc2b5bb153059249cc09837",
-  "size": 123847101,
-  "notes": "QuickBooks import: account names now come through right from QuickBooks Desktop files (the dot between account number and name).",
-  "date": "2026-11-06T16:03:20.006Z",
+  "version": "0.19.6",
+  "file": "Tallkeep-Setup-0.19.6.exe",
+  "sha256": "dff74178714818848eec7582c73447f7f27f2045cc3853d1d5d94d35efd243ac",
+  "size": 123860023,
+  "notes": "Business Reports now has Accounting links: Profit & Loss, Balance Sheet, Trial Balance and General Ledger.",
+  "date": "2026-11-07T15:22:41.058Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.19.5.exe.part0",
+      "name": "Tallkeep-Setup-0.19.6.exe.part0",
       "size": 47185920,
-      "sha256": "a5395eefbf6c6ed6ee4afe0c2f24a17f5b160cbf01e47d5e12a4181a95cb40f0"
+      "sha256": "83dbd31fe84decdd1fb6b87eef8725fc4e4586c8f9ea5f32e2b1075fb7e671cb"
     },
     {
-      "name": "Tallkeep-Setup-0.19.5.exe.part1",
+      "name": "Tallkeep-Setup-0.19.6.exe.part1",
       "size": 47185920,
-      "sha256": "49838069d4a50762fd16d58e20947ff355be3083fd86d0e772419ef196251d5e"
+      "sha256": "4a8f2c8c9fc76bd3000fcb2775141dc142fec3e1d181607a773aabe02ac83536"
     },
     {
-      "name": "Tallkeep-Setup-0.19.5.exe.part2",
-      "size": 29475261,
-      "sha256": "2ce3fa457ddca41be0c06ec8dc0c2c8b18795ad475b798ef8add6947ac89060b"
+      "name": "Tallkeep-Setup-0.19.6.exe.part2",
+      "size": 29488183,
+      "sha256": "cb05ac2ec9059e8821d364f5612f740cb00754d180d632f00661eca81a120c00"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.19.5.tgz",
-    "sha256": "3f52152630e1a75f7bd81dd4f32eb080b0f75e8cfcec218ea9d3cf7d9cd16cb5",
-    "size": 4820584
+    "file": "tallkeep-server-0.19.6.tgz",
+    "sha256": "875ea1deb92a3dd703c68693c991ecf42d6baceabbad87cd7a0f255dfe7ec8cc",
+    "size": 4824748
   }
 }
