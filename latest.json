@@ -1,30 +1,30 @@
 {
-  "version": "0.20.6",
-  "file": "Tallkeep-Setup-0.20.6.exe",
-  "sha256": "a5ce2ebe035baa28b114ad327923f1bb924cf88a41d58a055696ca41daf730a8",
-  "size": 123866311,
-  "notes": "Registers: lines brought in from QuickBooks can now be changed or deleted right from the register.",
-  "date": "2026-11-07T20:51:15.646Z",
+  "version": "0.20.7",
+  "file": "Tallkeep-Setup-0.20.7.exe",
+  "sha256": "8b6f0f11c438e44d650c0221aa50330c1ff1d4e6ad757efc0ba1a02c802a4423",
+  "size": 123883530,
+  "notes": "Journal Entries: entries you typed can now be changed (date, memo, accounts and amounts), not only deleted.",
+  "date": "2026-11-07T21:08:35.499Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.20.6.exe.part0",
+      "name": "Tallkeep-Setup-0.20.7.exe.part0",
       "size": 47185920,
-      "sha256": "9bc52b3b2f4557e21f61cef1b491386cd921d37ef2405e1333aa0d740a42501e"
+      "sha256": "900286c0a1f54e24f1c67b1ff290d781912a30bdcd19c85b73d4dc75aaabb226"
     },
     {
-      "name": "Tallkeep-Setup-0.20.6.exe.part1",
+      "name": "Tallkeep-Setup-0.20.7.exe.part1",
       "size": 47185920,
-      "sha256": "1bf30ccc6956cbe3d70f40c7b12154991593d35a5414b73b844fa85d8253beb8"
+      "sha256": "8dd472886a40094444ccd8a77a8c4fb3566263cfa907d8058bc1e11756c197a6"
     },
     {
-      "name": "Tallkeep-Setup-0.20.6.exe.part2",
-      "size": 29494471,
-      "sha256": "c90a270148ab4bded3d269353568698f140b80aa9b6117c3d5798a7ffbac99c6"
+      "name": "Tallkeep-Setup-0.20.7.exe.part2",
+      "size": 29511690,
+      "sha256": "e01413e95be60f6058289f641a405030e11469640ac911831d88ce7579ce4f94"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.20.6.tgz",
-    "sha256": "bb906d995ebcab0f22337ad08aa320b334d5f98a532bebc33df769dcc8c9f84f",
-    "size": 4828598
+    "file": "tallkeep-server-0.20.7.tgz",
+    "sha256": "b5ee9eb73edcedefbabda36f61855effcecbde3be710cbbba6c2e957f4399e62",
+    "size": 4837997
   }
 }
