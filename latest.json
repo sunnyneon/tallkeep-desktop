@@ -1,30 +1,30 @@
 {
-  "version": "0.19.8",
-  "file": "Tallkeep-Setup-0.19.8.exe",
-  "sha256": "501d31f3557c905d145a8d5ef4132420836f34f30059354e91263612fccfc14a",
-  "size": 123863970,
-  "notes": "Mortgage & Loans is now under Banking for businesses too, and loan accounts brought in from QuickBooks (like Loan on Auto) show there.",
-  "date": "2026-11-07T17:04:35.315Z",
+  "version": "0.19.9",
+  "file": "Tallkeep-Setup-0.19.9.exe",
+  "sha256": "c059e21c63fb9db0bff4e2c741555b9096967827d89f6de242fbd7530782c43d",
+  "size": 123875677,
+  "notes": "Bank Feeds: new Suggest accounts button (the AI picks an account for each line, with a note you can give it). December lines on January statements now get the right year.",
+  "date": "2026-11-07T18:09:56.966Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.19.8.exe.part0",
+      "name": "Tallkeep-Setup-0.19.9.exe.part0",
       "size": 47185920,
-      "sha256": "76a41ea99c6a620028b2fbb6bd3e9092eb4e42e2b702b309def37980d5231101"
+      "sha256": "3f45a2d51ee5eb28568a38a729f8d4a5ee31fdf7becdd1ff80f2b1fa5f7e5de8"
     },
     {
-      "name": "Tallkeep-Setup-0.19.8.exe.part1",
+      "name": "Tallkeep-Setup-0.19.9.exe.part1",
       "size": 47185920,
-      "sha256": "d6c785c34871299611e36a4d9399b6a10c0d34a06a7375ff439e8dfd1d7039c4"
+      "sha256": "2e59fe7c2a1b3cd9899fd43e1e92dfbe0903e41e10e793c081c025805101ba65"
     },
     {
-      "name": "Tallkeep-Setup-0.19.8.exe.part2",
-      "size": 29492130,
-      "sha256": "ea9e77183826d7d2f663cf5b748b073f46dac59590ad6010201556d1d4213ee4"
+      "name": "Tallkeep-Setup-0.19.9.exe.part2",
+      "size": 29503837,
+      "sha256": "cc01ab41b399a4b7e387d8fd7d133b0f8a4c4b00077b6e42e9ab21bf75fa20a3"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.19.8.tgz",
-    "sha256": "0623a0648fb4bfb122fa61a4ad528e24e877a085ea2c0e2a69e530a00f75e78d",
-    "size": 4821677
+    "file": "tallkeep-server-0.19.9.tgz",
+    "sha256": "90fbf356a5895c8a055dd1b1248e3fb3cbfd873b022793b5c9804d4fa7bfc1f9",
+    "size": 4829319
   }
 }
