@@ -1,30 +1,30 @@
 {
-  "version": "0.20.1",
-  "file": "Tallkeep-Setup-0.20.1.exe",
-  "sha256": "70102f11aca20c208ecc0b5cdfb552b855cf23717cfe105a8c339c1dafeccab4",
-  "size": 123872148,
-  "notes": "Plans: Real Estate is now its own edition (includes Personal), Full Business includes Real Estate, and the title shows your edition's real name.",
-  "date": "2026-11-07T18:48:46.612Z",
+  "version": "0.20.2",
+  "file": "Tallkeep-Setup-0.20.2.exe",
+  "sha256": "f1a6ac271d5ab9df7f5dd2c65dd59258c7386c2d83ea21c731807f1a2d17e35a",
+  "size": 123866933,
+  "notes": "New versions now show up within minutes of opening Tallkeep (no need to press Check for updates).",
+  "date": "2026-11-07T19:24:03.568Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.20.1.exe.part0",
+      "name": "Tallkeep-Setup-0.20.2.exe.part0",
       "size": 47185920,
-      "sha256": "9d95e6fae8a4b4821576c464e9281506647dae25064bcdafc72e65268f4557d4"
+      "sha256": "e61ad4d4be695d57852cd00d91c4766a5cbba8b080ae4197ee915fbebb451cf3"
     },
     {
-      "name": "Tallkeep-Setup-0.20.1.exe.part1",
+      "name": "Tallkeep-Setup-0.20.2.exe.part1",
       "size": 47185920,
-      "sha256": "dabbc9c14d9db8cc1f68979fbe6390bb78ce4dbd3f82321a8b2ac04d538955af"
+      "sha256": "e1c9d5444dcaf9a9cbad7a8d8bacb77a010f777e43793194aeac57f9242d08f3"
     },
     {
-      "name": "Tallkeep-Setup-0.20.1.exe.part2",
-      "size": 29500308,
-      "sha256": "e453170692be4fd3607f77eeb22c7f4aaf5df3114766421da030a89edeef2ecb"
+      "name": "Tallkeep-Setup-0.20.2.exe.part2",
+      "size": 29495093,
+      "sha256": "5de3468c34b37d7c8fdb44f98dc0d3566e5648f86e3d99b9447cdfdc77871e44"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.20.1.tgz",
-    "sha256": "5a219fe0788f154f48fe1a025eb8ad7368b54700d68acfc9de9bd50591042ad2",
-    "size": 4829937
+    "file": "tallkeep-server-0.20.2.tgz",
+    "sha256": "43ec28cddd0abb723a43cc234de2fef953cbba411d76d81f89c5633e57a1adec",
+    "size": 4832218
   }
 }
