@@ -1,30 +1,30 @@
 {
-  "version": "0.20.4",
-  "file": "Tallkeep-Setup-0.20.4.exe",
-  "sha256": "bf5783e6f2534f8f4561620e00a42b865d022c91d935bd581e7b7c1a7e58dbd7",
-  "size": 123861336,
-  "notes": "Reconcile is faster: tick all the QuickBooks history in one click, tick or untick everything, see what's not ticked, and the line that equals the difference is highlighted.",
-  "date": "2026-11-07T20:06:29.951Z",
+  "version": "0.20.5",
+  "file": "Tallkeep-Setup-0.20.5.exe",
+  "sha256": "e6de5a96ac7266902e2713c3a3a58eb534284e2a075139897efa713f25bd93d2",
+  "size": 123864082,
+  "notes": "Reconcile shows the newest lines first.",
+  "date": "2026-11-07T20:42:59.769Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.20.4.exe.part0",
+      "name": "Tallkeep-Setup-0.20.5.exe.part0",
       "size": 47185920,
-      "sha256": "ef91d34d38d2b94470b8c3703a60c3603e3f3430a4da2dc108b8f329d65e0dd9"
+      "sha256": "6778ee3d6fbcf8beef12791cf78861e9dd3d14f0b1c3bb6a35cf5be725ff4b09"
     },
     {
-      "name": "Tallkeep-Setup-0.20.4.exe.part1",
+      "name": "Tallkeep-Setup-0.20.5.exe.part1",
       "size": 47185920,
-      "sha256": "f91f794e1143af64214ce85a17b627164fdb67a0fd558794a6844e112e4ac030"
+      "sha256": "ed97d9f81118c11ada6e17a47bcc32b57e00f487bd912bbf0b3d6063ad8b071e"
     },
     {
-      "name": "Tallkeep-Setup-0.20.4.exe.part2",
-      "size": 29489496,
-      "sha256": "6e7290614b77dd4fe74aeac865a3d5318899cec6df0134c20aa41ac53e32bee7"
+      "name": "Tallkeep-Setup-0.20.5.exe.part2",
+      "size": 29492242,
+      "sha256": "0d104417b4c82173c653ea02bc7fae18166107a94851ac6209938afef79fe085"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.20.4.tgz",
-    "sha256": "c14d8d51b720c59303c18fc40ee8110b46366671600920b16b9a1b1e0d917cdb",
-    "size": 4833772
+    "file": "tallkeep-server-0.20.5.tgz",
+    "sha256": "612af99c6ace30f03ee3377b03c5c66606a28b3b652b597012b4620962e33f2c",
+    "size": 4832953
   }
 }
