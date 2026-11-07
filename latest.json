@@ -1,30 +1,30 @@
 {
-  "version": "0.19.6",
-  "file": "Tallkeep-Setup-0.19.6.exe",
-  "sha256": "dff74178714818848eec7582c73447f7f27f2045cc3853d1d5d94d35efd243ac",
-  "size": 123860023,
-  "notes": "Business Reports now has Accounting links: Profit & Loss, Balance Sheet, Trial Balance and General Ledger.",
-  "date": "2026-11-07T15:22:41.058Z",
+  "version": "0.19.7",
+  "file": "Tallkeep-Setup-0.19.7.exe",
+  "sha256": "166f1da56785c062e4c0f0e95d5013e5a9ea696dcac70ce7e50ceb68459ecb27",
+  "size": 123857449,
+  "notes": "One AI key now works for all your companies (set it up once). Home's Get started list has a step to turn on the AI for the Shoebox.",
+  "date": "2026-11-07T16:46:24.123Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.19.6.exe.part0",
+      "name": "Tallkeep-Setup-0.19.7.exe.part0",
       "size": 47185920,
-      "sha256": "83dbd31fe84decdd1fb6b87eef8725fc4e4586c8f9ea5f32e2b1075fb7e671cb"
+      "sha256": "8d2ceec6a6689ab58d9018581770cc43d2287e01f4cde353771e0c03c71e4253"
     },
     {
-      "name": "Tallkeep-Setup-0.19.6.exe.part1",
+      "name": "Tallkeep-Setup-0.19.7.exe.part1",
       "size": 47185920,
-      "sha256": "4a8f2c8c9fc76bd3000fcb2775141dc142fec3e1d181607a773aabe02ac83536"
+      "sha256": "72571a52c18a11b19e34065cd2eaab90fc9c40dea373905a84aee684414322a9"
     },
     {
-      "name": "Tallkeep-Setup-0.19.6.exe.part2",
-      "size": 29488183,
-      "sha256": "cb05ac2ec9059e8821d364f5612f740cb00754d180d632f00661eca81a120c00"
+      "name": "Tallkeep-Setup-0.19.7.exe.part2",
+      "size": 29485609,
+      "sha256": "67df01f03158f7d41fdc2a733521921d17d04760679deb8e9d79864991586399"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.19.6.tgz",
-    "sha256": "875ea1deb92a3dd703c68693c991ecf42d6baceabbad87cd7a0f255dfe7ec8cc",
-    "size": 4824748
+    "file": "tallkeep-server-0.19.7.tgz",
+    "sha256": "02b6b2d8d51868bb2da2fad2ae4c2cf0d9cae8d3b80120f1e30118b8d9287ff9",
+    "size": 4823712
   }
 }
