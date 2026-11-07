@@ -1,30 +1,30 @@
 {
-  "version": "0.21.0",
-  "file": "Tallkeep-Setup-0.21.0.exe",
-  "sha256": "1dd158d442f88f0699f0de894149cb6675c5d17516d0bcb1afe429e74047decb",
-  "size": 123871150,
-  "notes": "Registers: switch a line between a charge and a payment (or money out and in) when a statement was read the wrong way round.",
-  "date": "2026-11-07T22:40:54.560Z",
+  "version": "0.21.1",
+  "file": "Tallkeep-Setup-0.21.1.exe",
+  "sha256": "a1b6a874128266953867e18f89702d3c683acde05fdecaf0e909ccc7a355f52e",
+  "size": 123874243,
+  "notes": "Bank Feeds: a card payment already recorded from the bank side is joined as one payment, not added twice.",
+  "date": "2026-11-07T23:13:59.234Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.21.0.exe.part0",
+      "name": "Tallkeep-Setup-0.21.1.exe.part0",
       "size": 47185920,
-      "sha256": "ef93d2975a6db2147f9594f3e7e16e0c0234282f10a72c1a7e74b2378984f7ab"
+      "sha256": "10beb081786b689a8c1e5685917ab08ce3ec414fefbff0376f9474daa23bd40a"
     },
     {
-      "name": "Tallkeep-Setup-0.21.0.exe.part1",
+      "name": "Tallkeep-Setup-0.21.1.exe.part1",
       "size": 47185920,
-      "sha256": "df3213f3e04dd10bdc3a180fb31e3e3ed08c0594b85fc9bbf4093d980a5d7299"
+      "sha256": "14635295f835b6ad940590faf4cc523ae5b0b7d2e94c553f96711bfa8c96a71a"
     },
     {
-      "name": "Tallkeep-Setup-0.21.0.exe.part2",
-      "size": 29499310,
-      "sha256": "71aebe5a751abc7670772287d96dd8a826f7bedc8b7f01841dd4c50e97567af4"
+      "name": "Tallkeep-Setup-0.21.1.exe.part2",
+      "size": 29502403,
+      "sha256": "ffbdbbd7456482e200c18955dc38d5e471a74d2444fca514069ec3af16db825b"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.21.0.tgz",
-    "sha256": "5debfc24e40fb2e9bb261c053d69db883c41d10b74f2e79f54e93bebce409753",
-    "size": 4834339
+    "file": "tallkeep-server-0.21.1.tgz",
+    "sha256": "26e9fb822969aac5557473f820b026e7f9f6591e9d5ef52c4bc75a43e5b8fee7",
+    "size": 4835506
   }
 }
