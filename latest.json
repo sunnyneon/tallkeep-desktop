@@ -1,30 +1,30 @@
 {
-  "version": "0.20.8",
-  "file": "Tallkeep-Setup-0.20.8.exe",
-  "sha256": "64b6ee1feba517ae0892e1035733626d0d467367636df53f32b247005998db8f",
-  "size": 123860440,
-  "notes": "Bank Feeds: a credit card payment that shows on both the bank and the card statement is now counted once, as one transfer.",
-  "date": "2026-11-07T21:50:13.492Z",
+  "version": "0.20.9",
+  "file": "Tallkeep-Setup-0.20.9.exe",
+  "sha256": "3eedd986bdf9d7f2b64ca16e38d4eccbab3f4dbe8a8c6ffc73e39f1dadea3f6f",
+  "size": 123865588,
+  "notes": "Banking remembers where you were (account, tab, reconcile date and balance) when you switch tabs. Reading a statement again no longer adds copies of lines already there.",
+  "date": "2026-11-07T22:22:41.158Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.20.8.exe.part0",
+      "name": "Tallkeep-Setup-0.20.9.exe.part0",
       "size": 47185920,
-      "sha256": "945bc1b093dd74b39d1992f65e521999d13d75ae66b64ace670d8ba8cc0a1b52"
+      "sha256": "4ea478e1ee178b570124a27dfff2f84943ed12c6c279dbef93a1b220b3d50d69"
     },
     {
-      "name": "Tallkeep-Setup-0.20.8.exe.part1",
+      "name": "Tallkeep-Setup-0.20.9.exe.part1",
       "size": 47185920,
-      "sha256": "f76458e1960c6d41138625922dc1a01107b094217e394efeb2906c5cc83e13d0"
+      "sha256": "16bdb5237a85a648f08b12507abd0b72022f7c3759083c12f4492291da52c8dc"
     },
     {
-      "name": "Tallkeep-Setup-0.20.8.exe.part2",
-      "size": 29488600,
-      "sha256": "38110389c643a2b0752c90d2ffdd8d271b5a5f16e1f61747a99fbf876d79cd7a"
+      "name": "Tallkeep-Setup-0.20.9.exe.part2",
+      "size": 29493748,
+      "sha256": "97e58846f601feb164e9781ce8342a5f07714fb4dbfc053c596476a4a3ed82f1"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.20.8.tgz",
-    "sha256": "2241a1e1b0f4a4ca6f8202d2b7695210febc268c83e96ab83cb9e4f6b4868d26",
-    "size": 4834058
+    "file": "tallkeep-server-0.20.9.tgz",
+    "sha256": "e633432ee75993d737dd591a1698d342d0f2e9da36599713bcc8a10cee94e0e9",
+    "size": 4836633
   }
 }
