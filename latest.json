@@ -1,30 +1,30 @@
 {
-  "version": "0.19.7",
-  "file": "Tallkeep-Setup-0.19.7.exe",
-  "sha256": "166f1da56785c062e4c0f0e95d5013e5a9ea696dcac70ce7e50ceb68459ecb27",
-  "size": 123857449,
-  "notes": "One AI key now works for all your companies (set it up once). Home's Get started list has a step to turn on the AI for the Shoebox.",
-  "date": "2026-11-07T16:46:24.123Z",
+  "version": "0.19.8",
+  "file": "Tallkeep-Setup-0.19.8.exe",
+  "sha256": "501d31f3557c905d145a8d5ef4132420836f34f30059354e91263612fccfc14a",
+  "size": 123863970,
+  "notes": "Mortgage & Loans is now under Banking for businesses too, and loan accounts brought in from QuickBooks (like Loan on Auto) show there.",
+  "date": "2026-11-07T17:04:35.315Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.19.7.exe.part0",
+      "name": "Tallkeep-Setup-0.19.8.exe.part0",
       "size": 47185920,
-      "sha256": "8d2ceec6a6689ab58d9018581770cc43d2287e01f4cde353771e0c03c71e4253"
+      "sha256": "76a41ea99c6a620028b2fbb6bd3e9092eb4e42e2b702b309def37980d5231101"
     },
     {
-      "name": "Tallkeep-Setup-0.19.7.exe.part1",
+      "name": "Tallkeep-Setup-0.19.8.exe.part1",
       "size": 47185920,
-      "sha256": "72571a52c18a11b19e34065cd2eaab90fc9c40dea373905a84aee684414322a9"
+      "sha256": "d6c785c34871299611e36a4d9399b6a10c0d34a06a7375ff439e8dfd1d7039c4"
     },
     {
-      "name": "Tallkeep-Setup-0.19.7.exe.part2",
-      "size": 29485609,
-      "sha256": "67df01f03158f7d41fdc2a733521921d17d04760679deb8e9d79864991586399"
+      "name": "Tallkeep-Setup-0.19.8.exe.part2",
+      "size": 29492130,
+      "sha256": "ea9e77183826d7d2f663cf5b748b073f46dac59590ad6010201556d1d4213ee4"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.19.7.tgz",
-    "sha256": "02b6b2d8d51868bb2da2fad2ae4c2cf0d9cae8d3b80120f1e30118b8d9287ff9",
-    "size": 4823712
+    "file": "tallkeep-server-0.19.8.tgz",
+    "sha256": "0623a0648fb4bfb122fa61a4ad528e24e877a085ea2c0e2a69e530a00f75e78d",
+    "size": 4821677
   }
 }
