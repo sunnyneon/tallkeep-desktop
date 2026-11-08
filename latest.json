@@ -1,30 +1,30 @@
 {
-  "version": "0.21.5",
-  "file": "Tallkeep-Setup-0.21.5.exe",
-  "sha256": "08204010198fdee5a3e83d40a7cc55f5a2135dbbbdf29b70e0c876748a148d36",
-  "size": 123868765,
-  "notes": "Shoebox: a new account's first statement sets its opening balance.",
-  "date": "2026-11-08T19:39:13.945Z",
+  "version": "0.21.6",
+  "file": "Tallkeep-Setup-0.21.6.exe",
+  "sha256": "710fc4edbf985db8b207ade3c20c1936140ea49ed3dbd3c4c5501b3def1dbf7d",
+  "size": 123869135,
+  "notes": "Stock adjustments, transfers and count sheets save again. A double press or retry no longer saves a stock change twice. Movement History refreshes after every stock change.",
+  "date": "2026-11-08T20:50:09.210Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.21.5.exe.part0",
+      "name": "Tallkeep-Setup-0.21.6.exe.part0",
       "size": 47185920,
-      "sha256": "9e6b7db77df78cbe764be9a5e6dfa38f587aa576e37d7d84b3db2a9411ba3be4"
+      "sha256": "de955faf693163d5222d4e902f1cdd97cb298fb21328eb60b9b5a1828913460d"
     },
     {
-      "name": "Tallkeep-Setup-0.21.5.exe.part1",
+      "name": "Tallkeep-Setup-0.21.6.exe.part1",
       "size": 47185920,
-      "sha256": "146cceb845e2428221ed7b5370efc6e79d5f33f208e7d915f6b9800c180ca5ee"
+      "sha256": "c59e66b6386c62007d14db156223c12515b863e0e4410f5421bc40c5b3391f55"
     },
     {
-      "name": "Tallkeep-Setup-0.21.5.exe.part2",
-      "size": 29496925,
-      "sha256": "fc90d7181618e7791b2520b23d55fe2f268a813857df351b38a3896f68134121"
+      "name": "Tallkeep-Setup-0.21.6.exe.part2",
+      "size": 29497295,
+      "sha256": "a7c07f6e46f13813eb8cc9135505846b48b33259e2797a72b0cf1eb0d71c8c56"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.21.5.tgz",
-    "sha256": "07b311c60a07b54063bd9437152f19dfc107185c0ce2bb2bc3b16577e7f2aa10",
-    "size": 4842445
+    "file": "tallkeep-server-0.21.6.tgz",
+    "sha256": "7ac74a47d1dfc498a8805adeb7a41d7e0f5070dd755fc956fa28f7db512af0fa",
+    "size": 4846274
   }
 }
