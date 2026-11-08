@@ -1,30 +1,30 @@
 {
-  "version": "0.21.3",
-  "file": "Tallkeep-Setup-0.21.3.exe",
-  "sha256": "377daec1b072db780140cabfae7d859b5a94e7c349b59346dbb463f6bcf3694c",
-  "size": 123871059,
-  "notes": "Statements are now checked: if the lines don't add up to the opening and closing balances, Tallkeep reads it again and warns you about anything still off.",
-  "date": "2026-11-08T17:39:24.285Z",
+  "version": "0.21.4",
+  "file": "Tallkeep-Setup-0.21.4.exe",
+  "sha256": "bab4c31942eeebfa99919a6ac458f4e096be0485acd097fe83c885d8cbff05df",
+  "size": 123868762,
+  "notes": "Chart of accounts: a button brings back unused inactive accounts. Importing a list of only bank and card accounts no longer hides your income and expense accounts.",
+  "date": "2026-11-08T19:32:18.158Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.21.3.exe.part0",
+      "name": "Tallkeep-Setup-0.21.4.exe.part0",
       "size": 47185920,
-      "sha256": "c6d52c68abdf6150ecd8a290fed1cdc6985b543ea9acb1b26bd163c1f76d87d4"
+      "sha256": "f837e29ea230932bbb82664fe80365b74d028f809aae5ba9aea35817d46b8556"
     },
     {
-      "name": "Tallkeep-Setup-0.21.3.exe.part1",
+      "name": "Tallkeep-Setup-0.21.4.exe.part1",
       "size": 47185920,
-      "sha256": "17ef52b77932fbf1a384c792aaf947407b86be0c59d8ea343f589563ad415d8a"
+      "sha256": "5912ccaa28cdb4fc5eb98ebe96f6189229c0612beeccaf1821038b6379bdcdb0"
     },
     {
-      "name": "Tallkeep-Setup-0.21.3.exe.part2",
-      "size": 29499219,
-      "sha256": "5d16103f7a5d79aae6da4c7871dab04deedf916c3f560d21c46effde25dc5599"
+      "name": "Tallkeep-Setup-0.21.4.exe.part2",
+      "size": 29496922,
+      "sha256": "6468c37ae539e37ab6b0db0eb9dda644ffde98f5eceee87c9bd0a8a9c2758730"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.21.3.tgz",
-    "sha256": "a6c4f1d751fcd0fe79c344d155be879aee4b6411f7a07f5b70f0cc5b8ab0e523",
-    "size": 4840397
+    "file": "tallkeep-server-0.21.4.tgz",
+    "sha256": "2e1e6cd6fad81c9a95fd73f2586f8eea4742fc8f91b8e65273bd01673e24b745",
+    "size": 4842295
   }
 }
