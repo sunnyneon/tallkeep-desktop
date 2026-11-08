@@ -1,30 +1,30 @@
 {
-  "version": "0.21.1",
-  "file": "Tallkeep-Setup-0.21.1.exe",
-  "sha256": "a1b6a874128266953867e18f89702d3c683acde05fdecaf0e909ccc7a355f52e",
-  "size": 123874243,
-  "notes": "Bank Feeds: a card payment already recorded from the bank side is joined as one payment, not added twice.",
-  "date": "2026-11-07T23:13:59.234Z",
+  "version": "0.21.2",
+  "file": "Tallkeep-Setup-0.21.2.exe",
+  "sha256": "7488d42314111532d18259dbbd247927a98a571da19f80d8cf701ffaa7f21be5",
+  "size": 123865090,
+  "notes": "Overview shows your money from the books (cash, cards and loans, income and profit this year) and, for Real Estate, properties, rented units, rent owed and leases ending. Sales and stock only when you sell.",
+  "date": "2026-11-08T17:15:39.876Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.21.1.exe.part0",
+      "name": "Tallkeep-Setup-0.21.2.exe.part0",
       "size": 47185920,
-      "sha256": "10beb081786b689a8c1e5685917ab08ce3ec414fefbff0376f9474daa23bd40a"
+      "sha256": "86bc6bf11dd7e41cd2b2e2db3c5803bbf1a1e6d863b2cbf406f0b8d768cb9f83"
     },
     {
-      "name": "Tallkeep-Setup-0.21.1.exe.part1",
+      "name": "Tallkeep-Setup-0.21.2.exe.part1",
       "size": 47185920,
-      "sha256": "14635295f835b6ad940590faf4cc523ae5b0b7d2e94c553f96711bfa8c96a71a"
+      "sha256": "9bdf5460fc608a91d876a192f563f8f59c5a447512c5d8496a898cd4bc4dc87f"
     },
     {
-      "name": "Tallkeep-Setup-0.21.1.exe.part2",
-      "size": 29502403,
-      "sha256": "ffbdbbd7456482e200c18955dc38d5e471a74d2444fca514069ec3af16db825b"
+      "name": "Tallkeep-Setup-0.21.2.exe.part2",
+      "size": 29493250,
+      "sha256": "9f4819a19cca6a7eddd3717f50fdaf1ca3429aeaa15ff907ec817cd3fc847e62"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.21.1.tgz",
-    "sha256": "26e9fb822969aac5557473f820b026e7f9f6591e9d5ef52c4bc75a43e5b8fee7",
-    "size": 4835506
+    "file": "tallkeep-server-0.21.2.tgz",
+    "sha256": "297501c7a1871d7d56f3a06bc96fa0348f292188b79251287eceb47d4ce5991f",
+    "size": 4836137
   }
 }
