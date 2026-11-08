@@ -1,30 +1,30 @@
 {
-  "version": "0.21.4",
-  "file": "Tallkeep-Setup-0.21.4.exe",
-  "sha256": "bab4c31942eeebfa99919a6ac458f4e096be0485acd097fe83c885d8cbff05df",
-  "size": 123868762,
-  "notes": "Chart of accounts: a button brings back unused inactive accounts. Importing a list of only bank and card accounts no longer hides your income and expense accounts.",
-  "date": "2026-11-08T19:32:18.158Z",
+  "version": "0.21.5",
+  "file": "Tallkeep-Setup-0.21.5.exe",
+  "sha256": "08204010198fdee5a3e83d40a7cc55f5a2135dbbbdf29b70e0c876748a148d36",
+  "size": 123868765,
+  "notes": "Shoebox: a new account's first statement sets its opening balance.",
+  "date": "2026-11-08T19:39:13.945Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.21.4.exe.part0",
+      "name": "Tallkeep-Setup-0.21.5.exe.part0",
       "size": 47185920,
-      "sha256": "f837e29ea230932bbb82664fe80365b74d028f809aae5ba9aea35817d46b8556"
+      "sha256": "9e6b7db77df78cbe764be9a5e6dfa38f587aa576e37d7d84b3db2a9411ba3be4"
     },
     {
-      "name": "Tallkeep-Setup-0.21.4.exe.part1",
+      "name": "Tallkeep-Setup-0.21.5.exe.part1",
       "size": 47185920,
-      "sha256": "5912ccaa28cdb4fc5eb98ebe96f6189229c0612beeccaf1821038b6379bdcdb0"
+      "sha256": "146cceb845e2428221ed7b5370efc6e79d5f33f208e7d915f6b9800c180ca5ee"
     },
     {
-      "name": "Tallkeep-Setup-0.21.4.exe.part2",
-      "size": 29496922,
-      "sha256": "6468c37ae539e37ab6b0db0eb9dda644ffde98f5eceee87c9bd0a8a9c2758730"
+      "name": "Tallkeep-Setup-0.21.5.exe.part2",
+      "size": 29496925,
+      "sha256": "fc90d7181618e7791b2520b23d55fe2f268a813857df351b38a3896f68134121"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.21.4.tgz",
-    "sha256": "2e1e6cd6fad81c9a95fd73f2586f8eea4742fc8f91b8e65273bd01673e24b745",
-    "size": 4842295
+    "file": "tallkeep-server-0.21.5.tgz",
+    "sha256": "07b311c60a07b54063bd9437152f19dfc107185c0ce2bb2bc3b16577e7f2aa10",
+    "size": 4842445
   }
 }
