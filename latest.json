@@ -1,30 +1,30 @@
 {
-  "version": "0.21.6",
-  "file": "Tallkeep-Setup-0.21.6.exe",
-  "sha256": "710fc4edbf985db8b207ade3c20c1936140ea49ed3dbd3c4c5501b3def1dbf7d",
-  "size": 123869135,
-  "notes": "Stock adjustments, transfers and count sheets save again. A double press or retry no longer saves a stock change twice. Movement History refreshes after every stock change.",
-  "date": "2026-11-08T20:50:09.210Z",
+  "version": "0.21.7",
+  "file": "Tallkeep-Setup-0.21.7.exe",
+  "sha256": "7392eea6e243ef7b7b44ae8032e03cc292bb9eca1b4195e251bd37c600b0961a",
+  "size": 123881675,
+  "notes": "Switching company closes the open tabs and starts at Home. Setting up a new company now asks for the books start date. Saving the company name also renames it in the company list.",
+  "date": "2026-11-08T22:31:25.194Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.21.6.exe.part0",
+      "name": "Tallkeep-Setup-0.21.7.exe.part0",
       "size": 47185920,
-      "sha256": "de955faf693163d5222d4e902f1cdd97cb298fb21328eb60b9b5a1828913460d"
+      "sha256": "d8949dbd6865f13f2d0ff1a5e98e9bbe7f15e67c8bbc694668686daf0302defe"
     },
     {
-      "name": "Tallkeep-Setup-0.21.6.exe.part1",
+      "name": "Tallkeep-Setup-0.21.7.exe.part1",
       "size": 47185920,
-      "sha256": "c59e66b6386c62007d14db156223c12515b863e0e4410f5421bc40c5b3391f55"
+      "sha256": "f9bcfd9f1ba471eaf45063aff9a16e9c21ef0369b203bfaee397e8a763411973"
     },
     {
-      "name": "Tallkeep-Setup-0.21.6.exe.part2",
-      "size": 29497295,
-      "sha256": "a7c07f6e46f13813eb8cc9135505846b48b33259e2797a72b0cf1eb0d71c8c56"
+      "name": "Tallkeep-Setup-0.21.7.exe.part2",
+      "size": 29509835,
+      "sha256": "c40e8fb331519c04bd982363027b6613f2ee9b7f6e49d6d091852718900fb821"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.21.6.tgz",
-    "sha256": "7ac74a47d1dfc498a8805adeb7a41d7e0f5070dd755fc956fa28f7db512af0fa",
-    "size": 4846274
+    "file": "tallkeep-server-0.21.7.tgz",
+    "sha256": "f9fbfca71494efe84ee41367c418f0ce9a59c5f98c8a8a595af7157782474dbf",
+    "size": 4847260
   }
 }
