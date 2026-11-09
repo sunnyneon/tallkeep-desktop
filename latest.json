@@ -1,30 +1,30 @@
 {
-  "version": "0.22.0",
-  "file": "Tallkeep-Setup-0.22.0.exe",
-  "sha256": "4d0366778ec22f0c4ee0b39e9db09fc0ac62ca9554f77c0c02e0460f65d841c9",
-  "size": 123877249,
-  "notes": "Shoebox shows how many lines still wait for you in Bank Feeds, with a button to review them.",
-  "date": "2026-11-09T18:57:12.313Z",
+  "version": "0.22.1",
+  "file": "Tallkeep-Setup-0.22.1.exe",
+  "sha256": "a5f229d9dfde2c5e39d9fa2ae1b4ec8555b05100978943f2e3ece70209160ef9",
+  "size": 123869464,
+  "notes": "Bank Feeds: type a new account name in the account box to add it right there. Open Bank Feeds from the Shoebox goes to For review.",
+  "date": "2026-11-09T19:04:31.149Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.22.0.exe.part0",
+      "name": "Tallkeep-Setup-0.22.1.exe.part0",
       "size": 47185920,
-      "sha256": "133b6e0aa805de061219c41a135822aeca2d48de65b97a5a7f489c2a9c06dc51"
+      "sha256": "a68fa126d6e642615e687a9b917c057bc0305de743dcade1c5c328eb239117e5"
     },
     {
-      "name": "Tallkeep-Setup-0.22.0.exe.part1",
+      "name": "Tallkeep-Setup-0.22.1.exe.part1",
       "size": 47185920,
-      "sha256": "ecc53dcf288bc1bc59dd57a900125d25678313cd82e4d2ea169219405d8bca79"
+      "sha256": "61667a482a30aadc64939985682bf410868bed3c699535565f47f8593b0618ff"
     },
     {
-      "name": "Tallkeep-Setup-0.22.0.exe.part2",
-      "size": 29505409,
-      "sha256": "0af4fd95c8946116140b95ee0f7e4d2227a7790324cc7397bafb09aadcced9a3"
+      "name": "Tallkeep-Setup-0.22.1.exe.part2",
+      "size": 29497624,
+      "sha256": "7587cd80be25fa43da1bced676de0e6d9471b732d9f045a131045ccdffcc6f0b"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.22.0.tgz",
-    "sha256": "38489ecd55d12f16675edcf5cfd1b63d478dd225d87237c6e7d68c6cb44c6850",
-    "size": 4846862
+    "file": "tallkeep-server-0.22.1.tgz",
+    "sha256": "ffbc65c30583b9d06a375e23c1c62687c8e97652a316ab00d43d8dc7815533ca",
+    "size": 4847377
   }
 }
