@@ -1,30 +1,30 @@
 {
-  "version": "0.21.9",
-  "file": "Tallkeep-Setup-0.21.9.exe",
-  "sha256": "0a4a6a6d6ef9fbed1dd33dfc5f0f1ba1faab0912fd0e27e7ed1f70a1bcbb9b74",
-  "size": 123869737,
-  "notes": "Shoebox: Try again shows on every item with an error.",
-  "date": "2026-11-09T18:18:45.544Z",
+  "version": "0.22.0",
+  "file": "Tallkeep-Setup-0.22.0.exe",
+  "sha256": "4d0366778ec22f0c4ee0b39e9db09fc0ac62ca9554f77c0c02e0460f65d841c9",
+  "size": 123877249,
+  "notes": "Shoebox shows how many lines still wait for you in Bank Feeds, with a button to review them.",
+  "date": "2026-11-09T18:57:12.313Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.21.9.exe.part0",
+      "name": "Tallkeep-Setup-0.22.0.exe.part0",
       "size": 47185920,
-      "sha256": "8b00b9b63d6d3e7c50c3465fc9e718ba47423c6f14c2f347d7ab1ba19175b392"
+      "sha256": "133b6e0aa805de061219c41a135822aeca2d48de65b97a5a7f489c2a9c06dc51"
     },
     {
-      "name": "Tallkeep-Setup-0.21.9.exe.part1",
+      "name": "Tallkeep-Setup-0.22.0.exe.part1",
       "size": 47185920,
-      "sha256": "31dd3395d2082dc7fe9572ba8706d67606d308f74f5032f47752d545228360ef"
+      "sha256": "ecc53dcf288bc1bc59dd57a900125d25678313cd82e4d2ea169219405d8bca79"
     },
     {
-      "name": "Tallkeep-Setup-0.21.9.exe.part2",
-      "size": 29497897,
-      "sha256": "c22b2c6a47e68a7d9decee574802ddafd51c998513ba4d9fa6905af57efc87ff"
+      "name": "Tallkeep-Setup-0.22.0.exe.part2",
+      "size": 29505409,
+      "sha256": "0af4fd95c8946116140b95ee0f7e4d2227a7790324cc7397bafb09aadcced9a3"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.21.9.tgz",
-    "sha256": "af353f68fef15c311a33eb5fdf2f69df074c1730133c78827837e393f96bf795",
-    "size": 4843582
+    "file": "tallkeep-server-0.22.0.tgz",
+    "sha256": "38489ecd55d12f16675edcf5cfd1b63d478dd225d87237c6e7d68c6cb44c6850",
+    "size": 4846862
   }
 }
