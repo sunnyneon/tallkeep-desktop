@@ -1,30 +1,30 @@
 {
-  "version": "0.21.7",
-  "file": "Tallkeep-Setup-0.21.7.exe",
-  "sha256": "7392eea6e243ef7b7b44ae8032e03cc292bb9eca1b4195e251bd37c600b0961a",
-  "size": 123881675,
-  "notes": "Switching company closes the open tabs and starts at Home. Setting up a new company now asks for the books start date. Saving the company name also renames it in the company list.",
-  "date": "2026-11-08T22:31:25.194Z",
+  "version": "0.21.8",
+  "file": "Tallkeep-Setup-0.21.8.exe",
+  "sha256": "56953fa826aef78106c3e81cf3eff6033a765c94fcc7ee7c657d204780b65e80",
+  "size": 123879719,
+  "notes": "Shoebox: a statement with no activity is filed as done instead of showing an error.",
+  "date": "2026-11-09T17:52:19.659Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.21.7.exe.part0",
+      "name": "Tallkeep-Setup-0.21.8.exe.part0",
       "size": 47185920,
-      "sha256": "d8949dbd6865f13f2d0ff1a5e98e9bbe7f15e67c8bbc694668686daf0302defe"
+      "sha256": "24633fd8f373af1860b2c5298ca51fdb89a14e6e6fb667c43ae9ea27d4ceee6f"
     },
     {
-      "name": "Tallkeep-Setup-0.21.7.exe.part1",
+      "name": "Tallkeep-Setup-0.21.8.exe.part1",
       "size": 47185920,
-      "sha256": "f9bcfd9f1ba471eaf45063aff9a16e9c21ef0369b203bfaee397e8a763411973"
+      "sha256": "3602d1e1d60fb65496399d3fbad65c3f11bee5efc8a8d31e665e67b216e9943d"
     },
     {
-      "name": "Tallkeep-Setup-0.21.7.exe.part2",
-      "size": 29509835,
-      "sha256": "c40e8fb331519c04bd982363027b6613f2ee9b7f6e49d6d091852718900fb821"
+      "name": "Tallkeep-Setup-0.21.8.exe.part2",
+      "size": 29507879,
+      "sha256": "e2e48e0891c90062edf4d84c94e5428a70ddd1a7dddbd5c18ef4906cdcbbe8d4"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.21.7.tgz",
-    "sha256": "f9fbfca71494efe84ee41367c418f0ce9a59c5f98c8a8a595af7157782474dbf",
-    "size": 4847260
+    "file": "tallkeep-server-0.21.8.tgz",
+    "sha256": "66efae820c9049af05862df5f4de1bade7ff90bd9a34c5554d94a15b1aa7792c",
+    "size": 4842059
   }
 }
