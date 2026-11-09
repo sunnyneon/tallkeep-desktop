@@ -1,30 +1,30 @@
 {
-  "version": "0.22.3",
-  "file": "Tallkeep-Setup-0.22.3.exe",
-  "sha256": "128058dd83aac5fdc5d9afd8bd6d1b3dde24239d9547ae187417b8dbecf09c35",
-  "size": 123877485,
-  "notes": "Settings → Company: add and change sales tax rates. Quote and invoice PDFs: more room between Qty, Price and Total.",
-  "date": "2026-11-09T22:35:03.058Z",
+  "version": "0.22.4",
+  "file": "Tallkeep-Setup-0.22.4.exe",
+  "sha256": "f692c0edda0eae4c04ec1b06a0c485ed6a1ae18772bf7d9c1c4075a8f83e9d57",
+  "size": 123877798,
+  "notes": "Settings: each box folds up to its title so long pages are quick to scan; click Open to see it.",
+  "date": "2026-11-09T22:51:31.974Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.22.3.exe.part0",
+      "name": "Tallkeep-Setup-0.22.4.exe.part0",
       "size": 47185920,
-      "sha256": "9e864a8f2062f84f5ec4691640ca538b1f9d64f8fcfeb4a839040c7544c84146"
+      "sha256": "5b0ab14c551df7c940e4de5c7183f493e2d9b16ee7a3dec9c66a3ce979c08e30"
     },
     {
-      "name": "Tallkeep-Setup-0.22.3.exe.part1",
+      "name": "Tallkeep-Setup-0.22.4.exe.part1",
       "size": 47185920,
-      "sha256": "8acdaf01703ab3bf4ebf048a1c89c2538b20b1988ad3a0b42b5ceb4a66c83825"
+      "sha256": "2b40f260fd03209818d56d892a457c89633a2d0df25074e512e3d08712c23f5b"
     },
     {
-      "name": "Tallkeep-Setup-0.22.3.exe.part2",
-      "size": 29505645,
-      "sha256": "e2b29b56284d69df4f44c800c9f4e2dcc887c757acbabfc08c0f4f0f5dbfc00d"
+      "name": "Tallkeep-Setup-0.22.4.exe.part2",
+      "size": 29505958,
+      "sha256": "8925008b28c459a1ffac7c9a28afac9f0eb5fd5d7916a80f23adfd82845a0a53"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.22.3.tgz",
-    "sha256": "86725d2e12b9642c4ad06793ea428dad75f0081b6e7b221b65d5486e6458e3ee",
-    "size": 4845687
+    "file": "tallkeep-server-0.22.4.tgz",
+    "sha256": "37dd8073d8cbdd2fb071496a60d8837ea10dd91ef0fa1760e37e24e57ada7fef",
+    "size": 4847791
   }
 }
