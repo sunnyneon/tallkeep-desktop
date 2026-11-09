@@ -1,30 +1,30 @@
 {
-  "version": "0.22.4",
-  "file": "Tallkeep-Setup-0.22.4.exe",
-  "sha256": "f692c0edda0eae4c04ec1b06a0c485ed6a1ae18772bf7d9c1c4075a8f83e9d57",
-  "size": 123877798,
-  "notes": "Settings: each box folds up to its title so long pages are quick to scan; click Open to see it.",
-  "date": "2026-11-09T22:51:31.974Z",
+  "version": "0.22.5",
+  "file": "Tallkeep-Setup-0.22.5.exe",
+  "sha256": "f5a9e087d66ef6f0b4c92dbddf43cdd2593d34e6ceef8430dd267aaebf707174",
+  "size": 123885215,
+  "notes": "Quotes and invoices on screen and printed: more space between Qty, Price, Disc. and Total.",
+  "date": "2026-11-09T22:58:34.706Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.22.4.exe.part0",
+      "name": "Tallkeep-Setup-0.22.5.exe.part0",
       "size": 47185920,
-      "sha256": "5b0ab14c551df7c940e4de5c7183f493e2d9b16ee7a3dec9c66a3ce979c08e30"
+      "sha256": "79cdfc968f17e7ecbb63527f8d66133c252c0bbef7eb1167ab4e17a6c5cb7ac2"
     },
     {
-      "name": "Tallkeep-Setup-0.22.4.exe.part1",
+      "name": "Tallkeep-Setup-0.22.5.exe.part1",
       "size": 47185920,
-      "sha256": "2b40f260fd03209818d56d892a457c89633a2d0df25074e512e3d08712c23f5b"
+      "sha256": "0317e430be07abefdb7b5a8e15ef0e821959f4a88e291bc5704df803ab716a66"
     },
     {
-      "name": "Tallkeep-Setup-0.22.4.exe.part2",
-      "size": 29505958,
-      "sha256": "8925008b28c459a1ffac7c9a28afac9f0eb5fd5d7916a80f23adfd82845a0a53"
+      "name": "Tallkeep-Setup-0.22.5.exe.part2",
+      "size": 29513375,
+      "sha256": "698f029dbfd534520e9d536e628015b6f21c70cab790232d033a07892eae29be"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.22.4.tgz",
-    "sha256": "37dd8073d8cbdd2fb071496a60d8837ea10dd91ef0fa1760e37e24e57ada7fef",
-    "size": 4847791
+    "file": "tallkeep-server-0.22.5.tgz",
+    "sha256": "0b8a0ba9996a25b9176e057e4da5c2817c512170758cd9d2bf678f829527a4b7",
+    "size": 4849006
   }
 }
