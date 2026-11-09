@@ -1,30 +1,30 @@
 {
-  "version": "0.22.2",
-  "file": "Tallkeep-Setup-0.22.2.exe",
-  "sha256": "542a9a2513eae668c859626c7b5d091e1bbbb88d513affe50cddf28cad93829b",
-  "size": 123884860,
-  "notes": "Statements brought in from Bank Feeds are kept in the Shoebox too, with the file.",
-  "date": "2026-11-09T20:41:22.456Z",
+  "version": "0.22.3",
+  "file": "Tallkeep-Setup-0.22.3.exe",
+  "sha256": "128058dd83aac5fdc5d9afd8bd6d1b3dde24239d9547ae187417b8dbecf09c35",
+  "size": 123877485,
+  "notes": "Settings → Company: add and change sales tax rates. Quote and invoice PDFs: more room between Qty, Price and Total.",
+  "date": "2026-11-09T22:35:03.058Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.22.2.exe.part0",
+      "name": "Tallkeep-Setup-0.22.3.exe.part0",
       "size": 47185920,
-      "sha256": "bbd97ee92ed7e4898abf95d696e74c09c871e3b22c4a813ace1d94ec97b8aadf"
+      "sha256": "9e864a8f2062f84f5ec4691640ca538b1f9d64f8fcfeb4a839040c7544c84146"
     },
     {
-      "name": "Tallkeep-Setup-0.22.2.exe.part1",
+      "name": "Tallkeep-Setup-0.22.3.exe.part1",
       "size": 47185920,
-      "sha256": "16a53912138fc2b5b81e3a1b88defdf6cf70c95c27e7ddfad22b675404770c2d"
+      "sha256": "8acdaf01703ab3bf4ebf048a1c89c2538b20b1988ad3a0b42b5ceb4a66c83825"
     },
     {
-      "name": "Tallkeep-Setup-0.22.2.exe.part2",
-      "size": 29513020,
-      "sha256": "2e91dde89f93ef55f121852b54c681bcc0bec2b9a825028194c513b7145279df"
+      "name": "Tallkeep-Setup-0.22.3.exe.part2",
+      "size": 29505645,
+      "sha256": "e2b29b56284d69df4f44c800c9f4e2dcc887c757acbabfc08c0f4f0f5dbfc00d"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.22.2.tgz",
-    "sha256": "c1906ab5cf80450fdad328451713681d7023f188871975d6591b0ce82c7bb442",
-    "size": 4843201
+    "file": "tallkeep-server-0.22.3.tgz",
+    "sha256": "86725d2e12b9642c4ad06793ea428dad75f0081b6e7b221b65d5486e6458e3ee",
+    "size": 4845687
   }
 }
