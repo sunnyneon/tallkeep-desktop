@@ -1,30 +1,30 @@
 {
-  "version": "0.23.1",
-  "file": "Tallkeep-Setup-0.23.1.exe",
-  "sha256": "abd3aa73a40cec4d3d77bbd91566b49a5a5b0fa587c6143a7427020542854f6a",
-  "size": 123886759,
-  "notes": "A bank or card register warns when the account has no opening balance. Statements brought in from Bank Feeds now set a new account's opening balance too.",
-  "date": "2026-11-10T15:08:53.486Z",
+  "version": "0.23.2",
+  "file": "Tallkeep-Setup-0.23.2.exe",
+  "sha256": "0225b53c16a351e8ebf2e25d10838d4a730edbcb1c94095d7b894b2f8827a9c8",
+  "size": 123900042,
+  "notes": "Bank Feeds: adding a new account asks what kind it is: spending, income, money someone owes you, a loan you owe, another bank account, a card, owner money or something you own.",
+  "date": "2026-11-10T15:29:26.970Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.23.1.exe.part0",
+      "name": "Tallkeep-Setup-0.23.2.exe.part0",
       "size": 47185920,
-      "sha256": "9f412f12a6b187af6b8f1bb275e3ef2fef497af5c3777768bb143b51c4d52bfc"
+      "sha256": "7b29e64ebdd1ad123398317ba0745590759a690153b3c17dc18e6a19d3399c9d"
     },
     {
-      "name": "Tallkeep-Setup-0.23.1.exe.part1",
+      "name": "Tallkeep-Setup-0.23.2.exe.part1",
       "size": 47185920,
-      "sha256": "a1a16f6ce44a9582469f3304c0f4ecff2d4c1fae173d084b67659ee1b6f48fbf"
+      "sha256": "629214af55afdced9eed89c25be4119dd27e1abb6aafd61ef7a7fb65f37428a7"
     },
     {
-      "name": "Tallkeep-Setup-0.23.1.exe.part2",
-      "size": 29514919,
-      "sha256": "ce820fcfedf96aa67111f849bbc198b9f481fd7c7d2f424dd31f50daf5894f7e"
+      "name": "Tallkeep-Setup-0.23.2.exe.part2",
+      "size": 29528202,
+      "sha256": "a4d8d9c3bdc76192f55ca15eba50e99d8ab4e05fce11df1916207efc09f25611"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.23.1.tgz",
-    "sha256": "2cd58c0138d12a98a277366996e7d01094ed60881a5a2aa15351049d28614647",
-    "size": 4858156
+    "file": "tallkeep-server-0.23.2.tgz",
+    "sha256": "af2b51f2d156c8f533e6356d809ac437f26068ab2d42acb1a3c726b06888400d",
+    "size": 4861079
   }
 }
