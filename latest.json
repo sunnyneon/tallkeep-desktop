@@ -1,30 +1,30 @@
 {
-  "version": "0.23.0",
-  "file": "Tallkeep-Setup-0.23.0.exe",
-  "sha256": "c236e00f3279e5470890731c82b7e8c8f99fdfc7152c39a26f9e0ece74e4b16e",
-  "size": 123883770,
-  "notes": "Fulfill part of an invoice and receive part of a purchase order: pick lines and how many, see what's still to go, and undo the latest one.",
-  "date": "2026-11-09T23:27:26.836Z",
+  "version": "0.23.1",
+  "file": "Tallkeep-Setup-0.23.1.exe",
+  "sha256": "abd3aa73a40cec4d3d77bbd91566b49a5a5b0fa587c6143a7427020542854f6a",
+  "size": 123886759,
+  "notes": "A bank or card register warns when the account has no opening balance. Statements brought in from Bank Feeds now set a new account's opening balance too.",
+  "date": "2026-11-10T15:08:53.486Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.23.0.exe.part0",
+      "name": "Tallkeep-Setup-0.23.1.exe.part0",
       "size": 47185920,
-      "sha256": "713760fe492d3ea52d935a743f17bed3d8ef00a57b3390108abd0624195ca7e5"
+      "sha256": "9f412f12a6b187af6b8f1bb275e3ef2fef497af5c3777768bb143b51c4d52bfc"
     },
     {
-      "name": "Tallkeep-Setup-0.23.0.exe.part1",
+      "name": "Tallkeep-Setup-0.23.1.exe.part1",
       "size": 47185920,
-      "sha256": "63450d3268664b26f2a1fbe958d0aeed7f8da63eb618123690eff839fdcf61aa"
+      "sha256": "a1a16f6ce44a9582469f3304c0f4ecff2d4c1fae173d084b67659ee1b6f48fbf"
     },
     {
-      "name": "Tallkeep-Setup-0.23.0.exe.part2",
-      "size": 29511930,
-      "sha256": "2acf447215bda68b925bb5b705133c7b05cb457dc2284f46d0b11296a7a178e0"
+      "name": "Tallkeep-Setup-0.23.1.exe.part2",
+      "size": 29514919,
+      "sha256": "ce820fcfedf96aa67111f849bbc198b9f481fd7c7d2f424dd31f50daf5894f7e"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.23.0.tgz",
-    "sha256": "1d8d5db4a383ce8dbccf5b86a31ea22ae2b1fab75b4195fca7cde9c8db477ebd",
-    "size": 4857712
+    "file": "tallkeep-server-0.23.1.tgz",
+    "sha256": "2cd58c0138d12a98a277366996e7d01094ed60881a5a2aa15351049d28614647",
+    "size": 4858156
   }
 }
