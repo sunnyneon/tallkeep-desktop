@@ -1,30 +1,30 @@
 {
-  "version": "0.23.2",
-  "file": "Tallkeep-Setup-0.23.2.exe",
-  "sha256": "0225b53c16a351e8ebf2e25d10838d4a730edbcb1c94095d7b894b2f8827a9c8",
-  "size": 123900042,
-  "notes": "Bank Feeds: adding a new account asks what kind it is: spending, income, money someone owes you, a loan you owe, another bank account, a card, owner money or something you own.",
-  "date": "2026-11-10T15:29:26.970Z",
+  "version": "0.23.3",
+  "file": "Tallkeep-Setup-0.23.3.exe",
+  "sha256": "f662af92a46bdd7bdb21377c0bb7748fc6fcdfc9ee945f39b6eb2926c5dab7f3",
+  "size": 123879681,
+  "notes": "Chart of Accounts: merge two accounts for the same thing into one.",
+  "date": "2026-11-10T16:03:11.775Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.23.2.exe.part0",
+      "name": "Tallkeep-Setup-0.23.3.exe.part0",
       "size": 47185920,
-      "sha256": "7b29e64ebdd1ad123398317ba0745590759a690153b3c17dc18e6a19d3399c9d"
+      "sha256": "2e0719f9b51f4fd911ad1baed8d066db58ccd341adc2a341bcdaf379bdd73994"
     },
     {
-      "name": "Tallkeep-Setup-0.23.2.exe.part1",
+      "name": "Tallkeep-Setup-0.23.3.exe.part1",
       "size": 47185920,
-      "sha256": "629214af55afdced9eed89c25be4119dd27e1abb6aafd61ef7a7fb65f37428a7"
+      "sha256": "5d4e145451a048cbb1c34abb91154d56f0929e33982f146913ad23c899902817"
     },
     {
-      "name": "Tallkeep-Setup-0.23.2.exe.part2",
-      "size": 29528202,
-      "sha256": "a4d8d9c3bdc76192f55ca15eba50e99d8ab4e05fce11df1916207efc09f25611"
+      "name": "Tallkeep-Setup-0.23.3.exe.part2",
+      "size": 29507841,
+      "sha256": "107fc95952b75808ad0031bb1c9da113273606f164d5234fa6735f87ddd71abf"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.23.2.tgz",
-    "sha256": "af2b51f2d156c8f533e6356d809ac437f26068ab2d42acb1a3c726b06888400d",
-    "size": 4861079
+    "file": "tallkeep-server-0.23.3.tgz",
+    "sha256": "2b1f92260ca4ebc60ba74891ef3b604f9a4f76bd1ca53fc1ac4a8e1f7c019ae3",
+    "size": 4855891
   }
 }
