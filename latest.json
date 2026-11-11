@@ -1,30 +1,30 @@
 {
-  "version": "0.23.3",
-  "file": "Tallkeep-Setup-0.23.3.exe",
-  "sha256": "f662af92a46bdd7bdb21377c0bb7748fc6fcdfc9ee945f39b6eb2926c5dab7f3",
-  "size": 123879681,
-  "notes": "Chart of Accounts: merge two accounts for the same thing into one.",
-  "date": "2026-11-10T16:03:11.775Z",
+  "version": "0.23.4",
+  "file": "Tallkeep-Setup-0.23.4.exe",
+  "sha256": "b00d97168b9d95c5ca28ca1b15367ecdbfe2179f75abc2f9da7353f07deb9179",
+  "size": 123883479,
+  "notes": "Bank Feeds shows how many lines wait in each account; the Shoebox button opens the account that has them.",
+  "date": "2026-11-11T14:44:42.372Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.23.3.exe.part0",
+      "name": "Tallkeep-Setup-0.23.4.exe.part0",
       "size": 47185920,
-      "sha256": "2e0719f9b51f4fd911ad1baed8d066db58ccd341adc2a341bcdaf379bdd73994"
+      "sha256": "b3dc61259f84d6f906cdcd872cfca252ffade1868733493cc251b10bf6c37ec6"
     },
     {
-      "name": "Tallkeep-Setup-0.23.3.exe.part1",
+      "name": "Tallkeep-Setup-0.23.4.exe.part1",
       "size": 47185920,
-      "sha256": "5d4e145451a048cbb1c34abb91154d56f0929e33982f146913ad23c899902817"
+      "sha256": "2e93900999c44f690e72634b143675c3b64dbe68bc239f251ac552d3115c7a6e"
     },
     {
-      "name": "Tallkeep-Setup-0.23.3.exe.part2",
-      "size": 29507841,
-      "sha256": "107fc95952b75808ad0031bb1c9da113273606f164d5234fa6735f87ddd71abf"
+      "name": "Tallkeep-Setup-0.23.4.exe.part2",
+      "size": 29511639,
+      "sha256": "f8f3810fbb6d3b82d84d2237ac4ce59578a5f410c6383efadfefe8fe005724b4"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.23.3.tgz",
-    "sha256": "2b1f92260ca4ebc60ba74891ef3b604f9a4f76bd1ca53fc1ac4a8e1f7c019ae3",
-    "size": 4855891
+    "file": "tallkeep-server-0.23.4.tgz",
+    "sha256": "3306dfb0751b850738d9375c248d088862386205e528eb233928ab7171d5cf38",
+    "size": 4861325
   }
 }
