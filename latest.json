@@ -1,30 +1,30 @@
 {
-  "version": "0.23.4",
-  "file": "Tallkeep-Setup-0.23.4.exe",
-  "sha256": "b00d97168b9d95c5ca28ca1b15367ecdbfe2179f75abc2f9da7353f07deb9179",
-  "size": 123883479,
-  "notes": "Bank Feeds shows how many lines wait in each account; the Shoebox button opens the account that has them.",
-  "date": "2026-11-11T14:44:42.372Z",
+  "version": "0.23.5",
+  "file": "Tallkeep-Setup-0.23.5.exe",
+  "sha256": "8cc07a8559d87a80b89c03051539e00f0376005bf8598f60359a1cbf6e3c3b5a",
+  "size": 123883560,
+  "notes": "Each window works in its own company: switching company in another window, on another computer or the phone no longer changes where this window saves.",
+  "date": "2026-11-11T15:02:26.464Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.23.4.exe.part0",
+      "name": "Tallkeep-Setup-0.23.5.exe.part0",
       "size": 47185920,
-      "sha256": "b3dc61259f84d6f906cdcd872cfca252ffade1868733493cc251b10bf6c37ec6"
+      "sha256": "f2fda628864c560c5cf202ced150ba6a55aa7aa7d576529cb59e1d3736076fb1"
     },
     {
-      "name": "Tallkeep-Setup-0.23.4.exe.part1",
+      "name": "Tallkeep-Setup-0.23.5.exe.part1",
       "size": 47185920,
-      "sha256": "2e93900999c44f690e72634b143675c3b64dbe68bc239f251ac552d3115c7a6e"
+      "sha256": "bcc8e3b7b33b71131f9ae27792bfd08014e25c110c103c621031be961897f372"
     },
     {
-      "name": "Tallkeep-Setup-0.23.4.exe.part2",
-      "size": 29511639,
-      "sha256": "f8f3810fbb6d3b82d84d2237ac4ce59578a5f410c6383efadfefe8fe005724b4"
+      "name": "Tallkeep-Setup-0.23.5.exe.part2",
+      "size": 29511720,
+      "sha256": "6c6d933c58172fbd3228a30cedb6aa492a52513892da9e2e8010f4188292a577"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.23.4.tgz",
-    "sha256": "3306dfb0751b850738d9375c248d088862386205e528eb233928ab7171d5cf38",
-    "size": 4861325
+    "file": "tallkeep-server-0.23.5.tgz",
+    "sha256": "c88f48dc43163c9d5c2898d986ccd90f8ca750d0a3208f7f7b1029b9999fd6b2",
+    "size": 4855440
   }
 }
