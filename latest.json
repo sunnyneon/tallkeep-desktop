@@ -1,30 +1,30 @@
 {
-  "version": "0.23.6",
-  "file": "Tallkeep-Setup-0.23.6.exe",
-  "sha256": "ef58258c4b563d7f4011a88908a2fef7b2f4572f41bfa73651a8df4f59d62963",
-  "size": 123893771,
-  "notes": "Move a quote made in the wrong company to the right one. Search results always open, even in a company without that section.",
-  "date": "2026-11-11T15:21:02.973Z",
+  "version": "0.23.7",
+  "file": "Tallkeep-Setup-0.23.7.exe",
+  "sha256": "92b56342764ffec0de1aa473d5c9a9c04aa90ccdbb305f0c20dcbf81ddac4714",
+  "size": 123887907,
+  "notes": "Each company only gets what its parts are on for: a personal company can't get customers, quotes or invoices. Delete a customer or vendor that was never used.",
+  "date": "2026-11-11T15:50:15.707Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.23.6.exe.part0",
+      "name": "Tallkeep-Setup-0.23.7.exe.part0",
       "size": 47185920,
-      "sha256": "37223f62dac962c684b67cd5a03ea6fc4f8b4780f41ca17cd28fe449a3de8287"
+      "sha256": "6283895cd3f6f326fb4340be6bab9ed7f00f6df77f3b7c0bd7deed2750f06128"
     },
     {
-      "name": "Tallkeep-Setup-0.23.6.exe.part1",
+      "name": "Tallkeep-Setup-0.23.7.exe.part1",
       "size": 47185920,
-      "sha256": "8d9048ffdcf414dd528aa2fe907a5d18bd04c69b6cd022bed2053e5828ab16db"
+      "sha256": "25afb3761359633b0282056d9a117f1384d3a58f22028d9e0d972bcfa6e8df7f"
     },
     {
-      "name": "Tallkeep-Setup-0.23.6.exe.part2",
-      "size": 29521931,
-      "sha256": "f68181ca029692d3e36df52302a2b092e7aec0b66809bfdff5b52a6c3ee3f5bc"
+      "name": "Tallkeep-Setup-0.23.7.exe.part2",
+      "size": 29516067,
+      "sha256": "08b9ae12a593de999f1e0c4aa17988d409d7120a03f05794407a094b62e3c8d3"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.23.6.tgz",
-    "sha256": "8cbada9c38ea981c1d05794d0382623c0c9b90cea716b156ebc102d8e212e4f7",
-    "size": 4865898
+    "file": "tallkeep-server-0.23.7.tgz",
+    "sha256": "c444ce4f40007835eb6b87cf1651edb9e7915f84025aa687457b3179fccd066a",
+    "size": 4864028
   }
 }
