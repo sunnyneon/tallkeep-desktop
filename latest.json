@@ -1,30 +1,30 @@
 {
-  "version": "0.23.7",
-  "file": "Tallkeep-Setup-0.23.7.exe",
-  "sha256": "92b56342764ffec0de1aa473d5c9a9c04aa90ccdbb305f0c20dcbf81ddac4714",
-  "size": 123887907,
-  "notes": "Each company only gets what its parts are on for: a personal company can't get customers, quotes or invoices. Delete a customer or vendor that was never used.",
-  "date": "2026-11-11T15:50:15.707Z",
+  "version": "0.23.8",
+  "file": "Tallkeep-Setup-0.23.8.exe",
+  "sha256": "6c9b9753415c07a20b6572347eb3e1e957ff71c4ac7f16b9fdf7a030c5b948e3",
+  "size": 123896623,
+  "notes": "Quotes and invoices: project name; the customer's PO shows on invoices only; follow up on a quote by email; tick items on an invoice to fulfill them, or fulfill all under the lines.",
+  "date": "2026-11-11T16:17:51.502Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.23.7.exe.part0",
+      "name": "Tallkeep-Setup-0.23.8.exe.part0",
       "size": 47185920,
-      "sha256": "6283895cd3f6f326fb4340be6bab9ed7f00f6df77f3b7c0bd7deed2750f06128"
+      "sha256": "efecd975110a4cadd9cf920e4d82a98d00bcf4a0825a4ea45d4a3719b22a97e6"
     },
     {
-      "name": "Tallkeep-Setup-0.23.7.exe.part1",
+      "name": "Tallkeep-Setup-0.23.8.exe.part1",
       "size": 47185920,
-      "sha256": "25afb3761359633b0282056d9a117f1384d3a58f22028d9e0d972bcfa6e8df7f"
+      "sha256": "8184f2cfb1ca507816e5e1e8b8f7ea517d880fe2f9f1e3006444884d7078303d"
     },
     {
-      "name": "Tallkeep-Setup-0.23.7.exe.part2",
-      "size": 29516067,
-      "sha256": "08b9ae12a593de999f1e0c4aa17988d409d7120a03f05794407a094b62e3c8d3"
+      "name": "Tallkeep-Setup-0.23.8.exe.part2",
+      "size": 29524783,
+      "sha256": "b6557541bb1ecdd8a0295ee56eaef1ae2cf519d85787ea4814189c04b870c1f9"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.23.7.tgz",
-    "sha256": "c444ce4f40007835eb6b87cf1651edb9e7915f84025aa687457b3179fccd066a",
-    "size": 4864028
+    "file": "tallkeep-server-0.23.8.tgz",
+    "sha256": "704ea43ae2a49e7e349dca5bbfb8a0aabefda23a2bce1ac8a44e7ae542854943",
+    "size": 4868087
   }
 }
