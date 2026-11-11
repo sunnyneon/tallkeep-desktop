@@ -1,30 +1,30 @@
 {
-  "version": "0.24.1",
-  "file": "Tallkeep-Setup-0.24.1.exe",
-  "sha256": "c897f058a0bcc18057e46d2fd356efbaca81db8acf781d42fcf6badb82730043",
-  "size": 123888572,
-  "notes": "Statements dropped out of order: the opening balance moves back to the oldest one. Bank Feeds shows which accounts still have lines waiting, one click to each.",
-  "date": "2026-11-11T22:10:41.959Z",
+  "version": "0.24.2",
+  "file": "Tallkeep-Setup-0.24.2.exe",
+  "sha256": "08d80ef21158b58d86f6b4bb042142d7e4fadeefa900257c5c5dc845ab36114b",
+  "size": 123891748,
+  "notes": "Reconcile: each line has Open, to change or delete it right there.",
+  "date": "2026-11-11T22:26:52.644Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.24.1.exe.part0",
+      "name": "Tallkeep-Setup-0.24.2.exe.part0",
       "size": 47185920,
-      "sha256": "8844065da9098462410fe6fbb72187abed83a3d1476729b6783ba261b721ad4b"
+      "sha256": "4f102b7d4898922afd365aaa99e80cd596adfa6ef4dbb8a452cd57417818855d"
     },
     {
-      "name": "Tallkeep-Setup-0.24.1.exe.part1",
+      "name": "Tallkeep-Setup-0.24.2.exe.part1",
       "size": 47185920,
-      "sha256": "d85dcfdd862f6c23b62fdff03314ae2980037f0004567c6897dcc643bfd7d1de"
+      "sha256": "2b9fccec8e649fd0602b032f2e457ec8e01521fa37321e07d45426406a96d597"
     },
     {
-      "name": "Tallkeep-Setup-0.24.1.exe.part2",
-      "size": 29516732,
-      "sha256": "d81f6bb72f6f3a008499f246c74901036552a2ddc565e0c00c07eea350b2aa32"
+      "name": "Tallkeep-Setup-0.24.2.exe.part2",
+      "size": 29519908,
+      "sha256": "99004778bd42112ac7d0f14b71e68a234d219fe17a955931ed6fe21dc609a990"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.24.1.tgz",
-    "sha256": "76cd54aa7fa4b37776a433bfec534d9f7dc4236417805837a240009e71b51bf7",
-    "size": 4866048
+    "file": "tallkeep-server-0.24.2.tgz",
+    "sha256": "d56fdb93303f07a416a4904aa73993ccbcc6b97ff3d81995cb540623f85707e8",
+    "size": 4869289
   }
 }
