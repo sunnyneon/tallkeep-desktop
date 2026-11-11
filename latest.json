@@ -1,30 +1,30 @@
 {
-  "version": "0.24.0",
-  "file": "Tallkeep-Setup-0.24.0.exe",
-  "sha256": "2a2b2f753e520024df79ea98537edb2a36957c235774a013469ac6057a5b0c6c",
-  "size": 123891745,
-  "notes": "The email address you send a quote or invoice to is kept on it, and on the customer when they had none.",
-  "date": "2026-11-11T21:43:24.486Z",
+  "version": "0.24.1",
+  "file": "Tallkeep-Setup-0.24.1.exe",
+  "sha256": "c897f058a0bcc18057e46d2fd356efbaca81db8acf781d42fcf6badb82730043",
+  "size": 123888572,
+  "notes": "Statements dropped out of order: the opening balance moves back to the oldest one. Bank Feeds shows which accounts still have lines waiting, one click to each.",
+  "date": "2026-11-11T22:10:41.959Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.24.0.exe.part0",
+      "name": "Tallkeep-Setup-0.24.1.exe.part0",
       "size": 47185920,
-      "sha256": "fd61d1fd101dc6552f5ec1a13c74cd40dc8bb9c1ea4203d3b0e0681f16ae640e"
+      "sha256": "8844065da9098462410fe6fbb72187abed83a3d1476729b6783ba261b721ad4b"
     },
     {
-      "name": "Tallkeep-Setup-0.24.0.exe.part1",
+      "name": "Tallkeep-Setup-0.24.1.exe.part1",
       "size": 47185920,
-      "sha256": "744b8dafb4a266ab0260ee7d67b98eb441dd96b55af15fc8c57ac967d40faab4"
+      "sha256": "d85dcfdd862f6c23b62fdff03314ae2980037f0004567c6897dcc643bfd7d1de"
     },
     {
-      "name": "Tallkeep-Setup-0.24.0.exe.part2",
-      "size": 29519905,
-      "sha256": "88414dcc5d3c8f964ebc40ec9c68228a50b3913b3edb0cb226c7fd3e3138a2f4"
+      "name": "Tallkeep-Setup-0.24.1.exe.part2",
+      "size": 29516732,
+      "sha256": "d81f6bb72f6f3a008499f246c74901036552a2ddc565e0c00c07eea350b2aa32"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.24.0.tgz",
-    "sha256": "a515f048e47401d6637717f8ade47e116b3abd65ad9a223e5b4a2969aaaedb10",
-    "size": 4865281
+    "file": "tallkeep-server-0.24.1.tgz",
+    "sha256": "76cd54aa7fa4b37776a433bfec534d9f7dc4236417805837a240009e71b51bf7",
+    "size": 4866048
   }
 }
