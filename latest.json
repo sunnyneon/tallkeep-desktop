@@ -1,30 +1,30 @@
 {
-  "version": "0.23.9",
-  "file": "Tallkeep-Setup-0.23.9.exe",
-  "sha256": "bf4d6cd0946cb5a964901ab91996a3c2f93841fda21a2bd79fc43442caf0f0bd",
-  "size": 123886106,
-  "notes": "Quotes and invoices print the customer's contact, phone and email, and the sales rep.",
-  "date": "2026-11-11T21:15:59.912Z",
+  "version": "0.24.0",
+  "file": "Tallkeep-Setup-0.24.0.exe",
+  "sha256": "2a2b2f753e520024df79ea98537edb2a36957c235774a013469ac6057a5b0c6c",
+  "size": 123891745,
+  "notes": "The email address you send a quote or invoice to is kept on it, and on the customer when they had none.",
+  "date": "2026-11-11T21:43:24.486Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.23.9.exe.part0",
+      "name": "Tallkeep-Setup-0.24.0.exe.part0",
       "size": 47185920,
-      "sha256": "94e52b7f8a3c6b44f86442203b4cf9ffcb291d4a9c631c968923120f3a199955"
+      "sha256": "fd61d1fd101dc6552f5ec1a13c74cd40dc8bb9c1ea4203d3b0e0681f16ae640e"
     },
     {
-      "name": "Tallkeep-Setup-0.23.9.exe.part1",
+      "name": "Tallkeep-Setup-0.24.0.exe.part1",
       "size": 47185920,
-      "sha256": "b4ab9dc83c7a16a7dcc8e265e712043ca8616c321064618acf778417b580438f"
+      "sha256": "744b8dafb4a266ab0260ee7d67b98eb441dd96b55af15fc8c57ac967d40faab4"
     },
     {
-      "name": "Tallkeep-Setup-0.23.9.exe.part2",
-      "size": 29514266,
-      "sha256": "d27fef66c1fb5f0ab798bcadc307ee19e48ce1a3ec6893f9493abd85a2d9c9fd"
+      "name": "Tallkeep-Setup-0.24.0.exe.part2",
+      "size": 29519905,
+      "sha256": "88414dcc5d3c8f964ebc40ec9c68228a50b3913b3edb0cb226c7fd3e3138a2f4"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.23.9.tgz",
-    "sha256": "f46fbb01378a87a4c7f058a6e3d095f2f677690d02f33d2f4e485529db4a9096",
-    "size": 4869179
+    "file": "tallkeep-server-0.24.0.tgz",
+    "sha256": "a515f048e47401d6637717f8ade47e116b3abd65ad9a223e5b4a2969aaaedb10",
+    "size": 4865281
   }
 }
