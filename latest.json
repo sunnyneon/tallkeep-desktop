@@ -1,30 +1,30 @@
 {
-  "version": "0.23.5",
-  "file": "Tallkeep-Setup-0.23.5.exe",
-  "sha256": "8cc07a8559d87a80b89c03051539e00f0376005bf8598f60359a1cbf6e3c3b5a",
-  "size": 123883560,
-  "notes": "Each window works in its own company: switching company in another window, on another computer or the phone no longer changes where this window saves.",
-  "date": "2026-11-11T15:02:26.464Z",
+  "version": "0.23.6",
+  "file": "Tallkeep-Setup-0.23.6.exe",
+  "sha256": "ef58258c4b563d7f4011a88908a2fef7b2f4572f41bfa73651a8df4f59d62963",
+  "size": 123893771,
+  "notes": "Move a quote made in the wrong company to the right one. Search results always open, even in a company without that section.",
+  "date": "2026-11-11T15:21:02.973Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.23.5.exe.part0",
+      "name": "Tallkeep-Setup-0.23.6.exe.part0",
       "size": 47185920,
-      "sha256": "f2fda628864c560c5cf202ced150ba6a55aa7aa7d576529cb59e1d3736076fb1"
+      "sha256": "37223f62dac962c684b67cd5a03ea6fc4f8b4780f41ca17cd28fe449a3de8287"
     },
     {
-      "name": "Tallkeep-Setup-0.23.5.exe.part1",
+      "name": "Tallkeep-Setup-0.23.6.exe.part1",
       "size": 47185920,
-      "sha256": "bcc8e3b7b33b71131f9ae27792bfd08014e25c110c103c621031be961897f372"
+      "sha256": "8d9048ffdcf414dd528aa2fe907a5d18bd04c69b6cd022bed2053e5828ab16db"
     },
     {
-      "name": "Tallkeep-Setup-0.23.5.exe.part2",
-      "size": 29511720,
-      "sha256": "6c6d933c58172fbd3228a30cedb6aa492a52513892da9e2e8010f4188292a577"
+      "name": "Tallkeep-Setup-0.23.6.exe.part2",
+      "size": 29521931,
+      "sha256": "f68181ca029692d3e36df52302a2b092e7aec0b66809bfdff5b52a6c3ee3f5bc"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.23.5.tgz",
-    "sha256": "c88f48dc43163c9d5c2898d986ccd90f8ca750d0a3208f7f7b1029b9999fd6b2",
-    "size": 4855440
+    "file": "tallkeep-server-0.23.6.tgz",
+    "sha256": "8cbada9c38ea981c1d05794d0382623c0c9b90cea716b156ebc102d8e212e4f7",
+    "size": 4865898
   }
 }
