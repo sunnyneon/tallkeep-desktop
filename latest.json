@@ -1,30 +1,30 @@
 {
-  "version": "0.24.2",
-  "file": "Tallkeep-Setup-0.24.2.exe",
-  "sha256": "08d80ef21158b58d86f6b4bb042142d7e4fadeefa900257c5c5dc845ab36114b",
-  "size": 123891748,
-  "notes": "Reconcile: each line has Open, to change or delete it right there.",
-  "date": "2026-11-11T22:26:52.644Z",
+  "version": "0.24.3",
+  "file": "Tallkeep-Setup-0.24.3.exe",
+  "sha256": "0373f3c1335d6f735f8352fe374d6f8a705125387feb21d15f480bb0384fd275",
+  "size": 123885150,
+  "notes": "Quotes and invoices: Copy is now Duplicate; Order from vendor shows on invoices only.",
+  "date": "2026-11-12T16:20:17.267Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.24.2.exe.part0",
+      "name": "Tallkeep-Setup-0.24.3.exe.part0",
       "size": 47185920,
-      "sha256": "4f102b7d4898922afd365aaa99e80cd596adfa6ef4dbb8a452cd57417818855d"
+      "sha256": "c2c395f3e15faab78a3fae1e9835b161efb90e1326d609124c270bf6a516281b"
     },
     {
-      "name": "Tallkeep-Setup-0.24.2.exe.part1",
+      "name": "Tallkeep-Setup-0.24.3.exe.part1",
       "size": 47185920,
-      "sha256": "2b9fccec8e649fd0602b032f2e457ec8e01521fa37321e07d45426406a96d597"
+      "sha256": "dcbecc358fb530e730523190ddd0643f0b171a2d14d090d0f0f375514f4355af"
     },
     {
-      "name": "Tallkeep-Setup-0.24.2.exe.part2",
-      "size": 29519908,
-      "sha256": "99004778bd42112ac7d0f14b71e68a234d219fe17a955931ed6fe21dc609a990"
+      "name": "Tallkeep-Setup-0.24.3.exe.part2",
+      "size": 29513310,
+      "sha256": "13e9e8febf81b462c966d0caa1a6ead707a38d99d7595acae9acb3169e658551"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.24.2.tgz",
-    "sha256": "d56fdb93303f07a416a4904aa73993ccbcc6b97ff3d81995cb540623f85707e8",
-    "size": 4869289
+    "file": "tallkeep-server-0.24.3.tgz",
+    "sha256": "8ba8ac42ec0b426505752731fbecc9ec8027060dc4be8941cebd3c7626e761aa",
+    "size": 4872351
   }
 }
