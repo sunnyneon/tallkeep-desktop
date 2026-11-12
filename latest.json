@@ -1,30 +1,30 @@
 {
-  "version": "0.24.3",
-  "file": "Tallkeep-Setup-0.24.3.exe",
-  "sha256": "0373f3c1335d6f735f8352fe374d6f8a705125387feb21d15f480bb0384fd275",
-  "size": 123885150,
-  "notes": "Quotes and invoices: Copy is now Duplicate; Order from vendor shows on invoices only.",
-  "date": "2026-11-12T16:20:17.267Z",
+  "version": "0.24.4",
+  "file": "Tallkeep-Setup-0.24.4.exe",
+  "sha256": "c958e97a0135cd4a4326d5fcf48f528a7a6e81c066d0b545a2c7a13e27525994",
+  "size": 123892881,
+  "notes": "Change a bank line from a loan or expense register: its category can now be changed there.",
+  "date": "2026-11-12T17:41:41.479Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.24.3.exe.part0",
+      "name": "Tallkeep-Setup-0.24.4.exe.part0",
       "size": 47185920,
-      "sha256": "c2c395f3e15faab78a3fae1e9835b161efb90e1326d609124c270bf6a516281b"
+      "sha256": "1d7a4ae41082cf92242756d5dd186c7d8a9466b49fd51dd2a4f6659948fc7af5"
     },
     {
-      "name": "Tallkeep-Setup-0.24.3.exe.part1",
+      "name": "Tallkeep-Setup-0.24.4.exe.part1",
       "size": 47185920,
-      "sha256": "dcbecc358fb530e730523190ddd0643f0b171a2d14d090d0f0f375514f4355af"
+      "sha256": "49567b276e26d7d91d1148158b6a9e57d7646fd2e9af80911eb05b9fdfedc526"
     },
     {
-      "name": "Tallkeep-Setup-0.24.3.exe.part2",
-      "size": 29513310,
-      "sha256": "13e9e8febf81b462c966d0caa1a6ead707a38d99d7595acae9acb3169e658551"
+      "name": "Tallkeep-Setup-0.24.4.exe.part2",
+      "size": 29521041,
+      "sha256": "ebd73d9f8158b8113d0e732b09da0d561f3a3f5ec096c4d6e517bf31e32968fd"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.24.3.tgz",
-    "sha256": "8ba8ac42ec0b426505752731fbecc9ec8027060dc4be8941cebd3c7626e761aa",
-    "size": 4872351
+    "file": "tallkeep-server-0.24.4.tgz",
+    "sha256": "f696cd778920545679de2280576669966891580d69160a4880e82df518e69b3e",
+    "size": 4868863
   }
 }
