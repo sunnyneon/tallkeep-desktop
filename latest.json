@@ -1,30 +1,30 @@
 {
-  "version": "0.24.5",
-  "file": "Tallkeep-Setup-0.24.5.exe",
-  "sha256": "e6d7e3b00590f47e7e05ed6078e5e6f22e22ab89ed8874eaac10477ca34b0749",
-  "size": 123890985,
-  "notes": "Fixed: adding a line to a saved quote, invoice, purchase order or stock document gave a security error.",
-  "date": "2026-11-12T17:54:55.328Z",
+  "version": "0.24.6",
+  "file": "Tallkeep-Setup-0.24.6.exe",
+  "sha256": "d330d1aebefb9290b438498f95fedaabc5d36cdeb9c48133054c0f2b33910894",
+  "size": 123891671,
+  "notes": "Personal companies: Journal Entries is under Taxes & Tools.",
+  "date": "2026-11-12T19:09:02.979Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.24.5.exe.part0",
+      "name": "Tallkeep-Setup-0.24.6.exe.part0",
       "size": 47185920,
-      "sha256": "a24bbdb06a9a56b22702f2288f66a59811ee70f92bbc08fa2302e5d615a23910"
+      "sha256": "d66c16ff5d363ca4236b4fd84c161cf83c2b3294360298223aa9e5597de0ee26"
     },
     {
-      "name": "Tallkeep-Setup-0.24.5.exe.part1",
+      "name": "Tallkeep-Setup-0.24.6.exe.part1",
       "size": 47185920,
-      "sha256": "2e1837913d79359a9ef0b0a1bac3cd40fbb41b03890a6d5455a3d32485e90372"
+      "sha256": "d843f58feceda7351d77399e09ee64ba34c5595803239768e3748daf35a4bd54"
     },
     {
-      "name": "Tallkeep-Setup-0.24.5.exe.part2",
-      "size": 29519145,
-      "sha256": "41f214887945810d7f8ef03dc45d3a0e92bf40cd9cd5a4aff6c26dd4ab44f4da"
+      "name": "Tallkeep-Setup-0.24.6.exe.part2",
+      "size": 29519831,
+      "sha256": "bedaca83ec59d2cdc1308bc8dd916d5de4468efbf794f5fb7ce9f5c5de706ad1"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.24.5.tgz",
-    "sha256": "416c62d77f3576a9b3e6badcef1217789d9cd6bcee26c98e6524d152c0056293",
-    "size": 4870888
+    "file": "tallkeep-server-0.24.6.tgz",
+    "sha256": "637dad80f833cfc11b4c73a8e1f2e4faafcb52496df70f00d81872326c64b0d4",
+    "size": 4870607
   }
 }
