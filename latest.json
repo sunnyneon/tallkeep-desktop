@@ -1,30 +1,30 @@
 {
-  "version": "0.24.6",
-  "file": "Tallkeep-Setup-0.24.6.exe",
-  "sha256": "d330d1aebefb9290b438498f95fedaabc5d36cdeb9c48133054c0f2b33910894",
-  "size": 123891671,
-  "notes": "Personal companies: Journal Entries is under Taxes & Tools.",
-  "date": "2026-11-12T19:09:02.979Z",
+  "version": "0.25.0",
+  "file": "Tallkeep-Setup-0.25.0.exe",
+  "sha256": "16f671cc1c0038e6f5535aeb2ee4dd134da8c64cb8a22922c01a9a3cacc7d243",
+  "size": 123891705,
+  "notes": "New: a sample company. Settings → Company → Sample company: switch it on to try everything in a made-up sign shop; start it over any time.",
+  "date": "2026-11-12T20:55:50.618Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.24.6.exe.part0",
+      "name": "Tallkeep-Setup-0.25.0.exe.part0",
       "size": 47185920,
-      "sha256": "d66c16ff5d363ca4236b4fd84c161cf83c2b3294360298223aa9e5597de0ee26"
+      "sha256": "ede146d466c5893900bcd7d99758f625e30f8c5eee92fa074321c5df8af8a36a"
     },
     {
-      "name": "Tallkeep-Setup-0.24.6.exe.part1",
+      "name": "Tallkeep-Setup-0.25.0.exe.part1",
       "size": 47185920,
-      "sha256": "d843f58feceda7351d77399e09ee64ba34c5595803239768e3748daf35a4bd54"
+      "sha256": "de3b94e3d447887b752a542442868cfc8e2533d410fec06c291c1f401649098c"
     },
     {
-      "name": "Tallkeep-Setup-0.24.6.exe.part2",
-      "size": 29519831,
-      "sha256": "bedaca83ec59d2cdc1308bc8dd916d5de4468efbf794f5fb7ce9f5c5de706ad1"
+      "name": "Tallkeep-Setup-0.25.0.exe.part2",
+      "size": 29519865,
+      "sha256": "0b3531f603cca122f6c2b654eed6844f90316bd5f7e80a5d5c5163e98bb1a7c0"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.24.6.tgz",
-    "sha256": "637dad80f833cfc11b4c73a8e1f2e4faafcb52496df70f00d81872326c64b0d4",
-    "size": 4870607
+    "file": "tallkeep-server-0.25.0.tgz",
+    "sha256": "a19f742a867fd1010066d52d174bc7675bff595f6b934e4f492b0c23fd4a2ee1",
+    "size": 4876659
   }
 }
