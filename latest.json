@@ -1,30 +1,30 @@
 {
-  "version": "0.26.0",
-  "file": "Tallkeep-Setup-0.26.0.exe",
-  "sha256": "1bf13268f27bbe9cb015ae1e75627e5e442c407cf378952a357bf4cf46ee6a86",
-  "size": 123924792,
-  "notes": "Repeating invoices for monthly billing: open an invoice and press Repeat this invoice. The office computer now also makes repeating payments, bills and rent by itself each day.",
-  "date": "2026-11-13T18:01:18.452Z",
+  "version": "0.26.1",
+  "file": "Tallkeep-Setup-0.26.1.exe",
+  "sha256": "700aec18f7215f11f176e03a0b279ee6623d34376899cddf74f02957d14e0a67",
+  "size": 123922142,
+  "notes": "Repeating invoices can be emailed to the customer by themselves. Overdue reminders (Settings, Features). Fixes saving company settings.",
+  "date": "2026-11-13T21:38:07.257Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.0.exe.part0",
+      "name": "Tallkeep-Setup-0.26.1.exe.part0",
       "size": 47185920,
-      "sha256": "f324c874f0a8a82055031ca1341bbceb47fe89e3b75db505789aeed130ed1731"
+      "sha256": "e3b3f705a96ea2e86c7d8e8b39bc31a9d6c2680e029c68796519d0a6a692fd97"
     },
     {
-      "name": "Tallkeep-Setup-0.26.0.exe.part1",
+      "name": "Tallkeep-Setup-0.26.1.exe.part1",
       "size": 47185920,
-      "sha256": "6df45e574394dee195c4e23adb74941d04a02b0968bc3710ca6f0e5fb9a5506a"
+      "sha256": "000fe01fa53c1dbd73f028dbb9ec26f8fde1c6f2d2609e2f332cd126dae7f963"
     },
     {
-      "name": "Tallkeep-Setup-0.26.0.exe.part2",
-      "size": 29552952,
-      "sha256": "cce703c7b42fe0d6e3cd037e25cabf42fd7606fd1e4dcdb04207f70be55e39b5"
+      "name": "Tallkeep-Setup-0.26.1.exe.part2",
+      "size": 29550302,
+      "sha256": "3a6e2a4f4107ab62a73f9ccd1474988a39b92664472992c82734ec4c0f612f32"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.0.tgz",
-    "sha256": "c90116f36b9cace1957b6e1e97d87e743c102e9264e888ed145b9feb9585754c",
-    "size": 4900743
+    "file": "tallkeep-server-0.26.1.tgz",
+    "sha256": "193efa7b9d2b8613c4502fe903381712410ad416c4e74f91c28d4ab541e1e0b8",
+    "size": 4922887
   }
 }
