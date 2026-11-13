@@ -1,30 +1,30 @@
 {
-  "version": "0.25.0",
-  "file": "Tallkeep-Setup-0.25.0.exe",
-  "sha256": "16f671cc1c0038e6f5535aeb2ee4dd134da8c64cb8a22922c01a9a3cacc7d243",
-  "size": 123891705,
-  "notes": "New: a sample company. Settings → Company → Sample company: switch it on to try everything in a made-up sign shop; start it over any time.",
-  "date": "2026-11-12T20:55:50.618Z",
+  "version": "0.25.1",
+  "file": "Tallkeep-Setup-0.25.1.exe",
+  "sha256": "e65ac2f8c2b097a230b24089cae164ac63eb4238071ce7afde818f03c37c0431",
+  "size": 123898736,
+  "notes": "Change history: see who changed what and when, with before and after. Settings boxes: the Open button now sits at the bottom.",
+  "date": "2026-11-13T17:24:03.348Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.25.0.exe.part0",
+      "name": "Tallkeep-Setup-0.25.1.exe.part0",
       "size": 47185920,
-      "sha256": "ede146d466c5893900bcd7d99758f625e30f8c5eee92fa074321c5df8af8a36a"
+      "sha256": "5923494effbb4e06d6bb1c1ce9f39bd48f351e2ff6c042348854a106db6c84e3"
     },
     {
-      "name": "Tallkeep-Setup-0.25.0.exe.part1",
+      "name": "Tallkeep-Setup-0.25.1.exe.part1",
       "size": 47185920,
-      "sha256": "de3b94e3d447887b752a542442868cfc8e2533d410fec06c291c1f401649098c"
+      "sha256": "3b95f8d67ea3c8e0c42361ebd31750d53174a25831d58aab0f8e64dabeda2192"
     },
     {
-      "name": "Tallkeep-Setup-0.25.0.exe.part2",
-      "size": 29519865,
-      "sha256": "0b3531f603cca122f6c2b654eed6844f90316bd5f7e80a5d5c5163e98bb1a7c0"
+      "name": "Tallkeep-Setup-0.25.1.exe.part2",
+      "size": 29526896,
+      "sha256": "5e9fdbe77ff520b3d21936f1690eaceee9703d83ac4d9bde6472c655538312a2"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.25.0.tgz",
-    "sha256": "a19f742a867fd1010066d52d174bc7675bff595f6b934e4f492b0c23fd4a2ee1",
-    "size": 4876659
+    "file": "tallkeep-server-0.25.1.tgz",
+    "sha256": "32a2d94152ff4badc4297755e41a8dbdb1b0be36c1e2e720fcc68658de2c4827",
+    "size": 4885829
   }
 }
