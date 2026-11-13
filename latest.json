@@ -1,30 +1,30 @@
 {
-  "version": "0.25.1",
-  "file": "Tallkeep-Setup-0.25.1.exe",
-  "sha256": "e65ac2f8c2b097a230b24089cae164ac63eb4238071ce7afde818f03c37c0431",
-  "size": 123898736,
-  "notes": "Change history: see who changed what and when, with before and after. Settings boxes: the Open button now sits at the bottom.",
-  "date": "2026-11-13T17:24:03.348Z",
+  "version": "0.25.2",
+  "file": "Tallkeep-Setup-0.25.2.exe",
+  "sha256": "6369e1c3c84bcc729a837437fc5897cbe75d6c41e84e2dc816a601ee075652d4",
+  "size": 123899495,
+  "notes": "Can look, can't change: give an accountant read-only access to a company in Settings, People.",
+  "date": "2026-11-13T17:44:57.124Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.25.1.exe.part0",
+      "name": "Tallkeep-Setup-0.25.2.exe.part0",
       "size": 47185920,
-      "sha256": "5923494effbb4e06d6bb1c1ce9f39bd48f351e2ff6c042348854a106db6c84e3"
+      "sha256": "26fcee775de3cea5e098797e1143789cefcc063eed24f2a73a68afd4c43df1f0"
     },
     {
-      "name": "Tallkeep-Setup-0.25.1.exe.part1",
+      "name": "Tallkeep-Setup-0.25.2.exe.part1",
       "size": 47185920,
-      "sha256": "3b95f8d67ea3c8e0c42361ebd31750d53174a25831d58aab0f8e64dabeda2192"
+      "sha256": "33808314699988ad0d0ccf9bf634a9a36cf32376e334251ac17af72b5f6d12f1"
     },
     {
-      "name": "Tallkeep-Setup-0.25.1.exe.part2",
-      "size": 29526896,
-      "sha256": "5e9fdbe77ff520b3d21936f1690eaceee9703d83ac4d9bde6472c655538312a2"
+      "name": "Tallkeep-Setup-0.25.2.exe.part2",
+      "size": 29527655,
+      "sha256": "dfbc7d3ca9a7cb434d41bd5f36328bb3fe7b59141d56099d6874a55ca9e917aa"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.25.1.tgz",
-    "sha256": "32a2d94152ff4badc4297755e41a8dbdb1b0be36c1e2e720fcc68658de2c4827",
-    "size": 4885829
+    "file": "tallkeep-server-0.25.2.tgz",
+    "sha256": "9817d6aea93dfa68bb89f10d8f043646cdec0e16fa5a843b4311af1e606cde2e",
+    "size": 4888583
   }
 }
