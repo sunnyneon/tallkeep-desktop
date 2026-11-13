@@ -1,30 +1,30 @@
 {
-  "version": "0.25.2",
-  "file": "Tallkeep-Setup-0.25.2.exe",
-  "sha256": "6369e1c3c84bcc729a837437fc5897cbe75d6c41e84e2dc816a601ee075652d4",
-  "size": 123899495,
-  "notes": "Can look, can't change: give an accountant read-only access to a company in Settings, People.",
-  "date": "2026-11-13T17:44:57.124Z",
+  "version": "0.26.0",
+  "file": "Tallkeep-Setup-0.26.0.exe",
+  "sha256": "1bf13268f27bbe9cb015ae1e75627e5e442c407cf378952a357bf4cf46ee6a86",
+  "size": 123924792,
+  "notes": "Repeating invoices for monthly billing: open an invoice and press Repeat this invoice. The office computer now also makes repeating payments, bills and rent by itself each day.",
+  "date": "2026-11-13T18:01:18.452Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.25.2.exe.part0",
+      "name": "Tallkeep-Setup-0.26.0.exe.part0",
       "size": 47185920,
-      "sha256": "26fcee775de3cea5e098797e1143789cefcc063eed24f2a73a68afd4c43df1f0"
+      "sha256": "f324c874f0a8a82055031ca1341bbceb47fe89e3b75db505789aeed130ed1731"
     },
     {
-      "name": "Tallkeep-Setup-0.25.2.exe.part1",
+      "name": "Tallkeep-Setup-0.26.0.exe.part1",
       "size": 47185920,
-      "sha256": "33808314699988ad0d0ccf9bf634a9a36cf32376e334251ac17af72b5f6d12f1"
+      "sha256": "6df45e574394dee195c4e23adb74941d04a02b0968bc3710ca6f0e5fb9a5506a"
     },
     {
-      "name": "Tallkeep-Setup-0.25.2.exe.part2",
-      "size": 29527655,
-      "sha256": "dfbc7d3ca9a7cb434d41bd5f36328bb3fe7b59141d56099d6874a55ca9e917aa"
+      "name": "Tallkeep-Setup-0.26.0.exe.part2",
+      "size": 29552952,
+      "sha256": "cce703c7b42fe0d6e3cd037e25cabf42fd7606fd1e4dcdb04207f70be55e39b5"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.25.2.tgz",
-    "sha256": "9817d6aea93dfa68bb89f10d8f043646cdec0e16fa5a843b4311af1e606cde2e",
-    "size": 4888583
+    "file": "tallkeep-server-0.26.0.tgz",
+    "sha256": "c90116f36b9cace1957b6e1e97d87e743c102e9264e888ed145b9feb9585754c",
+    "size": 4900743
   }
 }
