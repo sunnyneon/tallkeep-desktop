@@ -1,30 +1,30 @@
 {
-  "version": "0.26.5",
-  "file": "Tallkeep-Setup-0.26.5.exe",
-  "sha256": "6d050437b3bd1f61220cb02318c28dc1188e18ec6b45cb40ef5a28e021cc4b94",
-  "size": 123946678,
-  "notes": "Colorful charts on Profit & Loss and Overview: income and expenses by month, and where the money went.",
-  "date": "2026-11-14T20:14:03.433Z",
+  "version": "0.26.6",
+  "file": "Tallkeep-Setup-0.26.6.exe",
+  "sha256": "1c44048abdd65e1892742cbac1a6bdace77f522e897e46ba49458c98b1b9b2b6",
+  "size": 123975892,
+  "notes": "Import templates: bring your data in from any program with simple spreadsheets (Settings, Import & backups).",
+  "date": "2026-11-14T20:39:02.456Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.5.exe.part0",
+      "name": "Tallkeep-Setup-0.26.6.exe.part0",
       "size": 47185920,
-      "sha256": "79430bc26537a682a80284f6c252adc3c482d05892a2794c59cf8b0ae8c077cd"
+      "sha256": "3591f92f34857491554a707fd6e7fcb47a6c1edd1bb2c6b77b40a00b00ac88ff"
     },
     {
-      "name": "Tallkeep-Setup-0.26.5.exe.part1",
+      "name": "Tallkeep-Setup-0.26.6.exe.part1",
       "size": 47185920,
-      "sha256": "dc3997f020f481eb022ea55c2777dfddabcb39e6542a9dd8f5d6be9d48f25636"
+      "sha256": "9fa68c49723dec885fa47a39dc179e28932a94a74caf76a1e9a46aac341cac68"
     },
     {
-      "name": "Tallkeep-Setup-0.26.5.exe.part2",
-      "size": 29574838,
-      "sha256": "2dbca52e6ca048d45bde7ad9c7d32f33516d46788ae189dec86f2606f0ff0a94"
+      "name": "Tallkeep-Setup-0.26.6.exe.part2",
+      "size": 29604052,
+      "sha256": "fe7832ff8adc7a1b28ae5278db32a9f11fb825f933ded88891b3f5b2c3f2daf4"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.5.tgz",
-    "sha256": "5ef627737921bdb51243bd7a95f85f348826c8e4b56ed695901c5b3db639f255",
-    "size": 4971935
+    "file": "tallkeep-server-0.26.6.tgz",
+    "sha256": "78003298a2094a5cf48745898a23fe142eb938c2cc600105f835811445dfebf9",
+    "size": 4984471
   }
 }
