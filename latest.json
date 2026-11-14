@@ -1,30 +1,30 @@
 {
-  "version": "0.26.1",
-  "file": "Tallkeep-Setup-0.26.1.exe",
-  "sha256": "700aec18f7215f11f176e03a0b279ee6623d34376899cddf74f02957d14e0a67",
-  "size": 123922142,
-  "notes": "Repeating invoices can be emailed to the customer by themselves. Overdue reminders (Settings, Features). Fixes saving company settings.",
-  "date": "2026-11-13T21:38:07.257Z",
+  "version": "0.26.2",
+  "file": "Tallkeep-Setup-0.26.2.exe",
+  "sha256": "c00d85ce7d04e4bb619bc59a727487c578bca64f639970c0e03b81c8544b56de",
+  "size": 123922972,
+  "notes": "Customers can accept quotes online and pay the deposit. Customers can pay by card, Apple Pay, Google Pay or bank account.",
+  "date": "2026-11-14T17:22:40.467Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.1.exe.part0",
+      "name": "Tallkeep-Setup-0.26.2.exe.part0",
       "size": 47185920,
-      "sha256": "e3b3f705a96ea2e86c7d8e8b39bc31a9d6c2680e029c68796519d0a6a692fd97"
+      "sha256": "600e1dbc176b307fa250a57367db12a9a5c5be3de241bc48e38e7a1b983df930"
     },
     {
-      "name": "Tallkeep-Setup-0.26.1.exe.part1",
+      "name": "Tallkeep-Setup-0.26.2.exe.part1",
       "size": 47185920,
-      "sha256": "000fe01fa53c1dbd73f028dbb9ec26f8fde1c6f2d2609e2f332cd126dae7f963"
+      "sha256": "bf7a4f39551d09f659aebe7089f590b159250cd794df4fa185b0dcb158da5f2b"
     },
     {
-      "name": "Tallkeep-Setup-0.26.1.exe.part2",
-      "size": 29550302,
-      "sha256": "3a6e2a4f4107ab62a73f9ccd1474988a39b92664472992c82734ec4c0f612f32"
+      "name": "Tallkeep-Setup-0.26.2.exe.part2",
+      "size": 29551132,
+      "sha256": "861b7d84925a35538619a9b3d879f90a44ce94a553cf4732d003b4675e8d4d9e"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.1.tgz",
-    "sha256": "193efa7b9d2b8613c4502fe903381712410ad416c4e74f91c28d4ab541e1e0b8",
-    "size": 4922887
+    "file": "tallkeep-server-0.26.2.tgz",
+    "sha256": "9514ba59a7bf59b20a50b649cf821c5c70ef4c7dfa245976696428ea985fc0e9",
+    "size": 4930596
   }
 }
