@@ -1,30 +1,30 @@
 {
-  "version": "0.26.6",
-  "file": "Tallkeep-Setup-0.26.6.exe",
-  "sha256": "1c44048abdd65e1892742cbac1a6bdace77f522e897e46ba49458c98b1b9b2b6",
-  "size": 123975892,
-  "notes": "Import templates: bring your data in from any program with simple spreadsheets (Settings, Import & backups).",
-  "date": "2026-11-14T20:39:02.456Z",
+  "version": "0.26.7",
+  "file": "Tallkeep-Setup-0.26.7.exe",
+  "sha256": "9f0ff08328149c77ad88c47a543159492c0336705de15e42b2da98e53ef582f1",
+  "size": 123976699,
+  "notes": "Phone home screen with quick jobs; bank connections through SimpleFIN (new bank and card lines every morning, read-only)",
+  "date": "2026-11-14T21:29:03.484Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.6.exe.part0",
+      "name": "Tallkeep-Setup-0.26.7.exe.part0",
       "size": 47185920,
-      "sha256": "3591f92f34857491554a707fd6e7fcb47a6c1edd1bb2c6b77b40a00b00ac88ff"
+      "sha256": "52f7ed4d4e9e50c1bf4a1e0c872e8fda1c74ca8d06e2e141d40c597974b570fb"
     },
     {
-      "name": "Tallkeep-Setup-0.26.6.exe.part1",
+      "name": "Tallkeep-Setup-0.26.7.exe.part1",
       "size": 47185920,
-      "sha256": "9fa68c49723dec885fa47a39dc179e28932a94a74caf76a1e9a46aac341cac68"
+      "sha256": "4a227f29270d4ceffc9ff51d659011a3f758b166065f6ca8643bd559234dfff2"
     },
     {
-      "name": "Tallkeep-Setup-0.26.6.exe.part2",
-      "size": 29604052,
-      "sha256": "fe7832ff8adc7a1b28ae5278db32a9f11fb825f933ded88891b3f5b2c3f2daf4"
+      "name": "Tallkeep-Setup-0.26.7.exe.part2",
+      "size": 29604859,
+      "sha256": "570a1d05618a359a7e24f11988835a2b8c80ad9296d19f318823604c242565a8"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.6.tgz",
-    "sha256": "78003298a2094a5cf48745898a23fe142eb938c2cc600105f835811445dfebf9",
-    "size": 4984471
+    "file": "tallkeep-server-0.26.7.tgz",
+    "sha256": "ec8aa82ddae1561d3301c527a05173dc47e21077718202a3da10c24759308dc4",
+    "size": 4997792
   }
 }
