@@ -1,30 +1,30 @@
 {
-  "version": "0.26.4",
-  "file": "Tallkeep-Setup-0.26.4.exe",
-  "sha256": "bfac4672e1118e77559bfc8cda6a8e4a1f64089a7a44c368bd89ddbbfb412ea0",
-  "size": 123930959,
-  "notes": "Owner role: only the Owner adds or changes people, connects Stripe and enters the license key. Hand it over to another admin any time.",
-  "date": "2026-11-14T20:03:44.855Z",
+  "version": "0.26.5",
+  "file": "Tallkeep-Setup-0.26.5.exe",
+  "sha256": "6d050437b3bd1f61220cb02318c28dc1188e18ec6b45cb40ef5a28e021cc4b94",
+  "size": 123946678,
+  "notes": "Colorful charts on Profit & Loss and Overview: income and expenses by month, and where the money went.",
+  "date": "2026-11-14T20:14:03.433Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.4.exe.part0",
+      "name": "Tallkeep-Setup-0.26.5.exe.part0",
       "size": 47185920,
-      "sha256": "fa1533f4cb568522101b6e9e2b7d90c40f7f9aad349d67a1d6770bcc3877661e"
+      "sha256": "79430bc26537a682a80284f6c252adc3c482d05892a2794c59cf8b0ae8c077cd"
     },
     {
-      "name": "Tallkeep-Setup-0.26.4.exe.part1",
+      "name": "Tallkeep-Setup-0.26.5.exe.part1",
       "size": 47185920,
-      "sha256": "004dfcea5124ba181e29ac6d3e0ba07badb03d483da6ee9ff078a03133a7ba4b"
+      "sha256": "dc3997f020f481eb022ea55c2777dfddabcb39e6542a9dd8f5d6be9d48f25636"
     },
     {
-      "name": "Tallkeep-Setup-0.26.4.exe.part2",
-      "size": 29559119,
-      "sha256": "a95c89be16a8b4e551dbd029bbb369a76e1e94d5790ac7ed4b6852c823c9a46e"
+      "name": "Tallkeep-Setup-0.26.5.exe.part2",
+      "size": 29574838,
+      "sha256": "2dbca52e6ca048d45bde7ad9c7d32f33516d46788ae189dec86f2606f0ff0a94"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.4.tgz",
-    "sha256": "0ddf41899d29a5d69b2e6ee45754076df50c84d0700379d1901cbf7912d6dc50",
-    "size": 4941342
+    "file": "tallkeep-server-0.26.5.tgz",
+    "sha256": "5ef627737921bdb51243bd7a95f85f348826c8e4b56ed695901c5b3db639f255",
+    "size": 4971935
   }
 }
