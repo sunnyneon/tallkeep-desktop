@@ -1,30 +1,30 @@
 {
-  "version": "0.26.3",
-  "file": "Tallkeep-Setup-0.26.3.exe",
-  "sha256": "957a37aab37a824ff6f81e50b5b4dd54914415559804a155890c8636f3fd3247",
-  "size": 123935914,
-  "notes": "Email wording: set your own subject and message for quote, invoice, follow-up, reminder and purchase order emails (Settings, Features).",
-  "date": "2026-11-14T19:51:06.688Z",
+  "version": "0.26.4",
+  "file": "Tallkeep-Setup-0.26.4.exe",
+  "sha256": "bfac4672e1118e77559bfc8cda6a8e4a1f64089a7a44c368bd89ddbbfb412ea0",
+  "size": 123930959,
+  "notes": "Owner role: only the Owner adds or changes people, connects Stripe and enters the license key. Hand it over to another admin any time.",
+  "date": "2026-11-14T20:03:44.855Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.3.exe.part0",
+      "name": "Tallkeep-Setup-0.26.4.exe.part0",
       "size": 47185920,
-      "sha256": "73423bab591dc9590d5b9815c9b16becdf6cde34ccb063782ada5d59e3fac67e"
+      "sha256": "fa1533f4cb568522101b6e9e2b7d90c40f7f9aad349d67a1d6770bcc3877661e"
     },
     {
-      "name": "Tallkeep-Setup-0.26.3.exe.part1",
+      "name": "Tallkeep-Setup-0.26.4.exe.part1",
       "size": 47185920,
-      "sha256": "884fb15edb55034893288638c096389701f8f8cbbe71653db30e54a9cebb1d09"
+      "sha256": "004dfcea5124ba181e29ac6d3e0ba07badb03d483da6ee9ff078a03133a7ba4b"
     },
     {
-      "name": "Tallkeep-Setup-0.26.3.exe.part2",
-      "size": 29564074,
-      "sha256": "fe088a477d8f553fdc3ac3b563ae7108a29fdbdaa9fc20327763973029f652ca"
+      "name": "Tallkeep-Setup-0.26.4.exe.part2",
+      "size": 29559119,
+      "sha256": "a95c89be16a8b4e551dbd029bbb369a76e1e94d5790ac7ed4b6852c823c9a46e"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.3.tgz",
-    "sha256": "99d8e0f9079bb1c3d599d3b55b9b8a81d187f09956179eeafb7d3b780429aa72",
-    "size": 4934735
+    "file": "tallkeep-server-0.26.4.tgz",
+    "sha256": "0ddf41899d29a5d69b2e6ee45754076df50c84d0700379d1901cbf7912d6dc50",
+    "size": 4941342
   }
 }
