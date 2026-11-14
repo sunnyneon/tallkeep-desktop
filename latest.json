@@ -1,30 +1,30 @@
 {
-  "version": "0.26.2",
-  "file": "Tallkeep-Setup-0.26.2.exe",
-  "sha256": "c00d85ce7d04e4bb619bc59a727487c578bca64f639970c0e03b81c8544b56de",
-  "size": 123922972,
-  "notes": "Customers can accept quotes online and pay the deposit. Customers can pay by card, Apple Pay, Google Pay or bank account.",
-  "date": "2026-11-14T17:22:40.467Z",
+  "version": "0.26.3",
+  "file": "Tallkeep-Setup-0.26.3.exe",
+  "sha256": "957a37aab37a824ff6f81e50b5b4dd54914415559804a155890c8636f3fd3247",
+  "size": 123935914,
+  "notes": "Email wording: set your own subject and message for quote, invoice, follow-up, reminder and purchase order emails (Settings, Features).",
+  "date": "2026-11-14T19:51:06.688Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.2.exe.part0",
+      "name": "Tallkeep-Setup-0.26.3.exe.part0",
       "size": 47185920,
-      "sha256": "600e1dbc176b307fa250a57367db12a9a5c5be3de241bc48e38e7a1b983df930"
+      "sha256": "73423bab591dc9590d5b9815c9b16becdf6cde34ccb063782ada5d59e3fac67e"
     },
     {
-      "name": "Tallkeep-Setup-0.26.2.exe.part1",
+      "name": "Tallkeep-Setup-0.26.3.exe.part1",
       "size": 47185920,
-      "sha256": "bf7a4f39551d09f659aebe7089f590b159250cd794df4fa185b0dcb158da5f2b"
+      "sha256": "884fb15edb55034893288638c096389701f8f8cbbe71653db30e54a9cebb1d09"
     },
     {
-      "name": "Tallkeep-Setup-0.26.2.exe.part2",
-      "size": 29551132,
-      "sha256": "861b7d84925a35538619a9b3d879f90a44ce94a553cf4732d003b4675e8d4d9e"
+      "name": "Tallkeep-Setup-0.26.3.exe.part2",
+      "size": 29564074,
+      "sha256": "fe088a477d8f553fdc3ac3b563ae7108a29fdbdaa9fc20327763973029f652ca"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.2.tgz",
-    "sha256": "9514ba59a7bf59b20a50b649cf821c5c70ef4c7dfa245976696428ea985fc0e9",
-    "size": 4930596
+    "file": "tallkeep-server-0.26.3.tgz",
+    "sha256": "99d8e0f9079bb1c3d599d3b55b9b8a81d187f09956179eeafb7d3b780429aa72",
+    "size": 4934735
   }
 }
