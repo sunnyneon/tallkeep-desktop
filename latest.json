@@ -1,30 +1,30 @@
 {
-  "version": "0.26.12",
-  "file": "Tallkeep-Setup-0.26.12.exe",
-  "sha256": "3f61ee8fc41c1bbdf5ca961d04c0e99a2f8e6193703eb9112a0d9a26c71b0368",
-  "size": 123975801,
-  "notes": "Safer server updates in Docker",
-  "date": "2026-11-15T19:32:40.267Z",
+  "version": "0.26.13",
+  "file": "Tallkeep-Setup-0.26.13.exe",
+  "sha256": "0c46973fdb538679e82916b3877bab5cb6cc0f81c1a085d18aea67cfd6fa02a7",
+  "size": 123995292,
+  "notes": "Bank connections: no more 45-day warning; new help pages",
+  "date": "2026-11-15T20:31:03.500Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.12.exe.part0",
+      "name": "Tallkeep-Setup-0.26.13.exe.part0",
       "size": 47185920,
-      "sha256": "e7839e65d73b759a576fcb8e2f7854a6931155cf9fdc97b4a82ed9e6728c1fdf"
+      "sha256": "316f089dc3aa608130d0c7c53af30975e259e9ea408f7f28352c47c37c229296"
     },
     {
-      "name": "Tallkeep-Setup-0.26.12.exe.part1",
+      "name": "Tallkeep-Setup-0.26.13.exe.part1",
       "size": 47185920,
-      "sha256": "9e1624d441922d5ae739c59101645144417e27136c885a360f2adfa2e25715d9"
+      "sha256": "a97d2bc496ea2026bc8ac1ec538bacdf6da924abf1b9af3da856b7f041590a72"
     },
     {
-      "name": "Tallkeep-Setup-0.26.12.exe.part2",
-      "size": 29603961,
-      "sha256": "dfec150e84d2ae3546b213f343e930f4b9725b913a9dcc41c1e0d381bdd5b63b"
+      "name": "Tallkeep-Setup-0.26.13.exe.part2",
+      "size": 29623452,
+      "sha256": "c82823d2bfd2c94273176038b6b974924006df221a04f4fdae2b993aba107948"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.12.tgz",
-    "sha256": "5af6452edf3848327e544d188d39399709fa3dcb8a654178e4b5c7136cf37c90",
-    "size": 5004633
+    "file": "tallkeep-server-0.26.13.tgz",
+    "sha256": "d194466288ad51ef367899f254c59084a91674823fcffbd820d7838a7143e775",
+    "size": 5011971
   }
 }
