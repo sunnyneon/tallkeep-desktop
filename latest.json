@@ -1,30 +1,30 @@
 {
-  "version": "0.26.10",
-  "file": "Tallkeep-Setup-0.26.10.exe",
-  "sha256": "d666318ebefb3b26f0144d9f786e487e125b671cb75d6fcbc3b668412746785a",
-  "size": 123972486,
-  "notes": "Shows the version number under the menu",
-  "date": "2026-11-15T19:10:12.179Z",
+  "version": "0.26.11",
+  "file": "Tallkeep-Setup-0.26.11.exe",
+  "sha256": "53a7b3e44135e80749086eb2fa06f01b8f865fabfece1083dda35d1707f63dbe",
+  "size": 123987648,
+  "notes": "Bank Feeds is now Review & Reconcile; bank connections take one line there",
+  "date": "2026-11-15T19:19:43.742Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.10.exe.part0",
+      "name": "Tallkeep-Setup-0.26.11.exe.part0",
       "size": 47185920,
-      "sha256": "6db6a8e56e6218dbd0b90727dc2395d7ca7720a2de7456d0758e7315fad1ebe9"
+      "sha256": "302c4913968bdd3400246832789b232666f52eec56ef1724d8de514537ee41c6"
     },
     {
-      "name": "Tallkeep-Setup-0.26.10.exe.part1",
+      "name": "Tallkeep-Setup-0.26.11.exe.part1",
       "size": 47185920,
-      "sha256": "7830dd5ef429a36113afef1c25933f1651bf1db4b91d7332d9e4abd099989992"
+      "sha256": "fc3c6aca41d9ae36d30028341d1d301638b8d32e530bc3c6ecd479fe7282841c"
     },
     {
-      "name": "Tallkeep-Setup-0.26.10.exe.part2",
-      "size": 29600646,
-      "sha256": "3316bf00389f793e519fc7dd9301da65a847f550ece431a96954defd10aa40a5"
+      "name": "Tallkeep-Setup-0.26.11.exe.part2",
+      "size": 29615808,
+      "sha256": "d49a43e83cce5f00901b61e32861d897da7c902516767fcef4927858a3a55a99"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.10.tgz",
-    "sha256": "db19c5dc46d9856a63a64b8e271c62c9969abcdb1499ac8c587a47a91557b40b",
-    "size": 5000160
+    "file": "tallkeep-server-0.26.11.tgz",
+    "sha256": "4510100ff159658a493b0805d26eb7666dc244660ac14ed0570c81998899197f",
+    "size": 5001441
   }
 }
