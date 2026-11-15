@@ -1,30 +1,30 @@
 {
-  "version": "0.26.15",
-  "file": "Tallkeep-Setup-0.26.15.exe",
-  "sha256": "7ae33c089bb81a5e8d39c4068915bf8daf4d4839e141286a81ad511930d9d60c",
-  "size": 123990211,
-  "notes": "Ask for the full amount on quotes; connect the desktop app from outside the office",
-  "date": "2026-11-15T22:02:19.581Z",
+  "version": "0.26.16",
+  "file": "Tallkeep-Setup-0.26.16.exe",
+  "sha256": "364148e54733b7de91fc366d6a41924790d42c7d1f5d709c80be5399cc44b38d",
+  "size": 124006957,
+  "notes": "Serial numbers for products",
+  "date": "2026-11-15T22:50:14.517Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.15.exe.part0",
+      "name": "Tallkeep-Setup-0.26.16.exe.part0",
       "size": 47185920,
-      "sha256": "f1067fc4d5ee8ad8ef0df16f9e2d1927f0f9511b14cd3fd55036f198b8e67224"
+      "sha256": "ee6d76c6d9815a078228b1f0a30359f861873919d1c5d0ac05c53cb0a5ba5209"
     },
     {
-      "name": "Tallkeep-Setup-0.26.15.exe.part1",
+      "name": "Tallkeep-Setup-0.26.16.exe.part1",
       "size": 47185920,
-      "sha256": "ff1d36ec4023146e8e451b57042b1ae68eb749f86162a375bceb2c74592e607a"
+      "sha256": "c97cc20c6a6e80b42ad74546d9b6a5672e232ad3149316c9958fa6753da371d3"
     },
     {
-      "name": "Tallkeep-Setup-0.26.15.exe.part2",
-      "size": 29618371,
-      "sha256": "58349a0d742393f2d0c8055a1a5ae3b9a9010d51e914c9e287bdff20441ec8f3"
+      "name": "Tallkeep-Setup-0.26.16.exe.part2",
+      "size": 29635117,
+      "sha256": "f1acadeebe5ea6a32db3e433c59bf6b3f9f4300023b0983bcdbde08dcd89fa75"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.15.tgz",
-    "sha256": "5058dc0a5307a73a12c1de9c7f0f14bfa5e7f62b07de72aab6ad4cdd4c4fd588",
-    "size": 5007506
+    "file": "tallkeep-server-0.26.16.tgz",
+    "sha256": "a35292e01da73ef2fccf6e6c1eeb299a8d8ea3b4de3a2e34ba856d782319bde8",
+    "size": 5028161
   }
 }
