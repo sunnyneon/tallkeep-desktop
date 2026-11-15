@@ -3,6 +3,6 @@
 Installers for [Tallkeep](https://tallkeep.com). Tallkeep on your office computer updates itself
 from here; you don't need to download anything by hand.
 
-Newest version: **0.26.14**. Bank connections: note about 90 days of history
+Newest version: **0.26.15**. Ask for the full amount on quotes; connect the desktop app from outside the office
 
 Running Tallkeep on a Synology, a Linux server or anything with Docker: see [docker/README.md](docker/README.md).
