@@ -79,5 +79,18 @@ try {
   say(`Tallkeep ${info.version} is ready.`);
   console.log(dir);
 } catch (e) {
-  say(`couldn't check for a new version (${e.message}); starting the one this container has.`);
+  // Use the newest version already downloaded, if there is one (not the one this container was
+  // built with, which can be months old).
+  let best = null;
+  try {
+    for (const n of fs.readdirSync(root))
+      if (/^\d+\.\d+\.\d+$/.test(n) && fs.existsSync(path.join(root, n, "server.bundle.mjs")) && newer(n, best ?? have))
+        best = n;
+  } catch {
+    /* no downloads yet */
+  }
+  if (best) {
+    say(`couldn't check for a new version (${e.message}); starting Tallkeep ${best}, downloaded before.`);
+    console.log(path.join(root, best));
+  } else say(`couldn't check for a new version (${e.message}); starting the one this container has.`);
 }
