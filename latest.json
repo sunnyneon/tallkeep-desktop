@@ -1,30 +1,30 @@
 {
-  "version": "0.26.13",
-  "file": "Tallkeep-Setup-0.26.13.exe",
-  "sha256": "0c46973fdb538679e82916b3877bab5cb6cc0f81c1a085d18aea67cfd6fa02a7",
-  "size": 123995292,
-  "notes": "Bank connections: no more 45-day warning; new help pages",
-  "date": "2026-11-15T20:31:03.500Z",
+  "version": "0.26.14",
+  "file": "Tallkeep-Setup-0.26.14.exe",
+  "sha256": "43275d445e072fe8645abfb3674f3dbc6046c32c9e714973a1fcb96d73b92523",
+  "size": 123969058,
+  "notes": "Bank connections: note about 90 days of history",
+  "date": "2026-11-15T21:45:22.176Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.13.exe.part0",
+      "name": "Tallkeep-Setup-0.26.14.exe.part0",
       "size": 47185920,
-      "sha256": "316f089dc3aa608130d0c7c53af30975e259e9ea408f7f28352c47c37c229296"
+      "sha256": "8ed147faeace9c42421f1edd7f4e0d06be9568bdf49ea08f2a59318067f63de5"
     },
     {
-      "name": "Tallkeep-Setup-0.26.13.exe.part1",
+      "name": "Tallkeep-Setup-0.26.14.exe.part1",
       "size": 47185920,
-      "sha256": "a97d2bc496ea2026bc8ac1ec538bacdf6da924abf1b9af3da856b7f041590a72"
+      "sha256": "5b56389c2dbde9e9c84bb4f5ce410df789b90f1a7e8d62f8c38f8211ead574bb"
     },
     {
-      "name": "Tallkeep-Setup-0.26.13.exe.part2",
-      "size": 29623452,
-      "sha256": "c82823d2bfd2c94273176038b6b974924006df221a04f4fdae2b993aba107948"
+      "name": "Tallkeep-Setup-0.26.14.exe.part2",
+      "size": 29597218,
+      "sha256": "99a40847749799e180e69b9e634d75307507a55391054980a65eff5ea6dcce17"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.13.tgz",
-    "sha256": "d194466288ad51ef367899f254c59084a91674823fcffbd820d7838a7143e775",
-    "size": 5011971
+    "file": "tallkeep-server-0.26.14.tgz",
+    "sha256": "cfbdd334f86d37c3bacc869a31293adf4e7af021a2fa835ff978907e5e69a0ac",
+    "size": 5014261
   }
 }
