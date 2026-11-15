@@ -1,30 +1,30 @@
 {
-  "version": "0.26.9",
-  "file": "Tallkeep-Setup-0.26.9.exe",
-  "sha256": "1230c61029164f1c5beffa5a13284c2b2431a49e8c6c99444c31c773aba91e59",
-  "size": 123961970,
-  "notes": "Bank connections: Connect, Get new lines, Review & reconcile steps",
-  "date": "2026-11-15T18:51:59.449Z",
+  "version": "0.26.10",
+  "file": "Tallkeep-Setup-0.26.10.exe",
+  "sha256": "d666318ebefb3b26f0144d9f786e487e125b671cb75d6fcbc3b668412746785a",
+  "size": 123972486,
+  "notes": "Shows the version number under the menu",
+  "date": "2026-11-15T19:10:12.179Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.9.exe.part0",
+      "name": "Tallkeep-Setup-0.26.10.exe.part0",
       "size": 47185920,
-      "sha256": "70dfd62ec0633f1348083f360a5fcc1b08b757a240ec4da55e139f9e84ec60a0"
+      "sha256": "6db6a8e56e6218dbd0b90727dc2395d7ca7720a2de7456d0758e7315fad1ebe9"
     },
     {
-      "name": "Tallkeep-Setup-0.26.9.exe.part1",
+      "name": "Tallkeep-Setup-0.26.10.exe.part1",
       "size": 47185920,
-      "sha256": "c883ea3ff1b9be33d7c9ab6da2ea5c01b905d070d94e5ba1d1341aba7ed1ab67"
+      "sha256": "7830dd5ef429a36113afef1c25933f1651bf1db4b91d7332d9e4abd099989992"
     },
     {
-      "name": "Tallkeep-Setup-0.26.9.exe.part2",
-      "size": 29590130,
-      "sha256": "2886172ba23289b5ee773f2a873b707fcadd2079c9936597568632cd3dfdb2fe"
+      "name": "Tallkeep-Setup-0.26.10.exe.part2",
+      "size": 29600646,
+      "sha256": "3316bf00389f793e519fc7dd9301da65a847f550ece431a96954defd10aa40a5"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.9.tgz",
-    "sha256": "d49781f6548184a08015c1988061d87ee88a490a7691eff7543302d0bbaacbf8",
-    "size": 5000620
+    "file": "tallkeep-server-0.26.10.tgz",
+    "sha256": "db19c5dc46d9856a63a64b8e271c62c9969abcdb1499ac8c587a47a91557b40b",
+    "size": 5000160
   }
 }
