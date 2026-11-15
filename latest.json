@@ -1,30 +1,30 @@
 {
-  "version": "0.26.8",
-  "file": "Tallkeep-Setup-0.26.8.exe",
-  "sha256": "5872812031cbba6695f0f25d82bc769df797023b82b8ee46939b8be61ad8f446",
-  "size": 123981089,
-  "notes": "Bank Connections is now in the Banking menu and in Settings → Accounting",
-  "date": "2026-11-15T18:22:27.916Z",
+  "version": "0.26.9",
+  "file": "Tallkeep-Setup-0.26.9.exe",
+  "sha256": "1230c61029164f1c5beffa5a13284c2b2431a49e8c6c99444c31c773aba91e59",
+  "size": 123961970,
+  "notes": "Bank connections: Connect, Get new lines, Review & reconcile steps",
+  "date": "2026-11-15T18:51:59.449Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.8.exe.part0",
+      "name": "Tallkeep-Setup-0.26.9.exe.part0",
       "size": 47185920,
-      "sha256": "4d4af7bb298ab8542b61a484e05bb579460db55eb95b3231d200a4afabd51e9e"
+      "sha256": "70dfd62ec0633f1348083f360a5fcc1b08b757a240ec4da55e139f9e84ec60a0"
     },
     {
-      "name": "Tallkeep-Setup-0.26.8.exe.part1",
+      "name": "Tallkeep-Setup-0.26.9.exe.part1",
       "size": 47185920,
-      "sha256": "6f63c0ce37a3b0c3b7314ad4d63b733c58eeafa3a03c7bc79419d2cea459c8bf"
+      "sha256": "c883ea3ff1b9be33d7c9ab6da2ea5c01b905d070d94e5ba1d1341aba7ed1ab67"
     },
     {
-      "name": "Tallkeep-Setup-0.26.8.exe.part2",
-      "size": 29609249,
-      "sha256": "a67e9cad0335829d04a6b27c3ccddc73b82923dfd9fca4673648b661a00bfee4"
+      "name": "Tallkeep-Setup-0.26.9.exe.part2",
+      "size": 29590130,
+      "sha256": "2886172ba23289b5ee773f2a873b707fcadd2079c9936597568632cd3dfdb2fe"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.8.tgz",
-    "sha256": "7078a6f06f1ad2b73d6e097d36edbc449ceeafa5847719b63ca4d73342ee0687",
-    "size": 5001655
+    "file": "tallkeep-server-0.26.9.tgz",
+    "sha256": "d49781f6548184a08015c1988061d87ee88a490a7691eff7543302d0bbaacbf8",
+    "size": 5000620
   }
 }
