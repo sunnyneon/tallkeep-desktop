@@ -1,30 +1,30 @@
 {
-  "version": "0.26.17",
-  "file": "Tallkeep-Setup-0.26.17.exe",
-  "sha256": "5fb207ebcf61f8f95278d9f2ab54bcea6e46c526bc62cba71a78bf79368b85f1",
-  "size": 124004304,
-  "notes": "Edit shelves and places, delete products, inFlow serial numbers tidied",
-  "date": "2026-11-15T23:32:13.943Z",
+  "version": "0.26.18",
+  "file": "Tallkeep-Setup-0.26.18.exe",
+  "sha256": "3afab0ab3690571b0059813bf4562febe951b6b31f5a4313dfd7bf700ac7dff6",
+  "size": 124006679,
+  "notes": "Easier product list and categories, especially on phones",
+  "date": "2026-11-16T00:28:02.025Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.17.exe.part0",
+      "name": "Tallkeep-Setup-0.26.18.exe.part0",
       "size": 47185920,
-      "sha256": "9a473c2f66a03b52284b957136e3b8a9d1c6feba7559336d2dd875f743d4db9b"
+      "sha256": "f85af8f45518545cd74638b8bb1c9cc64102c5627bba615e17772581af97d2b6"
     },
     {
-      "name": "Tallkeep-Setup-0.26.17.exe.part1",
+      "name": "Tallkeep-Setup-0.26.18.exe.part1",
       "size": 47185920,
-      "sha256": "92abcc788903056aff59cf222083b6fdefe1e308e5f43c9503220abef9b276ec"
+      "sha256": "143577c0d410cadd9009f4962e9c73d3597125dc1bacf2a4073098c66ba1bf11"
     },
     {
-      "name": "Tallkeep-Setup-0.26.17.exe.part2",
-      "size": 29632464,
-      "sha256": "c4a0a335431628a71c6ee62fd44d1b73aca9fe3e7f8044e4f2de9a63202428a9"
+      "name": "Tallkeep-Setup-0.26.18.exe.part2",
+      "size": 29634839,
+      "sha256": "d28c44ed83204bc375feec1a2b006c6fde62d99a5d985039618e950afe6de2ed"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.17.tgz",
-    "sha256": "f96c62815faab7f85ac0f6377cc767e47a1361eebb06de454255198f124bfc87",
-    "size": 5035439
+    "file": "tallkeep-server-0.26.18.tgz",
+    "sha256": "0a1b441742b6a6e18502a6592f004fb38a5d8a2ff13057042118b9262d326825",
+    "size": 5034493
   }
 }
