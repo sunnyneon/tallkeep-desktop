@@ -1,30 +1,30 @@
 {
-  "version": "0.26.21",
-  "file": "Tallkeep-Setup-0.26.21.exe",
-  "sha256": "44694487e4460d85d84f36609390cf1dbae524a05af99804d057df9741ed2eae",
-  "size": 124013358,
-  "notes": "Discount codes on the Buy page.",
-  "date": "2026-11-17T17:40:29.139Z",
+  "version": "0.26.22",
+  "file": "Tallkeep-Setup-0.26.22.exe",
+  "sha256": "b180a07656cfd4b0352d0f7054a86da84699038e9b303ef7b93bec5cf013cab2",
+  "size": 124008025,
+  "notes": "Plans read \"1 company + Personal\".",
+  "date": "2026-11-17T18:25:41.221Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.21.exe.part0",
+      "name": "Tallkeep-Setup-0.26.22.exe.part0",
       "size": 47185920,
-      "sha256": "7f2becf0c965ad209ead67883e235f9487bf6af7b5d6356baab4a50e1c643388"
+      "sha256": "96c98bfbf192d626ea9297e6564fa8f47304f065daedbb521c4a0d78856af5a8"
     },
     {
-      "name": "Tallkeep-Setup-0.26.21.exe.part1",
+      "name": "Tallkeep-Setup-0.26.22.exe.part1",
       "size": 47185920,
-      "sha256": "8ef2f65b725162d8ece1841e905528a5738f13582188de767991f644435111b2"
+      "sha256": "2223a3fd81dc66460e3bcf0bed8db1bad09607f68aca35d2cf68c93ad63c3474"
     },
     {
-      "name": "Tallkeep-Setup-0.26.21.exe.part2",
-      "size": 29641518,
-      "sha256": "9c61b182c36d2a9bf5ccdcf10e64e5afb5f28fe0b775c09560d42d4c4151a247"
+      "name": "Tallkeep-Setup-0.26.22.exe.part2",
+      "size": 29636185,
+      "sha256": "01770085922ee3e0b41646fe44b521e029daaa712dc74da60f41a8345b0deeed"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.21.tgz",
-    "sha256": "7756a6dddfe2c4fc4b5f41bf672874e3280c7f00642d7ad513fe45fd0d1918f8",
-    "size": 5047514
+    "file": "tallkeep-server-0.26.22.tgz",
+    "sha256": "2362193a0b5f46dd9a396ec7c3f7e8fc434a4c0da12e23a0315ed02424500916",
+    "size": 5052799
   }
 }

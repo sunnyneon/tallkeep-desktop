@@ -3,6 +3,6 @@
 Installers for [Tallkeep](https://tallkeep.com). Tallkeep on your office computer updates itself
 from here; you don't need to download anything by hand.
 
-Newest version: **0.26.21**. Discount codes on the Buy page.
+Newest version: **0.26.22**. Plans read "1 company + Personal".
 
 Running Tallkeep on a Synology, a Linux server or anything with Docker: see [docker/README.md](docker/README.md).
