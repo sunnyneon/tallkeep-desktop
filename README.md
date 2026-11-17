@@ -3,6 +3,6 @@
 Installers for [Tallkeep](https://tallkeep.com). Tallkeep on your office computer updates itself
 from here; you don't need to download anything by hand.
 
-Newest version: **0.26.22**. Plans read "1 company + Personal".
+Newest version: **0.26.23**. A quote turned into an invoice gets an invoice number.
 
 Running Tallkeep on a Synology, a Linux server or anything with Docker: see [docker/README.md](docker/README.md).
