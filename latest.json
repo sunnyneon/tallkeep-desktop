@@ -1,30 +1,30 @@
 {
-  "version": "0.26.19",
-  "file": "Tallkeep-Setup-0.26.19.exe",
-  "sha256": "007800a1d9d5f78fe4d7b6f7779d9b39c9775e113061b8371e913be3de26c1c1",
-  "size": 124003807,
-  "notes": "Connecting another computer with the Tallkeep Connect address works",
-  "date": "2026-11-16T21:06:33.500Z",
+  "version": "0.26.20",
+  "file": "Tallkeep-Setup-0.26.20.exe",
+  "sha256": "d3449aeb82902bdeb3ced30a43dbd1539605fcc6449e1311d7f3e9261b960bae",
+  "size": 124006788,
+  "notes": "Look-only people (your accountant or bookkeeper) are free: they don't count toward the people on your license.",
+  "date": "2026-11-17T02:51:57.008Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.19.exe.part0",
+      "name": "Tallkeep-Setup-0.26.20.exe.part0",
       "size": 47185920,
-      "sha256": "c8262df1301cb5b94620a30602407eb95ed3d0c8ceb9a1fd3af7fde44a34d0f4"
+      "sha256": "6cff0d4d2ec448424a2451126e0066b59b433ea14d5d73a3d576d750fc1d0ba9"
     },
     {
-      "name": "Tallkeep-Setup-0.26.19.exe.part1",
+      "name": "Tallkeep-Setup-0.26.20.exe.part1",
       "size": 47185920,
-      "sha256": "35d486f143d6696022c6441e26b872aa302eb8dfacb565e2a8e7bc050a920fba"
+      "sha256": "463fec397c34099a675a073522ca1f91a7a17d41a014ea1db20f942f8a3f9076"
     },
     {
-      "name": "Tallkeep-Setup-0.26.19.exe.part2",
-      "size": 29631967,
-      "sha256": "02924627a90478f638198ac8c67b13112711cb3f0464453f60af62483aa67406"
+      "name": "Tallkeep-Setup-0.26.20.exe.part2",
+      "size": 29634948,
+      "sha256": "6f79c36aaf75c2e17c11570884271365e83d69b9e22aed2fe0703bed2ac55367"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.19.tgz",
-    "sha256": "ac2cfbd3496d5d4ac12d1fbc2b7686ca1b8e9d4ababa0a0366c59e853b8b5b2e",
-    "size": 5042386
+    "file": "tallkeep-server-0.26.20.tgz",
+    "sha256": "cb529d1141a984e359ade2ef2e93442c712976b83f41790293ba565149d9f929",
+    "size": 5036403
   }
 }
