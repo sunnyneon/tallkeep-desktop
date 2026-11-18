@@ -1,30 +1,30 @@
 {
-  "version": "0.26.26",
-  "file": "Tallkeep-Setup-0.26.26.exe",
-  "sha256": "69d86ccad0d0acc98d062df22602efb292285fb86107decc23ef4c349e34b8b2",
-  "size": 124024684,
-  "notes": "New: Options → Apps. Everything you can turn on or set up, in one place, with a green dot when it's on.",
-  "date": "2026-11-18T22:49:15.479Z",
+  "version": "0.26.27",
+  "file": "Tallkeep-Setup-0.26.27.exe",
+  "sha256": "e0b90ffc606ce4182731012e23d94e5bb844b8e85aae6a4ee6fe4c228688abd3",
+  "size": 124020968,
+  "notes": "Website Tickets: counts on each filter, and tie an invoice you made by hand to its ticket.",
+  "date": "2026-11-18T23:01:13.116Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.26.exe.part0",
+      "name": "Tallkeep-Setup-0.26.27.exe.part0",
       "size": 47185920,
-      "sha256": "ac0e47764c41586191fe2bc2dc5b13467c52f5e6b3e3ad1f2d4b4de381fbb1ba"
+      "sha256": "5aaf776435efdff00a2876a523111f3da9f6fbaf080d125f8e97ec838d23bcc6"
     },
     {
-      "name": "Tallkeep-Setup-0.26.26.exe.part1",
+      "name": "Tallkeep-Setup-0.26.27.exe.part1",
       "size": 47185920,
-      "sha256": "9b87cda45d0650267a4a83a2925c8996a325dd6b71699b7de30e4714ea829e6c"
+      "sha256": "20708b114afdd66ce5eb18a0babf5ae46e893146a22ac65a8891c92bcc1c5557"
     },
     {
-      "name": "Tallkeep-Setup-0.26.26.exe.part2",
-      "size": 29652844,
-      "sha256": "380856f3e320b01b9c9773271677211388cd2ae5db42f235de9243a613412743"
+      "name": "Tallkeep-Setup-0.26.27.exe.part2",
+      "size": 29649128,
+      "sha256": "6f05154326cf1a0a9ca15ab0f85ab99d398ce1cd0216beb923274296b5e80f59"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.26.tgz",
-    "sha256": "451d63724bd3350addc4adeebbab8eaab1824e186574a156f0c5db0c169f1447",
-    "size": 5070309
+    "file": "tallkeep-server-0.26.27.tgz",
+    "sha256": "5a5ec2453671dcf318a95523ef878815c989666ffb1392beb1d476f20a10ac16",
+    "size": 5069393
   }
 }
