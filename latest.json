@@ -1,30 +1,30 @@
 {
-  "version": "0.26.23",
-  "file": "Tallkeep-Setup-0.26.23.exe",
-  "sha256": "67fd6651499f7d7e9c29f671b0934a7da0558642b231be4406a2fba3e13d5e42",
-  "size": 124015003,
-  "notes": "A quote turned into an invoice gets an invoice number.",
-  "date": "2026-11-17T22:44:42.600Z",
+  "version": "0.26.24",
+  "file": "Tallkeep-Setup-0.26.24.exe",
+  "sha256": "2e1b3899be2c9aec94851eda4586bcce532f42fbf53eed68abc0ed8d06ad1043",
+  "size": 124005019,
+  "notes": "Printed purchase orders: space between the columns, and the Saved message no longer prints.",
+  "date": "2026-11-18T21:23:12.246Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.23.exe.part0",
+      "name": "Tallkeep-Setup-0.26.24.exe.part0",
       "size": 47185920,
-      "sha256": "77a91a34c5a831d0769b7c61520306442daa191fe24c311721285c30205f4a01"
+      "sha256": "6b1cc6f52572ae2b64d1010629758844696f59e2c5b9f58cdc708bc460a7495f"
     },
     {
-      "name": "Tallkeep-Setup-0.26.23.exe.part1",
+      "name": "Tallkeep-Setup-0.26.24.exe.part1",
       "size": 47185920,
-      "sha256": "622a0b01d122b79d16c7c2b8b47c37b51130b36160f6ecd801122cfd6aa97dec"
+      "sha256": "4a041fa4e0bb094ab7de3bd0be396b676a31e0e19d09fce605f1a892184190e8"
     },
     {
-      "name": "Tallkeep-Setup-0.26.23.exe.part2",
-      "size": 29643163,
-      "sha256": "510d4a9f068d2703ddb1eab2f534fbbf992d50386b1579c1ebd200e143f96abb"
+      "name": "Tallkeep-Setup-0.26.24.exe.part2",
+      "size": 29633179,
+      "sha256": "046b7cb1203a5851d1885562ff021cf2537439cd90606f62692353baef55e185"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.23.tgz",
-    "sha256": "3cf08b3c3b7ecff04a8975e48bdf19358dfec5e6ea56ae3d796ffa9e8c308481",
-    "size": 5046903
+    "file": "tallkeep-server-0.26.24.tgz",
+    "sha256": "e78ddd49be59254bec882908521b8436e51b9908eb0fdb6c1fb7499c43a1a18f",
+    "size": 5053416
   }
 }
