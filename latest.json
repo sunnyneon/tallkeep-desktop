@@ -1,30 +1,30 @@
 {
-  "version": "0.26.27",
-  "file": "Tallkeep-Setup-0.26.27.exe",
-  "sha256": "e0b90ffc606ce4182731012e23d94e5bb844b8e85aae6a4ee6fe4c228688abd3",
-  "size": 124020968,
-  "notes": "Website Tickets: counts on each filter, and tie an invoice you made by hand to its ticket.",
-  "date": "2026-11-18T23:01:13.116Z",
+  "version": "0.26.28",
+  "file": "Tallkeep-Setup-0.26.28.exe",
+  "sha256": "a44938689b4d856d7f5a42cf6db3c44b3225716acbe0e5f5771fa2b94d3155b5",
+  "size": 124025992,
+  "notes": "Options is one click in the menu; dark look and the saved sound are inside Options.",
+  "date": "2026-11-18T23:07:53.847Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.27.exe.part0",
+      "name": "Tallkeep-Setup-0.26.28.exe.part0",
       "size": 47185920,
-      "sha256": "5aaf776435efdff00a2876a523111f3da9f6fbaf080d125f8e97ec838d23bcc6"
+      "sha256": "53fc8e558a8dbe8ae2b09ff3da0e25832ce4d4001275df0d007f282ad2372c78"
     },
     {
-      "name": "Tallkeep-Setup-0.26.27.exe.part1",
+      "name": "Tallkeep-Setup-0.26.28.exe.part1",
       "size": 47185920,
-      "sha256": "20708b114afdd66ce5eb18a0babf5ae46e893146a22ac65a8891c92bcc1c5557"
+      "sha256": "48e13f54ec83c6b9e2ea29efe280e832bc04f8b2113c33615f11fb3b0ead15df"
     },
     {
-      "name": "Tallkeep-Setup-0.26.27.exe.part2",
-      "size": 29649128,
-      "sha256": "6f05154326cf1a0a9ca15ab0f85ab99d398ce1cd0216beb923274296b5e80f59"
+      "name": "Tallkeep-Setup-0.26.28.exe.part2",
+      "size": 29654152,
+      "sha256": "e7390d418dde8e3766477d17bea4fc00c9ccbbf197b59083d66901f4b658d60d"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.27.tgz",
-    "sha256": "5a5ec2453671dcf318a95523ef878815c989666ffb1392beb1d476f20a10ac16",
-    "size": 5069393
+    "file": "tallkeep-server-0.26.28.tgz",
+    "sha256": "84acc4ff27a78ac8d82fb1d38786240ea7f84ba1dbf8092c8a3614e0d22bf305",
+    "size": 5072077
   }
 }
