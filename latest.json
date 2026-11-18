@@ -1,30 +1,30 @@
 {
-  "version": "0.26.25",
-  "file": "Tallkeep-Setup-0.26.25.exe",
-  "sha256": "af8ffec5f211fb49708eefc53f15bfaa67e1b414b1ed543d85f7d9c682e00116",
-  "size": 124014429,
-  "notes": "Website Tickets work on the office computer: link it once with the website key.",
-  "date": "2026-11-18T22:26:11.909Z",
+  "version": "0.26.26",
+  "file": "Tallkeep-Setup-0.26.26.exe",
+  "sha256": "69d86ccad0d0acc98d062df22602efb292285fb86107decc23ef4c349e34b8b2",
+  "size": 124024684,
+  "notes": "New: Options → Apps. Everything you can turn on or set up, in one place, with a green dot when it's on.",
+  "date": "2026-11-18T22:49:15.479Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.25.exe.part0",
+      "name": "Tallkeep-Setup-0.26.26.exe.part0",
       "size": 47185920,
-      "sha256": "57728168b3fdf47c511924fd888fab1c81d7c8328267b10fff35eecd7b8c9362"
+      "sha256": "ac0e47764c41586191fe2bc2dc5b13467c52f5e6b3e3ad1f2d4b4de381fbb1ba"
     },
     {
-      "name": "Tallkeep-Setup-0.26.25.exe.part1",
+      "name": "Tallkeep-Setup-0.26.26.exe.part1",
       "size": 47185920,
-      "sha256": "3aaa098455f4ed250b25c7a0d108b4836c962b97cc863d2c97e087a28582fd89"
+      "sha256": "9b87cda45d0650267a4a83a2925c8996a325dd6b71699b7de30e4714ea829e6c"
     },
     {
-      "name": "Tallkeep-Setup-0.26.25.exe.part2",
-      "size": 29642589,
-      "sha256": "f4103784afc4338ff869837dc4996282abcc4aaf43e63a47ce8ee6424ccbe0a3"
+      "name": "Tallkeep-Setup-0.26.26.exe.part2",
+      "size": 29652844,
+      "sha256": "380856f3e320b01b9c9773271677211388cd2ae5db42f235de9243a613412743"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.25.tgz",
-    "sha256": "27966320b200078b04208200d36b3c1441ac8942cbbce68e9c4df29597cb9552",
-    "size": 5053588
+    "file": "tallkeep-server-0.26.26.tgz",
+    "sha256": "451d63724bd3350addc4adeebbab8eaab1824e186574a156f0c5db0c169f1447",
+    "size": 5070309
   }
 }
