@@ -1,30 +1,30 @@
 {
-  "version": "0.26.24",
-  "file": "Tallkeep-Setup-0.26.24.exe",
-  "sha256": "2e1b3899be2c9aec94851eda4586bcce532f42fbf53eed68abc0ed8d06ad1043",
-  "size": 124005019,
-  "notes": "Printed purchase orders: space between the columns, and the Saved message no longer prints.",
-  "date": "2026-11-18T21:23:12.246Z",
+  "version": "0.26.25",
+  "file": "Tallkeep-Setup-0.26.25.exe",
+  "sha256": "af8ffec5f211fb49708eefc53f15bfaa67e1b414b1ed543d85f7d9c682e00116",
+  "size": 124014429,
+  "notes": "Website Tickets work on the office computer: link it once with the website key.",
+  "date": "2026-11-18T22:26:11.909Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.24.exe.part0",
+      "name": "Tallkeep-Setup-0.26.25.exe.part0",
       "size": 47185920,
-      "sha256": "6b1cc6f52572ae2b64d1010629758844696f59e2c5b9f58cdc708bc460a7495f"
+      "sha256": "57728168b3fdf47c511924fd888fab1c81d7c8328267b10fff35eecd7b8c9362"
     },
     {
-      "name": "Tallkeep-Setup-0.26.24.exe.part1",
+      "name": "Tallkeep-Setup-0.26.25.exe.part1",
       "size": 47185920,
-      "sha256": "4a041fa4e0bb094ab7de3bd0be396b676a31e0e19d09fce605f1a892184190e8"
+      "sha256": "3aaa098455f4ed250b25c7a0d108b4836c962b97cc863d2c97e087a28582fd89"
     },
     {
-      "name": "Tallkeep-Setup-0.26.24.exe.part2",
-      "size": 29633179,
-      "sha256": "046b7cb1203a5851d1885562ff021cf2537439cd90606f62692353baef55e185"
+      "name": "Tallkeep-Setup-0.26.25.exe.part2",
+      "size": 29642589,
+      "sha256": "f4103784afc4338ff869837dc4996282abcc4aaf43e63a47ce8ee6424ccbe0a3"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.24.tgz",
-    "sha256": "e78ddd49be59254bec882908521b8436e51b9908eb0fdb6c1fb7499c43a1a18f",
-    "size": 5053416
+    "file": "tallkeep-server-0.26.25.tgz",
+    "sha256": "27966320b200078b04208200d36b3c1441ac8942cbbce68e9c4df29597cb9552",
+    "size": 5053588
   }
 }
