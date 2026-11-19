@@ -1,30 +1,30 @@
 {
-  "version": "0.26.28",
-  "file": "Tallkeep-Setup-0.26.28.exe",
-  "sha256": "a44938689b4d856d7f5a42cf6db3c44b3225716acbe0e5f5771fa2b94d3155b5",
-  "size": 124025992,
-  "notes": "Options is one click in the menu; dark look and the saved sound are inside Options.",
-  "date": "2026-11-18T23:07:53.847Z",
+  "version": "0.26.29",
+  "file": "Tallkeep-Setup-0.26.29.exe",
+  "sha256": "e9f7b5f269b259072e52533317f3d2ae254d98a4b7b94f98fa88221d701d64e3",
+  "size": 124048800,
+  "notes": "New installs open with Welcome steps; starting accounts for each kind of business, with Construction and Restaurant added.",
+  "date": "2026-11-19T17:41:30.035Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.28.exe.part0",
+      "name": "Tallkeep-Setup-0.26.29.exe.part0",
       "size": 47185920,
-      "sha256": "53fc8e558a8dbe8ae2b09ff3da0e25832ce4d4001275df0d007f282ad2372c78"
+      "sha256": "bd6ddb922a476946873bf3074f779d8af06c125c2dffd4a6577cb52006d3c291"
     },
     {
-      "name": "Tallkeep-Setup-0.26.28.exe.part1",
+      "name": "Tallkeep-Setup-0.26.29.exe.part1",
       "size": 47185920,
-      "sha256": "48e13f54ec83c6b9e2ea29efe280e832bc04f8b2113c33615f11fb3b0ead15df"
+      "sha256": "cdec618dc641de58a4e1bf5371cdedc6a3eab7a9a7f9712fd3baa02e25cb4048"
     },
     {
-      "name": "Tallkeep-Setup-0.26.28.exe.part2",
-      "size": 29654152,
-      "sha256": "e7390d418dde8e3766477d17bea4fc00c9ccbbf197b59083d66901f4b658d60d"
+      "name": "Tallkeep-Setup-0.26.29.exe.part2",
+      "size": 29676960,
+      "sha256": "e14363e3a8c1eb2259e5b00cad3c6c68daa676f8486aafccc81bf4a7ad6268d7"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.28.tgz",
-    "sha256": "84acc4ff27a78ac8d82fb1d38786240ea7f84ba1dbf8092c8a3614e0d22bf305",
-    "size": 5072077
+    "file": "tallkeep-server-0.26.29.tgz",
+    "sha256": "23c4da66efec72700504005982a7f8a9854b2a4d24733b740c30490aec56f835",
+    "size": 5083457
   }
 }
