@@ -1,30 +1,30 @@
 {
-  "version": "0.26.30",
-  "file": "Tallkeep-Setup-0.26.30.exe",
-  "sha256": "7c33376068e3499b89573de10645816f2a0da3e367851898a77937d9d365d716",
-  "size": 124031516,
-  "notes": "Menu clicks open right away; the company menu stays put.",
-  "date": "2026-11-19T19:45:40.212Z",
+  "version": "0.26.31",
+  "file": "Tallkeep-Setup-0.26.31.exe",
+  "sha256": "11af2a829f62b17a91f26014c157ad9363179a51c5559e02df2639afc93c43e9",
+  "size": 124043424,
+  "notes": "Fixes from the 19 November test rounds: reports agree with the books start, opening stock goes to Opening Balance Equity, clearer partly paid and partly fulfilled badges, a typed vendor on a bill is added to Vendors, What we owe shows bills, purchase orders and credits together, vendor credits in Refunds, bank import records nothing until you choose, clearer reconcile with an opening balance step, invoices remember their quote number, no duplicate tabs, one Reports home, and the sample company is easier to find.",
+  "date": "2026-11-19T22:21:37.836Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.30.exe.part0",
+      "name": "Tallkeep-Setup-0.26.31.exe.part0",
       "size": 47185920,
-      "sha256": "45dc1db65ba7c9ce432e34a15332a19e41c10d5f8a814616082673382a0f1c30"
+      "sha256": "34e98c98d0afbc32f508c8967aff5600284c69033dec43c7a171fafff2d71956"
     },
     {
-      "name": "Tallkeep-Setup-0.26.30.exe.part1",
+      "name": "Tallkeep-Setup-0.26.31.exe.part1",
       "size": 47185920,
-      "sha256": "03181da3b76698d8dba5f0decd047f4ad5d6f74b41a796843c24707b57ac11cf"
+      "sha256": "8ea662a7896796f2e10b00449f70194ee3c772170f3c19760638b32bbf25903b"
     },
     {
-      "name": "Tallkeep-Setup-0.26.30.exe.part2",
-      "size": 29659676,
-      "sha256": "60241df14787f84326aa68a4ea6a680f00af8af472a676c3f2490984720dbbb1"
+      "name": "Tallkeep-Setup-0.26.31.exe.part2",
+      "size": 29671584,
+      "sha256": "184843c055ba96a95003ee1e365e6ddc36b2440a0daff1de8802e56716184c02"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.30.tgz",
-    "sha256": "044d467a539723dc9f9360ab5528e51240718ea6de983ccc732f5a3b5c5332b6",
-    "size": 5084819
+    "file": "tallkeep-server-0.26.31.tgz",
+    "sha256": "583941ae9f6dd7ab312795ab6d92a51f744ee70ac9281ca2875825ced6a3526c",
+    "size": 5102732
   }
 }
