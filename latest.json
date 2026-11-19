@@ -1,30 +1,30 @@
 {
-  "version": "0.26.32",
-  "file": "Tallkeep-Setup-0.26.32.exe",
-  "sha256": "8d3f6fc270baa364c2bc7c7c32172104c22e0d808c4d2d311de91efcc809e7a2",
-  "size": 124051858,
-  "notes": "Sales rep: no more fixed name. Pick from your team list or add a name; a customer remembers the rep used on its last document; a customer with no rep fills in your own name.",
-  "date": "2026-11-19T22:49:37.261Z",
+  "version": "0.26.33",
+  "file": "Tallkeep-Setup-0.26.33.exe",
+  "sha256": "a5a06fc02afe94f1d28340d60e1c52537d0ff4dc178e6b0b4d2298465d561846",
+  "size": 124043156,
+  "notes": "Pick the day now opens the books start box with the cursor in it. Options explains that Rebuild the books shows once the start date is saved.",
+  "date": "2026-11-19T22:57:19.641Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.32.exe.part0",
+      "name": "Tallkeep-Setup-0.26.33.exe.part0",
       "size": 47185920,
-      "sha256": "7141fae15693ba0100c16484e96a051935b751c4ce638241ec7efca735d1e524"
+      "sha256": "f75bb9e71acb3a49bf485a150028a822617cd130e2a0d99f50aef156028d5053"
     },
     {
-      "name": "Tallkeep-Setup-0.26.32.exe.part1",
+      "name": "Tallkeep-Setup-0.26.33.exe.part1",
       "size": 47185920,
-      "sha256": "76464a05966357b16a463f311dcc410b0a42897c3f8c7522d2da17ddc85eec66"
+      "sha256": "21d7d96cd5b304328b616e7775921b7cefd5c9b2e2f1ff1ab6de4f3898c821d6"
     },
     {
-      "name": "Tallkeep-Setup-0.26.32.exe.part2",
-      "size": 29680018,
-      "sha256": "95d057a651a8e4ec935fe7b0cc7362207a5c7c88d1fed0006091977661741114"
+      "name": "Tallkeep-Setup-0.26.33.exe.part2",
+      "size": 29671316,
+      "sha256": "216af3cef4d940ac8b8f1359104ca07ac278abe24c7d5d9a779563cd71720a05"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.32.tgz",
-    "sha256": "691d05701ad4d3ae53ee711e2958dbef0bbd210375412292d5f9fd723d501132",
-    "size": 5099983
+    "file": "tallkeep-server-0.26.33.tgz",
+    "sha256": "418b5ead865200099849e344f875ba21a9e21c487e9ead0f1de6222fc4c9894b",
+    "size": 5102079
   }
 }
