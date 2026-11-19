@@ -1,30 +1,30 @@
 {
-  "version": "0.26.31",
-  "file": "Tallkeep-Setup-0.26.31.exe",
-  "sha256": "11af2a829f62b17a91f26014c157ad9363179a51c5559e02df2639afc93c43e9",
-  "size": 124043424,
-  "notes": "Fixes from the 19 November test rounds: reports agree with the books start, opening stock goes to Opening Balance Equity, clearer partly paid and partly fulfilled badges, a typed vendor on a bill is added to Vendors, What we owe shows bills, purchase orders and credits together, vendor credits in Refunds, bank import records nothing until you choose, clearer reconcile with an opening balance step, invoices remember their quote number, no duplicate tabs, one Reports home, and the sample company is easier to find.",
-  "date": "2026-11-19T22:21:37.836Z",
+  "version": "0.26.32",
+  "file": "Tallkeep-Setup-0.26.32.exe",
+  "sha256": "8d3f6fc270baa364c2bc7c7c32172104c22e0d808c4d2d311de91efcc809e7a2",
+  "size": 124051858,
+  "notes": "Sales rep: no more fixed name. Pick from your team list or add a name; a customer remembers the rep used on its last document; a customer with no rep fills in your own name.",
+  "date": "2026-11-19T22:49:37.261Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.31.exe.part0",
+      "name": "Tallkeep-Setup-0.26.32.exe.part0",
       "size": 47185920,
-      "sha256": "34e98c98d0afbc32f508c8967aff5600284c69033dec43c7a171fafff2d71956"
+      "sha256": "7141fae15693ba0100c16484e96a051935b751c4ce638241ec7efca735d1e524"
     },
     {
-      "name": "Tallkeep-Setup-0.26.31.exe.part1",
+      "name": "Tallkeep-Setup-0.26.32.exe.part1",
       "size": 47185920,
-      "sha256": "8ea662a7896796f2e10b00449f70194ee3c772170f3c19760638b32bbf25903b"
+      "sha256": "76464a05966357b16a463f311dcc410b0a42897c3f8c7522d2da17ddc85eec66"
     },
     {
-      "name": "Tallkeep-Setup-0.26.31.exe.part2",
-      "size": 29671584,
-      "sha256": "184843c055ba96a95003ee1e365e6ddc36b2440a0daff1de8802e56716184c02"
+      "name": "Tallkeep-Setup-0.26.32.exe.part2",
+      "size": 29680018,
+      "sha256": "95d057a651a8e4ec935fe7b0cc7362207a5c7c88d1fed0006091977661741114"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.31.tgz",
-    "sha256": "583941ae9f6dd7ab312795ab6d92a51f744ee70ac9281ca2875825ced6a3526c",
-    "size": 5102732
+    "file": "tallkeep-server-0.26.32.tgz",
+    "sha256": "691d05701ad4d3ae53ee711e2958dbef0bbd210375412292d5f9fd723d501132",
+    "size": 5099983
   }
 }
