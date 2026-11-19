@@ -1,30 +1,30 @@
 {
-  "version": "0.26.29",
-  "file": "Tallkeep-Setup-0.26.29.exe",
-  "sha256": "e9f7b5f269b259072e52533317f3d2ae254d98a4b7b94f98fa88221d701d64e3",
-  "size": 124048800,
-  "notes": "New installs open with Welcome steps; starting accounts for each kind of business, with Construction and Restaurant added.",
-  "date": "2026-11-19T17:41:30.035Z",
+  "version": "0.26.30",
+  "file": "Tallkeep-Setup-0.26.30.exe",
+  "sha256": "7c33376068e3499b89573de10645816f2a0da3e367851898a77937d9d365d716",
+  "size": 124031516,
+  "notes": "Menu clicks open right away; the company menu stays put.",
+  "date": "2026-11-19T19:45:40.212Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.29.exe.part0",
+      "name": "Tallkeep-Setup-0.26.30.exe.part0",
       "size": 47185920,
-      "sha256": "bd6ddb922a476946873bf3074f779d8af06c125c2dffd4a6577cb52006d3c291"
+      "sha256": "45dc1db65ba7c9ce432e34a15332a19e41c10d5f8a814616082673382a0f1c30"
     },
     {
-      "name": "Tallkeep-Setup-0.26.29.exe.part1",
+      "name": "Tallkeep-Setup-0.26.30.exe.part1",
       "size": 47185920,
-      "sha256": "cdec618dc641de58a4e1bf5371cdedc6a3eab7a9a7f9712fd3baa02e25cb4048"
+      "sha256": "03181da3b76698d8dba5f0decd047f4ad5d6f74b41a796843c24707b57ac11cf"
     },
     {
-      "name": "Tallkeep-Setup-0.26.29.exe.part2",
-      "size": 29676960,
-      "sha256": "e14363e3a8c1eb2259e5b00cad3c6c68daa676f8486aafccc81bf4a7ad6268d7"
+      "name": "Tallkeep-Setup-0.26.30.exe.part2",
+      "size": 29659676,
+      "sha256": "60241df14787f84326aa68a4ea6a680f00af8af472a676c3f2490984720dbbb1"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.29.tgz",
-    "sha256": "23c4da66efec72700504005982a7f8a9854b2a4d24733b740c30490aec56f835",
-    "size": 5083457
+    "file": "tallkeep-server-0.26.30.tgz",
+    "sha256": "044d467a539723dc9f9360ab5528e51240718ea6de983ccc732f5a3b5c5332b6",
+    "size": 5084819
   }
 }
