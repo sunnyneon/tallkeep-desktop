@@ -1,30 +1,30 @@
 {
-  "version": "0.26.33",
-  "file": "Tallkeep-Setup-0.26.33.exe",
-  "sha256": "a5a06fc02afe94f1d28340d60e1c52537d0ff4dc178e6b0b4d2298465d561846",
-  "size": 124043156,
-  "notes": "Pick the day now opens the books start box with the cursor in it. Options explains that Rebuild the books shows once the start date is saved.",
-  "date": "2026-11-19T22:57:19.641Z",
+  "version": "0.26.34",
+  "file": "Tallkeep-Setup-0.26.34.exe",
+  "sha256": "f2829992857bd6f591fcc4fdcde8a3d640200274d971df790e59d61b6da78a3c",
+  "size": 124036151,
+  "notes": "Safer money edits: a paid bill can't be voided until its payment is removed, minus quantities and totals below what's paid are stopped with a plain message, and nothing is half saved. Create invoice on a quote always gives an invoice number. Part-received purchase orders show in Pay Bills, Bills, the vendor page and What we owe. Vendor credits look like credits. New companies start their books today, and you can add a place right in Add stock.",
+  "date": "2026-11-20T01:32:09.773Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.33.exe.part0",
+      "name": "Tallkeep-Setup-0.26.34.exe.part0",
       "size": 47185920,
-      "sha256": "f75bb9e71acb3a49bf485a150028a822617cd130e2a0d99f50aef156028d5053"
+      "sha256": "53d3fdd64d6bc6975377d2c886c3490b0d3b45fd07d4fdba4229a00517a398b5"
     },
     {
-      "name": "Tallkeep-Setup-0.26.33.exe.part1",
+      "name": "Tallkeep-Setup-0.26.34.exe.part1",
       "size": 47185920,
-      "sha256": "21d7d96cd5b304328b616e7775921b7cefd5c9b2e2f1ff1ab6de4f3898c821d6"
+      "sha256": "35333e589a4d85653670aee4b28231ed266772bc9a5c40fd1ee60968560b6f2e"
     },
     {
-      "name": "Tallkeep-Setup-0.26.33.exe.part2",
-      "size": 29671316,
-      "sha256": "216af3cef4d940ac8b8f1359104ca07ac278abe24c7d5d9a779563cd71720a05"
+      "name": "Tallkeep-Setup-0.26.34.exe.part2",
+      "size": 29664311,
+      "sha256": "ed25eab3c603c1739c2420e689bc8c39d9b50280c769881300c8fdd4303262a6"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.33.tgz",
-    "sha256": "418b5ead865200099849e344f875ba21a9e21c487e9ead0f1de6222fc4c9894b",
-    "size": 5102079
+    "file": "tallkeep-server-0.26.34.tgz",
+    "sha256": "d3ff20baa01bd70fd3c52f50ebcc3ce8ce00b3156d299da0944dd4723197b263",
+    "size": 5110906
   }
 }
