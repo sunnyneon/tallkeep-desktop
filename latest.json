@@ -1,30 +1,30 @@
 {
-  "version": "0.26.34",
-  "file": "Tallkeep-Setup-0.26.34.exe",
-  "sha256": "f2829992857bd6f591fcc4fdcde8a3d640200274d971df790e59d61b6da78a3c",
-  "size": 124036151,
-  "notes": "Safer money edits: a paid bill can't be voided until its payment is removed, minus quantities and totals below what's paid are stopped with a plain message, and nothing is half saved. Create invoice on a quote always gives an invoice number. Part-received purchase orders show in Pay Bills, Bills, the vendor page and What we owe. Vendor credits look like credits. New companies start their books today, and you can add a place right in Add stock.",
-  "date": "2026-11-20T01:32:09.773Z",
+  "version": "0.26.35",
+  "file": "Tallkeep-Setup-0.26.35.exe",
+  "sha256": "ce97a9dc9665cacab100446fe6cab0364b5b8fea3ee6a8608f5f7ade295fe78f",
+  "size": 124047964,
+  "notes": "Tax % and shipping keep their decimals. A payment can't be more than what's owed. Invoices dated before your books start are marked and left out of what's owed. New documents use today's date in the evening too. Vendor credits can be partly used in Pay Bills. Refunds ask how the money goes back. Receiving lets you pick or add a place.",
+  "date": "2026-11-20T02:56:28.394Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.34.exe.part0",
+      "name": "Tallkeep-Setup-0.26.35.exe.part0",
       "size": 47185920,
-      "sha256": "53d3fdd64d6bc6975377d2c886c3490b0d3b45fd07d4fdba4229a00517a398b5"
+      "sha256": "dfbc9f1cef1f25901210ccfa48cb1f80a32fb1e766f99812bd947b52d39d4582"
     },
     {
-      "name": "Tallkeep-Setup-0.26.34.exe.part1",
+      "name": "Tallkeep-Setup-0.26.35.exe.part1",
       "size": 47185920,
-      "sha256": "35333e589a4d85653670aee4b28231ed266772bc9a5c40fd1ee60968560b6f2e"
+      "sha256": "6bbc1b9ef629106577a6c53040004b800faf8c9ac9cb1b71183d7e21402b98ad"
     },
     {
-      "name": "Tallkeep-Setup-0.26.34.exe.part2",
-      "size": 29664311,
-      "sha256": "ed25eab3c603c1739c2420e689bc8c39d9b50280c769881300c8fdd4303262a6"
+      "name": "Tallkeep-Setup-0.26.35.exe.part2",
+      "size": 29676124,
+      "sha256": "7cbb7690240ecfb48b8222e90c1149d6f27a17176e1399d6982c3b5990326799"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.34.tgz",
-    "sha256": "d3ff20baa01bd70fd3c52f50ebcc3ce8ce00b3156d299da0944dd4723197b263",
-    "size": 5110906
+    "file": "tallkeep-server-0.26.35.tgz",
+    "sha256": "18d050c94f613ec2418dfa670c38129f4cf0ca594dcc77c1f9881462c9c86671",
+    "size": 5115112
   }
 }
