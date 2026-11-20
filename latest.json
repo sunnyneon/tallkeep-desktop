@@ -1,30 +1,30 @@
 {
-  "version": "0.26.36",
-  "file": "Tallkeep-Setup-0.26.36.exe",
-  "sha256": "9ca26dea69d5f9aec6e41f2890ed1ac3a0d0ee411b07de1eed3d814eba7df236",
-  "size": 124069750,
-  "notes": "Round 5: cancel blocked when paid (Undo cancel), Turn into an invoice posts it, deposits to Customer Deposits, tax over 50% stopped, equal vendor credit pays a bill, unsaved document changes kept across tabs, Overview Needs attention, Reports month-end list, new product with opening stock",
-  "date": "2026-11-20T17:13:09.350Z",
+  "version": "0.26.37",
+  "file": "Tallkeep-Setup-0.26.37.exe",
+  "sha256": "721f3399f5f67aa47ef1100d9ace02fe56b14de3be96e772bea5be3260d640f9",
+  "size": 124069173,
+  "notes": "Round 6: take a deposit on a quote or order, partly fulfilled invoices keep stock value right, Who owes us explains the Balance Sheet gap, overdue link opens Past due, before-books note while picking the date, Pay Bills stays put for credit-only, Needs attention stacks on phones",
+  "date": "2026-11-20T19:50:05.485Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.36.exe.part0",
+      "name": "Tallkeep-Setup-0.26.37.exe.part0",
       "size": 47185920,
-      "sha256": "83cccdd3a67fafb4a5848c8279732a226f63a999d4ae0690a3e054db43c26192"
+      "sha256": "bda3c3cebee2a0b6c7875d8c33216fc80a9e89952b14407c70925a279b4ece35"
     },
     {
-      "name": "Tallkeep-Setup-0.26.36.exe.part1",
+      "name": "Tallkeep-Setup-0.26.37.exe.part1",
       "size": 47185920,
-      "sha256": "db270c5a411cfef0e1e7c9f6d36d3beeba7e41010ea496b51ccbffcbd1ff153d"
+      "sha256": "b97e71937720a75edecc2046c1655f06a38e258ec5baa3ceb2060adfd164143a"
     },
     {
-      "name": "Tallkeep-Setup-0.26.36.exe.part2",
-      "size": 29697910,
-      "sha256": "29becc13b17083046229ce9d71642c5fd0197d7587de8a1362bd8522428e4cc9"
+      "name": "Tallkeep-Setup-0.26.37.exe.part2",
+      "size": 29697333,
+      "sha256": "fbbc7cd28ba96c139c9e0634e9b08548cba7cb2dfb6d1afc5d973362c614afe6"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.36.tgz",
-    "sha256": "2ed886ec098ad0f56367f8c56c99c19266427c44767ad9e1b48a9c526266070b",
-    "size": 5121280
+    "file": "tallkeep-server-0.26.37.tgz",
+    "sha256": "b72ed00bd52418485abc42f4980c8812c9d1d34e0007b6829d3914f9e1f64e77",
+    "size": 5128732
   }
 }
