@@ -1,30 +1,30 @@
 {
-  "version": "0.26.35",
-  "file": "Tallkeep-Setup-0.26.35.exe",
-  "sha256": "ce97a9dc9665cacab100446fe6cab0364b5b8fea3ee6a8608f5f7ade295fe78f",
-  "size": 124047964,
-  "notes": "Tax % and shipping keep their decimals. A payment can't be more than what's owed. Invoices dated before your books start are marked and left out of what's owed. New documents use today's date in the evening too. Vendor credits can be partly used in Pay Bills. Refunds ask how the money goes back. Receiving lets you pick or add a place.",
-  "date": "2026-11-20T02:56:28.394Z",
+  "version": "0.26.36",
+  "file": "Tallkeep-Setup-0.26.36.exe",
+  "sha256": "9ca26dea69d5f9aec6e41f2890ed1ac3a0d0ee411b07de1eed3d814eba7df236",
+  "size": 124069750,
+  "notes": "Round 5: cancel blocked when paid (Undo cancel), Turn into an invoice posts it, deposits to Customer Deposits, tax over 50% stopped, equal vendor credit pays a bill, unsaved document changes kept across tabs, Overview Needs attention, Reports month-end list, new product with opening stock",
+  "date": "2026-11-20T17:13:09.350Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.35.exe.part0",
+      "name": "Tallkeep-Setup-0.26.36.exe.part0",
       "size": 47185920,
-      "sha256": "dfbc9f1cef1f25901210ccfa48cb1f80a32fb1e766f99812bd947b52d39d4582"
+      "sha256": "83cccdd3a67fafb4a5848c8279732a226f63a999d4ae0690a3e054db43c26192"
     },
     {
-      "name": "Tallkeep-Setup-0.26.35.exe.part1",
+      "name": "Tallkeep-Setup-0.26.36.exe.part1",
       "size": 47185920,
-      "sha256": "6bbc1b9ef629106577a6c53040004b800faf8c9ac9cb1b71183d7e21402b98ad"
+      "sha256": "db270c5a411cfef0e1e7c9f6d36d3beeba7e41010ea496b51ccbffcbd1ff153d"
     },
     {
-      "name": "Tallkeep-Setup-0.26.35.exe.part2",
-      "size": 29676124,
-      "sha256": "7cbb7690240ecfb48b8222e90c1149d6f27a17176e1399d6982c3b5990326799"
+      "name": "Tallkeep-Setup-0.26.36.exe.part2",
+      "size": 29697910,
+      "sha256": "29becc13b17083046229ce9d71642c5fd0197d7587de8a1362bd8522428e4cc9"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.35.tgz",
-    "sha256": "18d050c94f613ec2418dfa670c38129f4cf0ca594dcc77c1f9881462c9c86671",
-    "size": 5115112
+    "file": "tallkeep-server-0.26.36.tgz",
+    "sha256": "2ed886ec098ad0f56367f8c56c99c19266427c44767ad9e1b48a9c526266070b",
+    "size": 5121280
   }
 }
