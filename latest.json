@@ -1,30 +1,30 @@
 {
-  "version": "0.26.41",
-  "file": "Tallkeep-Setup-0.26.41.exe",
-  "sha256": "889e31fb1dc7bb39bf30e25666e1eb0a6840bcd90c8ba098d75fce9ae2a4546f",
-  "size": 124076782,
-  "notes": "300% zoom fixed; cancelled orders still holding a deposit say to give it back; Customer deposits links to every entry; Customers owe shows how many are past due",
-  "date": "2026-11-23T18:34:13.342Z",
+  "version": "0.26.42",
+  "file": "Tallkeep-Setup-0.26.42.exe",
+  "sha256": "0c6118f98d5c99b41980ae20a7e7caf492fef12f24389abf498235098c798447",
+  "size": 124081440,
+  "notes": "The bell shows only the company you're working in; your other companies are listed below with a Switch button",
+  "date": "2026-11-23T18:44:19.153Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.41.exe.part0",
+      "name": "Tallkeep-Setup-0.26.42.exe.part0",
       "size": 47185920,
-      "sha256": "ca3169298d92a734f9e1bbee4ec0bb0c45b825a7c7b67aeede9db41e8ea850de"
+      "sha256": "01ca408be32fdc8b518fab0364ab7f7496857bd87f18236f9dac2698acba1c81"
     },
     {
-      "name": "Tallkeep-Setup-0.26.41.exe.part1",
+      "name": "Tallkeep-Setup-0.26.42.exe.part1",
       "size": 47185920,
-      "sha256": "8cd8001dc6b65f0824bff21bfd8662c4ec62956bd975d121fa0a1fcdd6845144"
+      "sha256": "9c1e252e843906acbe81697a63133e5c342e36cf4ab5a65e9ed46d48317d9a14"
     },
     {
-      "name": "Tallkeep-Setup-0.26.41.exe.part2",
-      "size": 29704942,
-      "sha256": "7569edf945e9e3d864f5e10b975ce3e9a5adc68574613366ea11fce2fa29e58c"
+      "name": "Tallkeep-Setup-0.26.42.exe.part2",
+      "size": 29709600,
+      "sha256": "a2f9df6b50897b3d5893561be5d7a9ed21c33b4835986221a496978b2093d4a9"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.41.tgz",
-    "sha256": "9c6d8d281355765c140a18c3e93de0e0bbaa0fa2805846c7ec6e64a387578527",
-    "size": 5147745
+    "file": "tallkeep-server-0.26.42.tgz",
+    "sha256": "b6283eb08b9c0acb0c59861454d1b8b299dc636caec2f0857c6359aabbdf30a8",
+    "size": 5148702
   }
 }
