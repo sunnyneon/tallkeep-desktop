@@ -1,30 +1,30 @@
 {
-  "version": "0.26.40",
-  "file": "Tallkeep-Setup-0.26.40.exe",
-  "sha256": "3721bad57a24a52ff99f8046df7015ce495be7744920190a89cf7188c98f1ce2",
-  "size": 124079236,
-  "notes": "Notifications: a bell with what needs attention in all your companies (opens once a day), Done / Remind me in a week, weekly email and monthly summary",
-  "date": "2026-11-23T17:49:40.876Z",
+  "version": "0.26.41",
+  "file": "Tallkeep-Setup-0.26.41.exe",
+  "sha256": "889e31fb1dc7bb39bf30e25666e1eb0a6840bcd90c8ba098d75fce9ae2a4546f",
+  "size": 124076782,
+  "notes": "300% zoom fixed; cancelled orders still holding a deposit say to give it back; Customer deposits links to every entry; Customers owe shows how many are past due",
+  "date": "2026-11-23T18:34:13.342Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.40.exe.part0",
+      "name": "Tallkeep-Setup-0.26.41.exe.part0",
       "size": 47185920,
-      "sha256": "0d6d16fe17cf9218af27305ba641824da98aa2026abf35928aaa74d20e5cc9a3"
+      "sha256": "ca3169298d92a734f9e1bbee4ec0bb0c45b825a7c7b67aeede9db41e8ea850de"
     },
     {
-      "name": "Tallkeep-Setup-0.26.40.exe.part1",
+      "name": "Tallkeep-Setup-0.26.41.exe.part1",
       "size": 47185920,
-      "sha256": "724eb41a7d5f515a8eb1725eb9b741256651451e2f5bdd5d03629ea3e2dbe751"
+      "sha256": "8cd8001dc6b65f0824bff21bfd8662c4ec62956bd975d121fa0a1fcdd6845144"
     },
     {
-      "name": "Tallkeep-Setup-0.26.40.exe.part2",
-      "size": 29707396,
-      "sha256": "f0170ee115d74a10a7093e325c2fc2ca6726576626b9a7d27f85de55cb34d57c"
+      "name": "Tallkeep-Setup-0.26.41.exe.part2",
+      "size": 29704942,
+      "sha256": "7569edf945e9e3d864f5e10b975ce3e9a5adc68574613366ea11fce2fa29e58c"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.40.tgz",
-    "sha256": "ddc54d1cef8ffc19c85358895445b8397f6efa16840664f800d54029c460acfd",
-    "size": 5145979
+    "file": "tallkeep-server-0.26.41.tgz",
+    "sha256": "9c6d8d281355765c140a18c3e93de0e0bbaa0fa2805846c7ec6e64a387578527",
+    "size": 5147745
   }
 }
