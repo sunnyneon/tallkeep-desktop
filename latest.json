@@ -1,30 +1,30 @@
 {
-  "version": "0.26.42",
-  "file": "Tallkeep-Setup-0.26.42.exe",
-  "sha256": "0c6118f98d5c99b41980ae20a7e7caf492fef12f24389abf498235098c798447",
-  "size": 124081440,
-  "notes": "The bell shows only the company you're working in; your other companies are listed below with a Switch button",
-  "date": "2026-11-23T18:44:19.153Z",
+  "version": "0.26.43",
+  "file": "Tallkeep-Setup-0.26.43.exe",
+  "sha256": "ed883567d230c68c72c6c0a64d2bc28efd7a59046e3c4218346b09749465762a",
+  "size": 124064883,
+  "notes": "Zoomed in on a narrow screen, nothing pushes the page sideways; Overview shows no 0 invoices while loading",
+  "date": "2026-11-23T20:19:54.270Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.42.exe.part0",
+      "name": "Tallkeep-Setup-0.26.43.exe.part0",
       "size": 47185920,
-      "sha256": "01ca408be32fdc8b518fab0364ab7f7496857bd87f18236f9dac2698acba1c81"
+      "sha256": "7a83286fc07bd44219441ff76c9717cb88a0f2a25c150beefc7d1fb399143031"
     },
     {
-      "name": "Tallkeep-Setup-0.26.42.exe.part1",
+      "name": "Tallkeep-Setup-0.26.43.exe.part1",
       "size": 47185920,
-      "sha256": "9c1e252e843906acbe81697a63133e5c342e36cf4ab5a65e9ed46d48317d9a14"
+      "sha256": "392e361d6bffaa81d6717de62c40a394536fdcc750ef22faac4ea66b9647803d"
     },
     {
-      "name": "Tallkeep-Setup-0.26.42.exe.part2",
-      "size": 29709600,
-      "sha256": "a2f9df6b50897b3d5893561be5d7a9ed21c33b4835986221a496978b2093d4a9"
+      "name": "Tallkeep-Setup-0.26.43.exe.part2",
+      "size": 29693043,
+      "sha256": "a26fd55cb8305b693a168c3ee78c895912b0eccfab55013542c2c0f0fcbce102"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.42.tgz",
-    "sha256": "b6283eb08b9c0acb0c59861454d1b8b299dc636caec2f0857c6359aabbdf30a8",
-    "size": 5148702
+    "file": "tallkeep-server-0.26.43.tgz",
+    "sha256": "a0665638b5cead5c1fad4170d163a195b1f1fd38af70dcc0b7657e3f500d35ec",
+    "size": 5149995
   }
 }
