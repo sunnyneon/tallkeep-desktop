@@ -3,6 +3,6 @@
 Installers for [Tallkeep](https://tallkeep.com). Tallkeep on your office computer updates itself
 from here; you don't need to download anything by hand.
 
-Newest version: **0.26.39**. Menu stays right after an update; Customers owe shows every unpaid invoice and opens the unpaid list; Who owes us lists invoices from before the books start
+Newest version: **0.26.40**. Notifications: a bell with what needs attention in all your companies (opens once a day), Done / Remind me in a week, weekly email and monthly summary
 
 Running Tallkeep on a Synology, a Linux server or anything with Docker: see [docker/README.md](docker/README.md).
