@@ -1,30 +1,30 @@
 {
-  "version": "0.26.43",
-  "file": "Tallkeep-Setup-0.26.43.exe",
-  "sha256": "ed883567d230c68c72c6c0a64d2bc28efd7a59046e3c4218346b09749465762a",
-  "size": 124064883,
-  "notes": "Zoomed in on a narrow screen, nothing pushes the page sideways; Overview shows no 0 invoices while loading",
-  "date": "2026-11-23T20:19:54.270Z",
+  "version": "0.26.44",
+  "file": "Tallkeep-Setup-0.26.44.exe",
+  "sha256": "55dc1b299dcd2275a1b6c33b5ffd7cb7034975a9f237512b4511efbcd780057d",
+  "size": 124066020,
+  "notes": "Menu: Reports shows once (a section with one page is just that page)",
+  "date": "2026-11-24T17:37:17.787Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.43.exe.part0",
+      "name": "Tallkeep-Setup-0.26.44.exe.part0",
       "size": 47185920,
-      "sha256": "7a83286fc07bd44219441ff76c9717cb88a0f2a25c150beefc7d1fb399143031"
+      "sha256": "099dae1224a083449b6eb3aca065cf09357d9434ec2583de1ddbd4d4f1360458"
     },
     {
-      "name": "Tallkeep-Setup-0.26.43.exe.part1",
+      "name": "Tallkeep-Setup-0.26.44.exe.part1",
       "size": 47185920,
-      "sha256": "392e361d6bffaa81d6717de62c40a394536fdcc750ef22faac4ea66b9647803d"
+      "sha256": "8b29df2a601f82787a0a3ba35d69673d20da8dda2a1651e5d04449110e368e80"
     },
     {
-      "name": "Tallkeep-Setup-0.26.43.exe.part2",
-      "size": 29693043,
-      "sha256": "a26fd55cb8305b693a168c3ee78c895912b0eccfab55013542c2c0f0fcbce102"
+      "name": "Tallkeep-Setup-0.26.44.exe.part2",
+      "size": 29694180,
+      "sha256": "738202e6a263211c048ffe71e9b5f74fdad606396bacb0b279fd6eaa68fc16dd"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.43.tgz",
-    "sha256": "a0665638b5cead5c1fad4170d163a195b1f1fd38af70dcc0b7657e3f500d35ec",
-    "size": 5149995
+    "file": "tallkeep-server-0.26.44.tgz",
+    "sha256": "a82a707a19c8b1f7f4f9f2691b773b1633fd9364a282d74f4e30baa99984bd4e",
+    "size": 5146816
   }
 }
