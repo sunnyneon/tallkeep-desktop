@@ -1,30 +1,30 @@
 {
-  "version": "0.26.44",
-  "file": "Tallkeep-Setup-0.26.44.exe",
-  "sha256": "55dc1b299dcd2275a1b6c33b5ffd7cb7034975a9f237512b4511efbcd780057d",
-  "size": 124066020,
-  "notes": "Menu: Reports shows once (a section with one page is just that page)",
-  "date": "2026-11-24T17:37:17.787Z",
+  "version": "0.26.45",
+  "file": "Tallkeep-Setup-0.26.45.exe",
+  "sha256": "563a983719405f11dc0d56f2fb0022b1c63bf7fb27fc91e4858dd12a5447bc07",
+  "size": 124074214,
+  "notes": "QuickBooks import brings in this year's invoices and payments too",
+  "date": "2026-11-24T20:16:17.037Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.44.exe.part0",
+      "name": "Tallkeep-Setup-0.26.45.exe.part0",
       "size": 47185920,
-      "sha256": "099dae1224a083449b6eb3aca065cf09357d9434ec2583de1ddbd4d4f1360458"
+      "sha256": "a01e60ee9a71edb3329131d4d7eb2739db2859f864d2300c96f0946febede895"
     },
     {
-      "name": "Tallkeep-Setup-0.26.44.exe.part1",
+      "name": "Tallkeep-Setup-0.26.45.exe.part1",
       "size": 47185920,
-      "sha256": "8b29df2a601f82787a0a3ba35d69673d20da8dda2a1651e5d04449110e368e80"
+      "sha256": "45c29955eeac0afb989a17ea756133379b9dbe2a3e227f45eb807089ddd62d90"
     },
     {
-      "name": "Tallkeep-Setup-0.26.44.exe.part2",
-      "size": 29694180,
-      "sha256": "738202e6a263211c048ffe71e9b5f74fdad606396bacb0b279fd6eaa68fc16dd"
+      "name": "Tallkeep-Setup-0.26.45.exe.part2",
+      "size": 29702374,
+      "sha256": "4a5674e525f1d03e8553c8b7419041c1685449b9f134fb72bf82f76e97bcd187"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.44.tgz",
-    "sha256": "a82a707a19c8b1f7f4f9f2691b773b1633fd9364a282d74f4e30baa99984bd4e",
-    "size": 5146816
+    "file": "tallkeep-server-0.26.45.tgz",
+    "sha256": "7f4faacc29a8fe1e6013994aa681eafcfa606a1288a352ea9fc354f83a3742d6",
+    "size": 5152974
   }
 }
