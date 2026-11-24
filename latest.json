@@ -1,30 +1,30 @@
 {
-  "version": "0.26.46",
-  "file": "Tallkeep-Setup-0.26.46.exe",
-  "sha256": "01022763d1831df72ba0b55143b872515a0ee1b4bf3b318bfe8f652bcfe8bf46",
-  "size": 124094977,
-  "notes": "QuickBooks import step 5 reads Transaction List by Customer",
-  "date": "2026-11-24T20:34:28.543Z",
+  "version": "0.26.47",
+  "file": "Tallkeep-Setup-0.26.47.exe",
+  "sha256": "88b441ca48de5e7dfba97dffe6aed466e076cf364936efe42cacbee2231959a2",
+  "size": 124067824,
+  "notes": "QuickBooks import keeps the sales tax when an invoice is saved",
+  "date": "2026-11-24T21:18:40.775Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.46.exe.part0",
+      "name": "Tallkeep-Setup-0.26.47.exe.part0",
       "size": 47185920,
-      "sha256": "67598ec54d823db9482acfe7304a970dcac5c8aea1dff37f40683859c946b242"
+      "sha256": "bc6df2e9c1e55ae3f358b3b314f72aa4a492e209d0f3b1a114ae16b51690bb27"
     },
     {
-      "name": "Tallkeep-Setup-0.26.46.exe.part1",
+      "name": "Tallkeep-Setup-0.26.47.exe.part1",
       "size": 47185920,
-      "sha256": "0a0c238d4f9890e0830fd618a1a560a2354b50045dcc18ce6d3101dac5bea984"
+      "sha256": "d2270f0cd9bc04c97b7e3c55cd4f967364fa68902122e458a00ce87de1a2d09c"
     },
     {
-      "name": "Tallkeep-Setup-0.26.46.exe.part2",
-      "size": 29723137,
-      "sha256": "1b8d7b0cdb78c09837e702d95f927459875c16b3095bb87a4162c544ea0d3ddf"
+      "name": "Tallkeep-Setup-0.26.47.exe.part2",
+      "size": 29695984,
+      "sha256": "f7d27814509e41a404b001e92f5b4d2e348d5356c609b810ca55b6e51de5add8"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.46.tgz",
-    "sha256": "79c9460c826d8fbbb6e8020ee8ecc29a3f57d213b7462867bc09c446e065d858",
-    "size": 5153626
+    "file": "tallkeep-server-0.26.47.tgz",
+    "sha256": "f88afc52cf3563415978f21c03a53fdb661e7f115989d787cd851855ca626168",
+    "size": 5156709
   }
 }
