@@ -1,30 +1,30 @@
 {
-  "version": "0.26.53",
-  "file": "Tallkeep-Setup-0.26.53.exe",
-  "sha256": "229f4254e8c05937cadd3909d27139822e87212434a8db8f8c4e12945d8c32f4",
-  "size": 124088792,
-  "notes": "Match a deposit to a same-amount payment at any date",
-  "date": "2026-11-25T20:12:20.855Z",
+  "version": "0.26.54",
+  "file": "Tallkeep-Setup-0.26.54.exe",
+  "sha256": "a2173e188b74a92a4755ded82043a6b4736aab8cd90540cf5d05fec5109d2cd7",
+  "size": 124081047,
+  "notes": "Bank lines from the connection and from a statement count once",
+  "date": "2026-11-25T22:08:16.861Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.53.exe.part0",
+      "name": "Tallkeep-Setup-0.26.54.exe.part0",
       "size": 47185920,
-      "sha256": "01fb1868cf002c7d805ce8a5f193ce1c07c84193dcb09f992e004ab5d2a9cb94"
+      "sha256": "264dc2ff90b54a7188822dac47d51a1ee493f801dcac90c5ae6800aa2cc18234"
     },
     {
-      "name": "Tallkeep-Setup-0.26.53.exe.part1",
+      "name": "Tallkeep-Setup-0.26.54.exe.part1",
       "size": 47185920,
-      "sha256": "7729617f38b81a072f93aa4f68b2a7e541f63f98679e1664fa3051ba74ce9da4"
+      "sha256": "8b8fe57f03c2dfdf2cda94575a1b4b72d727a1029bb8b09f93b764e50f6b2026"
     },
     {
-      "name": "Tallkeep-Setup-0.26.53.exe.part2",
-      "size": 29716952,
-      "sha256": "b7ec2a5c62486927b00e2e135b6d5998d05671b20c3c1d7d56d4276523d0dffd"
+      "name": "Tallkeep-Setup-0.26.54.exe.part2",
+      "size": 29709207,
+      "sha256": "c38875663098dcc4608e118aaf6663e536a42ccc706f4aabf5f060514d5b6b11"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.53.tgz",
-    "sha256": "3cdef6a5db2c67be8aa94bcc561ffb74f1acada3de988f61f515ae980c75fecc",
-    "size": 5162960
+    "file": "tallkeep-server-0.26.54.tgz",
+    "sha256": "fe871dcebc5836feabb6d91dfe2d76546699aefd68752f863ff43a8972319172",
+    "size": 5162943
   }
 }
