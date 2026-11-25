@@ -1,30 +1,30 @@
 {
-  "version": "0.26.49",
-  "file": "Tallkeep-Setup-0.26.49.exe",
-  "sha256": "d673ffd99e1466df60667d747fe65e9c75be5c84fbee55c6860fc54f55f0cfc3",
-  "size": 124072551,
-  "notes": "Account pickers you can type in",
-  "date": "2026-11-25T17:27:37.289Z",
+  "version": "0.26.50",
+  "file": "Tallkeep-Setup-0.26.50.exe",
+  "sha256": "8785d64010bf3c91667b9dae7243150d0cf56e359afbe186b04f3ce2b11f4963",
+  "size": 124084067,
+  "notes": "QuickBooks lists keep what's already in Tallkeep; put back what an older import changed",
+  "date": "2026-11-25T18:07:28.668Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.49.exe.part0",
+      "name": "Tallkeep-Setup-0.26.50.exe.part0",
       "size": 47185920,
-      "sha256": "2be755c02469b90542d4e73d4da9a459d02207b119947b54b55d17b7888750e2"
+      "sha256": "679432dfac06f993ef5a6adee5ea09602c7bc9c06025c3534f738f517f2fdfc7"
     },
     {
-      "name": "Tallkeep-Setup-0.26.49.exe.part1",
+      "name": "Tallkeep-Setup-0.26.50.exe.part1",
       "size": 47185920,
-      "sha256": "aa3843ebb3a697b1919c56ecd20e8bd8a6949039fba623c0a79144dbb385e236"
+      "sha256": "249eb5392c63965702cd713762331fb3a59144fd7eca42d4a98321db909f0949"
     },
     {
-      "name": "Tallkeep-Setup-0.26.49.exe.part2",
-      "size": 29700711,
-      "sha256": "70b2b250be2a1723782142004d80fac6947758a64267afe4e6f89cc65f3cc662"
+      "name": "Tallkeep-Setup-0.26.50.exe.part2",
+      "size": 29712227,
+      "sha256": "7f44df52353cd3ba810d01a50503810e32b5dbc62d7c9e6db4af40c12872454b"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.49.tgz",
-    "sha256": "5279d9ff69d293c9ad4bbcdc1e3209f638c19e4e3667528e3f33c51be7ffac46",
-    "size": 5158023
+    "file": "tallkeep-server-0.26.50.tgz",
+    "sha256": "bce8ede8b686319468f03d7d757ce4c7f20682f8f209bb2939e47c357df0111d",
+    "size": 5160186
   }
 }
