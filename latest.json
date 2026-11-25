@@ -1,30 +1,30 @@
 {
-  "version": "0.26.50",
-  "file": "Tallkeep-Setup-0.26.50.exe",
-  "sha256": "8785d64010bf3c91667b9dae7243150d0cf56e359afbe186b04f3ce2b11f4963",
-  "size": 124084067,
-  "notes": "QuickBooks lists keep what's already in Tallkeep; put back what an older import changed",
-  "date": "2026-11-25T18:07:28.668Z",
+  "version": "0.26.51",
+  "file": "Tallkeep-Setup-0.26.51.exe",
+  "sha256": "3e11e189b636c40e646b25afc2a19eb8d757e7103bb625b9babbf1c2574be936",
+  "size": 124071562,
+  "notes": "Old invoices' switch-over payments stay out of the books; QuickBooks chart keeps Inventory",
+  "date": "2026-11-25T18:53:06.099Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.50.exe.part0",
+      "name": "Tallkeep-Setup-0.26.51.exe.part0",
       "size": 47185920,
-      "sha256": "679432dfac06f993ef5a6adee5ea09602c7bc9c06025c3534f738f517f2fdfc7"
+      "sha256": "8e919a28ac0a07e48017c76bbbe4eec50116c74e9b0c093435681d0e0ac6c288"
     },
     {
-      "name": "Tallkeep-Setup-0.26.50.exe.part1",
+      "name": "Tallkeep-Setup-0.26.51.exe.part1",
       "size": 47185920,
-      "sha256": "249eb5392c63965702cd713762331fb3a59144fd7eca42d4a98321db909f0949"
+      "sha256": "51806c34e3a98afaaf177607c06ed46db744fc8b049f22bb978a486b62d2701e"
     },
     {
-      "name": "Tallkeep-Setup-0.26.50.exe.part2",
-      "size": 29712227,
-      "sha256": "7f44df52353cd3ba810d01a50503810e32b5dbc62d7c9e6db4af40c12872454b"
+      "name": "Tallkeep-Setup-0.26.51.exe.part2",
+      "size": 29699722,
+      "sha256": "3f7306f357e236be609167692523fcf184989942eee10e67810d1b053d760bdb"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.50.tgz",
-    "sha256": "bce8ede8b686319468f03d7d757ce4c7f20682f8f209bb2939e47c357df0111d",
-    "size": 5160186
+    "file": "tallkeep-server-0.26.51.tgz",
+    "sha256": "9ee8b078c74b27f7aa34c29383ce4e60200819ad0ec8b296b6cd665a435c962a",
+    "size": 5159230
   }
 }
