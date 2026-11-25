@@ -1,30 +1,30 @@
 {
-  "version": "0.26.48",
-  "file": "Tallkeep-Setup-0.26.48.exe",
-  "sha256": "e62d871ca3614b10056f48401ecc7879e03c456636b727780fddffcff9be8162",
-  "size": 124094117,
-  "notes": "One deposit can match several payments; late-dated payments match too",
-  "date": "2026-11-24T22:11:43.335Z",
+  "version": "0.26.49",
+  "file": "Tallkeep-Setup-0.26.49.exe",
+  "sha256": "d673ffd99e1466df60667d747fe65e9c75be5c84fbee55c6860fc54f55f0cfc3",
+  "size": 124072551,
+  "notes": "Account pickers you can type in",
+  "date": "2026-11-25T17:27:37.289Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.48.exe.part0",
+      "name": "Tallkeep-Setup-0.26.49.exe.part0",
       "size": 47185920,
-      "sha256": "0751cb3ae306e95e44413881f478c2419cfd8e3bde4d924062740a01f257e28f"
+      "sha256": "2be755c02469b90542d4e73d4da9a459d02207b119947b54b55d17b7888750e2"
     },
     {
-      "name": "Tallkeep-Setup-0.26.48.exe.part1",
+      "name": "Tallkeep-Setup-0.26.49.exe.part1",
       "size": 47185920,
-      "sha256": "1e100f5a819f1ed33a177c9d69bf4fbf7691d7f723d148dc3ecdd0667ffcbc9e"
+      "sha256": "aa3843ebb3a697b1919c56ecd20e8bd8a6949039fba623c0a79144dbb385e236"
     },
     {
-      "name": "Tallkeep-Setup-0.26.48.exe.part2",
-      "size": 29722277,
-      "sha256": "df7434e8f6d34246ae2b97a9d0013d01df0964faf5da65d17999b54d0aaa64f7"
+      "name": "Tallkeep-Setup-0.26.49.exe.part2",
+      "size": 29700711,
+      "sha256": "70b2b250be2a1723782142004d80fac6947758a64267afe4e6f89cc65f3cc662"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.48.tgz",
-    "sha256": "26a1d0ef57a343f2c04b723f7a540034a8ae4a17b299883b96dc1d9f9de355d3",
-    "size": 5158411
+    "file": "tallkeep-server-0.26.49.tgz",
+    "sha256": "5279d9ff69d293c9ad4bbcdc1e3209f638c19e4e3667528e3f33c51be7ffac46",
+    "size": 5158023
   }
 }
