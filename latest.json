@@ -1,30 +1,30 @@
 {
-  "version": "0.26.52",
-  "file": "Tallkeep-Setup-0.26.52.exe",
-  "sha256": "977e893d1835de7e275dc8baaca726f4472ce2bed28f91eb87fafe6c0318ae17",
-  "size": 124073053,
-  "notes": "Starting stock already in the opening balances",
-  "date": "2026-11-25T19:40:13.782Z",
+  "version": "0.26.53",
+  "file": "Tallkeep-Setup-0.26.53.exe",
+  "sha256": "229f4254e8c05937cadd3909d27139822e87212434a8db8f8c4e12945d8c32f4",
+  "size": 124088792,
+  "notes": "Match a deposit to a same-amount payment at any date",
+  "date": "2026-11-25T20:12:20.855Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.52.exe.part0",
+      "name": "Tallkeep-Setup-0.26.53.exe.part0",
       "size": 47185920,
-      "sha256": "834fffeb133dc13963d21aedf4cb9a57a95e10d3e3a2981bb462f348fbb4752e"
+      "sha256": "01fb1868cf002c7d805ce8a5f193ce1c07c84193dcb09f992e004ab5d2a9cb94"
     },
     {
-      "name": "Tallkeep-Setup-0.26.52.exe.part1",
+      "name": "Tallkeep-Setup-0.26.53.exe.part1",
       "size": 47185920,
-      "sha256": "65948685233527c2f006f45a17a52adfca9ae6aad0e0cde4ff6b8c6c9922d358"
+      "sha256": "7729617f38b81a072f93aa4f68b2a7e541f63f98679e1664fa3051ba74ce9da4"
     },
     {
-      "name": "Tallkeep-Setup-0.26.52.exe.part2",
-      "size": 29701213,
-      "sha256": "dfe02d536f52632fd184711876a0a49dcc75b8fbbce08fc0e1ab4bf691917bf4"
+      "name": "Tallkeep-Setup-0.26.53.exe.part2",
+      "size": 29716952,
+      "sha256": "b7ec2a5c62486927b00e2e135b6d5998d05671b20c3c1d7d56d4276523d0dffd"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.52.tgz",
-    "sha256": "8a44b35e8329abae91a0607bbc179dd3a1b39b1ab2990ebbcd302cf428240f3c",
-    "size": 5161540
+    "file": "tallkeep-server-0.26.53.tgz",
+    "sha256": "3cdef6a5db2c67be8aa94bcc561ffb74f1acada3de988f61f515ae980c75fecc",
+    "size": 5162960
   }
 }
