@@ -1,30 +1,30 @@
 {
-  "version": "0.26.56",
-  "file": "Tallkeep-Setup-0.26.56.exe",
-  "sha256": "e0e92a8f5c69c7381061194169ecd90cdf041655177a4d42559f14bb593afc98",
-  "size": 124081672,
-  "notes": "Bank lines from before the books start stay out of the books",
-  "date": "2026-11-26T00:20:47.892Z",
+  "version": "0.26.57",
+  "file": "Tallkeep-Setup-0.26.57.exe",
+  "sha256": "39c41e414815d26d8ef9c89f7046788ad8b2a75e4d57f5ccd3ec88d523e534ef",
+  "size": 124081486,
+  "notes": "Bank line twins up to three days apart count once",
+  "date": "2026-11-26T00:33:51.988Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.56.exe.part0",
+      "name": "Tallkeep-Setup-0.26.57.exe.part0",
       "size": 47185920,
-      "sha256": "7a32df61050d622225713b8e2ba1958e8beee53c854b7710e24ba93910995e99"
+      "sha256": "311d1293df69e2f0ed4ba17122b59c2661451105b1d0fd2cb47732c224435275"
     },
     {
-      "name": "Tallkeep-Setup-0.26.56.exe.part1",
+      "name": "Tallkeep-Setup-0.26.57.exe.part1",
       "size": 47185920,
-      "sha256": "d2cd15227481f79b1657c92384493491c23f70ad8270d80d3e276db08eb083a7"
+      "sha256": "53c34f2b3079d693deeea7f0194135a23d2291cb4a603c2554abc979a6871da9"
     },
     {
-      "name": "Tallkeep-Setup-0.26.56.exe.part2",
-      "size": 29709832,
-      "sha256": "be77b235de6f800f710200f50523f60b677f741dbd85816361ca2600d1fc4054"
+      "name": "Tallkeep-Setup-0.26.57.exe.part2",
+      "size": 29709646,
+      "sha256": "ee62684c6f005258eddfc9ef5b8a733dd365f88612fd56fbf7fe920b1aeba354"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.56.tgz",
-    "sha256": "20393305d39b2864b7025d1dab13cc1b555e5171bd624c087b6e4c6c5ee2a7df",
-    "size": 5166465
+    "file": "tallkeep-server-0.26.57.tgz",
+    "sha256": "c85176167c2fb1b33a515e8ce8a528bff26a72d9a2453a7b05208024d25f687f",
+    "size": 5167352
   }
 }
