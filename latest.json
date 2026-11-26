@@ -1,30 +1,30 @@
 {
-  "version": "0.26.57",
-  "file": "Tallkeep-Setup-0.26.57.exe",
-  "sha256": "39c41e414815d26d8ef9c89f7046788ad8b2a75e4d57f5ccd3ec88d523e534ef",
-  "size": 124081486,
-  "notes": "Bank line twins up to three days apart count once",
-  "date": "2026-11-26T00:33:51.988Z",
+  "version": "0.26.58",
+  "file": "Tallkeep-Setup-0.26.58.exe",
+  "sha256": "c7632722f6dec9d8ff68168fa02390a4c4677b6b5052a5fe5d5314efb024f46b",
+  "size": 124089982,
+  "notes": "Safer backups: each backup request gets its own result; restoring puts attached files back before saving the books and undoes everything if that fails; missing attachment copies are reported instead of hidden.",
+  "date": "2026-11-26T17:47:12.271Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.57.exe.part0",
+      "name": "Tallkeep-Setup-0.26.58.exe.part0",
       "size": 47185920,
-      "sha256": "311d1293df69e2f0ed4ba17122b59c2661451105b1d0fd2cb47732c224435275"
+      "sha256": "1fac180e51b0b7bbed943f769330aaa54f512d662cc54a9711217bff444f5ddb"
     },
     {
-      "name": "Tallkeep-Setup-0.26.57.exe.part1",
+      "name": "Tallkeep-Setup-0.26.58.exe.part1",
       "size": 47185920,
-      "sha256": "53c34f2b3079d693deeea7f0194135a23d2291cb4a603c2554abc979a6871da9"
+      "sha256": "ab35a1bc6e926abd728c2027b1ca5a2d6d0b36f83d7a0aeb7e34c8517a4f885a"
     },
     {
-      "name": "Tallkeep-Setup-0.26.57.exe.part2",
-      "size": 29709646,
-      "sha256": "ee62684c6f005258eddfc9ef5b8a733dd365f88612fd56fbf7fe920b1aeba354"
+      "name": "Tallkeep-Setup-0.26.58.exe.part2",
+      "size": 29718142,
+      "sha256": "19187b980310b2d002fb625a6e4db6df18ee14129390bf3d392cf6b0736c5090"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.57.tgz",
-    "sha256": "c85176167c2fb1b33a515e8ce8a528bff26a72d9a2453a7b05208024d25f687f",
-    "size": 5167352
+    "file": "tallkeep-server-0.26.58.tgz",
+    "sha256": "3bb2ac5f236bcb244c7e5eb762b0fe9cad75a60c3794c5e1a224aa49f33ef51d",
+    "size": 5160852
   }
 }
