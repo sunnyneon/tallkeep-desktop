@@ -1,30 +1,30 @@
 {
-  "version": "0.26.55",
-  "file": "Tallkeep-Setup-0.26.55.exe",
-  "sha256": "a653eed7fb460d38564ce943c5d64262341a1c2df8781b77dd9bd2922135299d",
-  "size": 124073271,
-  "notes": "Changing a connected account moves its waiting lines; QuickBooks chart keeps cards",
-  "date": "2026-11-25T22:34:33.325Z",
+  "version": "0.26.56",
+  "file": "Tallkeep-Setup-0.26.56.exe",
+  "sha256": "e0e92a8f5c69c7381061194169ecd90cdf041655177a4d42559f14bb593afc98",
+  "size": 124081672,
+  "notes": "Bank lines from before the books start stay out of the books",
+  "date": "2026-11-26T00:20:47.892Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.55.exe.part0",
+      "name": "Tallkeep-Setup-0.26.56.exe.part0",
       "size": 47185920,
-      "sha256": "38a13fd82a382fbff6f45978e01b9109c0cd923b6304e0b7656d19f5c296e2c8"
+      "sha256": "7a32df61050d622225713b8e2ba1958e8beee53c854b7710e24ba93910995e99"
     },
     {
-      "name": "Tallkeep-Setup-0.26.55.exe.part1",
+      "name": "Tallkeep-Setup-0.26.56.exe.part1",
       "size": 47185920,
-      "sha256": "a05713ae6b8dce9ab2077f37dab52f5baa228909113ad9c4d1c94618261d54c4"
+      "sha256": "d2cd15227481f79b1657c92384493491c23f70ad8270d80d3e276db08eb083a7"
     },
     {
-      "name": "Tallkeep-Setup-0.26.55.exe.part2",
-      "size": 29701431,
-      "sha256": "1ebee3a39f7bb989fc32314da1d52bb03e994a059a6cd20c8407d14262cacb94"
+      "name": "Tallkeep-Setup-0.26.56.exe.part2",
+      "size": 29709832,
+      "sha256": "be77b235de6f800f710200f50523f60b677f741dbd85816361ca2600d1fc4054"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.55.tgz",
-    "sha256": "de75f3f659d013356a591df5a699110f50d2e52361974abd243ad66d168802f3",
-    "size": 5165692
+    "file": "tallkeep-server-0.26.56.tgz",
+    "sha256": "20393305d39b2864b7025d1dab13cc1b555e5171bd624c087b6e4c6c5ee2a7df",
+    "size": 5166465
   }
 }
