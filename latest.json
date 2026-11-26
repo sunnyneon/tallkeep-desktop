@@ -1,30 +1,30 @@
 {
-  "version": "0.26.58",
-  "file": "Tallkeep-Setup-0.26.58.exe",
-  "sha256": "c7632722f6dec9d8ff68168fa02390a4c4677b6b5052a5fe5d5314efb024f46b",
-  "size": 124089982,
-  "notes": "Safer backups: each backup request gets its own result; restoring puts attached files back before saving the books and undoes everything if that fails; missing attachment copies are reported instead of hidden.",
-  "date": "2026-11-26T17:47:12.271Z",
+  "version": "0.26.59",
+  "file": "Tallkeep-Setup-0.26.59.exe",
+  "sha256": "8e5db117ad9432268722e674188575dabd5329dcb64db9a953ba70cad5473ec1",
+  "size": 124087272,
+  "notes": "Sample company: open it straight from the company list; Back to returns to the company you came from.",
+  "date": "2026-11-26T18:00:23.208Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.58.exe.part0",
+      "name": "Tallkeep-Setup-0.26.59.exe.part0",
       "size": 47185920,
-      "sha256": "1fac180e51b0b7bbed943f769330aaa54f512d662cc54a9711217bff444f5ddb"
+      "sha256": "36429524901e85911989c4fd9114a1d0ae6e5254733300dbe3cefaeabd15e7e6"
     },
     {
-      "name": "Tallkeep-Setup-0.26.58.exe.part1",
+      "name": "Tallkeep-Setup-0.26.59.exe.part1",
       "size": 47185920,
-      "sha256": "ab35a1bc6e926abd728c2027b1ca5a2d6d0b36f83d7a0aeb7e34c8517a4f885a"
+      "sha256": "09e572cec6fc547deffc7717214108070a2b6557414410262840a7cb6fd97fd1"
     },
     {
-      "name": "Tallkeep-Setup-0.26.58.exe.part2",
-      "size": 29718142,
-      "sha256": "19187b980310b2d002fb625a6e4db6df18ee14129390bf3d392cf6b0736c5090"
+      "name": "Tallkeep-Setup-0.26.59.exe.part2",
+      "size": 29715432,
+      "sha256": "0f81df3042f29e49d16bb85150b3a894f3abea450a2fc877d1f59938a9e64ce3"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.58.tgz",
-    "sha256": "3bb2ac5f236bcb244c7e5eb762b0fe9cad75a60c3794c5e1a224aa49f33ef51d",
-    "size": 5160852
+    "file": "tallkeep-server-0.26.59.tgz",
+    "sha256": "df401808fd0a0516342c28c4ea4e6d20eb57c8044b9651f86e143d15e28f3216",
+    "size": 5166203
   }
 }
