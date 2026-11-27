@@ -1,30 +1,30 @@
 {
-  "version": "0.26.59",
-  "file": "Tallkeep-Setup-0.26.59.exe",
-  "sha256": "8e5db117ad9432268722e674188575dabd5329dcb64db9a953ba70cad5473ec1",
-  "size": 124087272,
-  "notes": "Sample company: open it straight from the company list; Back to returns to the company you came from.",
-  "date": "2026-11-26T18:00:23.208Z",
+  "version": "0.26.60",
+  "file": "Tallkeep-Setup-0.26.60.exe",
+  "sha256": "b9b5051f4101b1c248eae04e10786ab7c372d3a86d65b62a4129fa79a26e0186",
+  "size": 124090420,
+  "notes": "Check against QuickBooks: compare your QuickBooks reports with Tallkeep and see every difference before you switch.",
+  "date": "2026-11-27T01:01:49.179Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.59.exe.part0",
+      "name": "Tallkeep-Setup-0.26.60.exe.part0",
       "size": 47185920,
-      "sha256": "36429524901e85911989c4fd9114a1d0ae6e5254733300dbe3cefaeabd15e7e6"
+      "sha256": "4b2a2e9d807412c75bf2335daa022a45ac32a60899596c17866ca0b1a6108e3a"
     },
     {
-      "name": "Tallkeep-Setup-0.26.59.exe.part1",
+      "name": "Tallkeep-Setup-0.26.60.exe.part1",
       "size": 47185920,
-      "sha256": "09e572cec6fc547deffc7717214108070a2b6557414410262840a7cb6fd97fd1"
+      "sha256": "2bcc491c48b025612abf17aa43dd62f1b83d703b3c5e39543e0e8776ae10b854"
     },
     {
-      "name": "Tallkeep-Setup-0.26.59.exe.part2",
-      "size": 29715432,
-      "sha256": "0f81df3042f29e49d16bb85150b3a894f3abea450a2fc877d1f59938a9e64ce3"
+      "name": "Tallkeep-Setup-0.26.60.exe.part2",
+      "size": 29718580,
+      "sha256": "2ce362035ebae4b610d052cd8bffaf422fb94b4b481a1836d314818495cb5eff"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.59.tgz",
-    "sha256": "df401808fd0a0516342c28c4ea4e6d20eb57c8044b9651f86e143d15e28f3216",
-    "size": 5166203
+    "file": "tallkeep-server-0.26.60.tgz",
+    "sha256": "85833d8b1c89fdfe48884526a6f16ca37101342a6e91a9f81ab47d3b345844cf",
+    "size": 5173470
   }
 }
