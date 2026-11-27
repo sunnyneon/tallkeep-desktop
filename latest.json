@@ -1,30 +1,30 @@
 {
-  "version": "0.26.61",
-  "file": "Tallkeep-Setup-0.26.61.exe",
-  "sha256": "d48d9e035b6b92fbef0dea92f32b8590b4b8b7057e16c2969a3eb99283abf758",
-  "size": 124088073,
-  "notes": "Backup health: see your last backup, whether it's kept away from this computer, and when it was last checked to open.",
-  "date": "2026-11-27T16:47:17.671Z",
+  "version": "0.26.62",
+  "file": "Tallkeep-Setup-0.26.62.exe",
+  "sha256": "79ee629a99ea767dd470570898fe340cce57241419ed972beec5ecff04fcac14",
+  "size": 124096875,
+  "notes": "Cash Flow: a new report in Financial Reports, and a Cash flow card on Overview.",
+  "date": "2026-11-27T17:38:30.215Z",
   "parts": [
     {
-      "name": "Tallkeep-Setup-0.26.61.exe.part0",
+      "name": "Tallkeep-Setup-0.26.62.exe.part0",
       "size": 47185920,
-      "sha256": "3439ae5942702a0efb9ab3dad8ff0b82229435c1a1267b9f0d945bf32bad4faa"
+      "sha256": "02b47851349e20dc8516630eb4d88909357e9cc888e3445056cc06d22df1e436"
     },
     {
-      "name": "Tallkeep-Setup-0.26.61.exe.part1",
+      "name": "Tallkeep-Setup-0.26.62.exe.part1",
       "size": 47185920,
-      "sha256": "7634717847ddfe4b55ecd40ca3a28a788f7e6fc032575add2baa67e013ee9e5c"
+      "sha256": "4e716378d63722f423e414e303076cf6b8b09b23678682aa4c196f7c5dd95b18"
     },
     {
-      "name": "Tallkeep-Setup-0.26.61.exe.part2",
-      "size": 29716233,
-      "sha256": "e856e6c2ecd5d45585819e37bbc6163e76bc8be73f6a7837a190949504f4b3c9"
+      "name": "Tallkeep-Setup-0.26.62.exe.part2",
+      "size": 29725035,
+      "sha256": "937931fafbced244977217bab794d940c4f10acdd09f14a3254cdfec34a8a09f"
     }
   ],
   "server": {
-    "file": "tallkeep-server-0.26.61.tgz",
-    "sha256": "c191efe3d254fb7a14e4859dd210b857e0bbfdb4b508577bcd30c19866e9bf04",
-    "size": 5175435
+    "file": "tallkeep-server-0.26.62.tgz",
+    "sha256": "f7e3d8a8510020c1f4189a64c4081db2e110ef7cfdfe0de3ce5ed54a66d1f028",
+    "size": 5186087
   }
 }
